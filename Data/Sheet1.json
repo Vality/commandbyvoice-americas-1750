@@ -1,0 +1,188 @@
+{
+  "num_columns": 4,
+  "headers": [
+    "Unnamed: 0",
+    "-----",
+    "------",
+    "--------"
+  ],
+  "field_types": {
+    "Unnamed: 0": null,
+    "-----": "goods_grain_base_value",
+    "------": "粮食基础价值(coin)",
+    "--------": "2"
+  },
+  "rows": [
+    {
+      "row_number": 4,
+      "data": {
+        "Unnamed: 0": null,
+        "-----": "goods_grain_base_value",
+        "------": "Grain Base Value (coin)",
+        "--------": "2"
+      }
+    },
+    {
+      "row_number": 5,
+      "data": {
+        "Unnamed: 0": null,
+        "-----": "goods_dailygoods_base_value",
+        "------": "Daily Goods Base Value (coin)",
+        "--------": "5"
+      }
+    },
+    {
+      "row_number": 6,
+      "data": {
+        "Unnamed: 0": null,
+        "-----": "goods_metal_base_value",
+        "------": "Metal Base Value (coin)",
+        "--------": "8"
+      }
+    },
+    {
+      "row_number": 7,
+      "data": {
+        "Unnamed: 0": null,
+        "-----": "goods_tobacco_base_value",
+        "------": "Tobacco Base Value (coin)",
+        "--------": "12"
+      }
+    },
+    {
+      "row_number": 8,
+      "data": {
+        "Unnamed: 0": null,
+        "-----": "goods_sugar_base_value",
+        "------": "Sugar Base Value (coin)",
+        "--------": "15"
+      }
+    },
+    {
+      "row_number": 9,
+      "data": {
+        "Unnamed: 0": null,
+        "-----": "goods_indigo_base_value",
+        "------": "Indigo Base Value (coin)",
+        "--------": "20"
+      }
+    },
+    {
+      "row_number": 10,
+      "data": {
+        "Unnamed: 0": null,
+        "-----": "goods_cotton_base_value",
+        "------": "Cotton Base Value (coin)",
+        "--------": "10"
+      }
+    },
+    {
+      "row_number": 11,
+      "data": {
+        "Unnamed: 0": null,
+        "-----": "goods_fur_base_value",
+        "------": "Fur Base Value (coin)",
+        "--------": "25"
+      }
+    },
+    {
+      "row_number": 12,
+      "data": {
+        "Unnamed: 0": null,
+        "-----": "goods_rum_base_value",
+        "------": "Rum Base Value (coin)",
+        "--------": "18"
+      }
+    },
+    {
+      "row_number": 13,
+      "data": {
+        "Unnamed: 0": null,
+        "-----": "goods_lumber_base_value",
+        "------": "Lumber Base Value (coin)",
+        "--------": "4"
+      }
+    },
+    {
+      "row_number": 14,
+      "data": {
+        "Unnamed: 0": null,
+        "-----": "colonial_tax_rate",
+        "------": "Colonial Tax Rate (%)",
+        "--------": "15"
+      }
+    },
+    {
+      "row_number": 15,
+      "data": {
+        "Unnamed: 0": null,
+        "-----": "colonial_trade_volume",
+        "------": "Colonial Trade Volume",
+        "--------": "1000"
+      }
+    },
+    {
+      "row_number": 16,
+      "data": {
+        "Unnamed: 0": null,
+        "-----": "colonial_settler_growth",
+        "------": "Settler Growth Rate (%)",
+        "--------": "5"
+      }
+    },
+    {
+      "row_number": 17,
+      "data": {
+        "Unnamed: 0": null,
+        "-----": "colonial_militia_cap",
+        "------": "Colonial Militia Cap",
+        "--------": "5000"
+      }
+    },
+    {
+      "row_number": 18,
+      "data": {
+        "Unnamed: 0": null,
+        "-----": "colonial_frontier_unrest",
+        "------": "Frontier Unrest Baseline",
+        "--------": "20"
+      }
+    },
+    {
+      "row_number": 19,
+      "data": {
+        "Unnamed: 0": null,
+        "-----": "colonial_skill_rate",
+        "------": "Colonial Skill Rate (%)",
+        "--------": "10"
+      }
+    },
+    {
+      "row_number": 20,
+      "data": {
+        "Unnamed: 0": null,
+        "-----": "colonial_event_chance",
+        "------": "Colonial Event Chance (%)",
+        "--------": "25"
+      }
+    },
+    {
+      "row_number": 21,
+      "data": {
+        "Unnamed: 0": null,
+        "-----": "colonial_disease_rate",
+        "------": "Colonial Disease Rate (%)",
+        "--------": "8"
+      }
+    },
+    {
+      "row_number": 22,
+      "data": {
+        "Unnamed: 0": null,
+        "-----": "colonial_diplomacy_threshold",
+        "------": "Colonial Diplomacy Threshold",
+        "--------": "50"
+      }
+    }
+  ]
+}

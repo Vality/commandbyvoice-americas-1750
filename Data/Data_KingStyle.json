@@ -1,0 +1,14 @@
+{
+    "num_columns": 3,
+    "headers": [
+        "Style",
+        "NeedPoint",
+        "StyleResult"
+    ],
+    "field_types": {
+        "Style": "string",
+        "NeedPoint": "string",
+        "StyleResult": "string"
+    },
+    "rows": []
+}

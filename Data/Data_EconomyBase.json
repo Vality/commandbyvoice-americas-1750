@@ -1,0 +1,623 @@
+{
+    "num_columns": 7,
+    "headers": [
+        "GameYears",
+        "IncomeBase_Strong",
+        "CostBase_Strong",
+        "IncomeBase_Medium",
+        "CostBase_Medium",
+        "IncomeBase_Weak",
+        "CostBase_Weak"
+    ],
+    "field_types": {
+        "GameYears": "int",
+        "IncomeBase_Strong": "int",
+        "CostBase_Strong": "int",
+        "IncomeBase_Medium": "int",
+        "CostBase_Medium": "int",
+        "IncomeBase_Weak": "int",
+        "CostBase_Weak": "int"
+    },
+    "rows": [
+        {
+            "row_number": 4,
+            "data": {
+                "GameYears": "1",
+                "IncomeBase_Strong": "508156",
+                "CostBase_Strong": "406525",
+                "IncomeBase_Medium": "452813",
+                "CostBase_Medium": "362250",
+                "IncomeBase_Weak": "327031",
+                "CostBase_Weak": "261625"
+            }
+        },
+        {
+            "row_number": 5,
+            "data": {
+                "GameYears": "2",
+                "IncomeBase_Strong": "558972",
+                "CostBase_Strong": "447178",
+                "IncomeBase_Medium": "498094",
+                "CostBase_Medium": "398475",
+                "IncomeBase_Weak": "359734",
+                "CostBase_Weak": "287787"
+            }
+        },
+        {
+            "row_number": 6,
+            "data": {
+                "GameYears": "3",
+                "IncomeBase_Strong": "614869",
+                "CostBase_Strong": "491895",
+                "IncomeBase_Medium": "547903",
+                "CostBase_Medium": "438322",
+                "IncomeBase_Weak": "395708",
+                "CostBase_Weak": "316566"
+            }
+        },
+        {
+            "row_number": 7,
+            "data": {
+                "GameYears": "4",
+                "IncomeBase_Strong": "703410",
+                "CostBase_Strong": "562728",
+                "IncomeBase_Medium": "626801",
+                "CostBase_Medium": "501441",
+                "IncomeBase_Weak": "452690",
+                "CostBase_Weak": "362152"
+            }
+        },
+        {
+            "row_number": 8,
+            "data": {
+                "GameYears": "5",
+                "IncomeBase_Strong": "773751",
+                "CostBase_Strong": "619001",
+                "IncomeBase_Medium": "689481",
+                "CostBase_Medium": "551585",
+                "IncomeBase_Weak": "497959",
+                "CostBase_Weak": "398367"
+            }
+        },
+        {
+            "row_number": 9,
+            "data": {
+                "GameYears": "6",
+                "IncomeBase_Strong": "1047540",
+                "CostBase_Strong": "838032",
+                "IncomeBase_Medium": "933452",
+                "CostBase_Medium": "746762",
+                "IncomeBase_Weak": "674159",
+                "CostBase_Weak": "539327"
+            }
+        },
+        {
+            "row_number": 10,
+            "data": {
+                "GameYears": "7",
+                "IncomeBase_Strong": "1152294",
+                "CostBase_Strong": "921835",
+                "IncomeBase_Medium": "1026797",
+                "CostBase_Medium": "821438",
+                "IncomeBase_Weak": "741575",
+                "CostBase_Weak": "593260"
+            }
+        },
+        {
+            "row_number": 11,
+            "data": {
+                "GameYears": "8",
+                "IncomeBase_Strong": "1267524",
+                "CostBase_Strong": "1014019",
+                "IncomeBase_Medium": "1129476",
+                "CostBase_Medium": "903581",
+                "IncomeBase_Weak": "815733",
+                "CostBase_Weak": "652586"
+            }
+        },
+        {
+            "row_number": 12,
+            "data": {
+                "GameYears": "9",
+                "IncomeBase_Strong": "1394276",
+                "CostBase_Strong": "1115421",
+                "IncomeBase_Medium": "1242424",
+                "CostBase_Medium": "993939",
+                "IncomeBase_Weak": "897306",
+                "CostBase_Weak": "717845"
+            }
+        },
+        {
+            "row_number": 13,
+            "data": {
+                "GameYears": "10",
+                "IncomeBase_Strong": "1533703",
+                "CostBase_Strong": "1226962",
+                "IncomeBase_Medium": "1366666",
+                "CostBase_Medium": "1093333",
+                "IncomeBase_Weak": "987037",
+                "CostBase_Weak": "789630"
+            }
+        },
+        {
+            "row_number": 14,
+            "data": {
+                "GameYears": "11",
+                "IncomeBase_Strong": "1687074",
+                "CostBase_Strong": "1349659",
+                "IncomeBase_Medium": "1503333",
+                "CostBase_Medium": "1202666",
+                "IncomeBase_Weak": "1085741",
+                "CostBase_Weak": "868593"
+            }
+        },
+        {
+            "row_number": 15,
+            "data": {
+                "GameYears": "12",
+                "IncomeBase_Strong": "1855781",
+                "CostBase_Strong": "1484625",
+                "IncomeBase_Medium": "1653666",
+                "CostBase_Medium": "1322933",
+                "IncomeBase_Weak": "1194315",
+                "CostBase_Weak": "955452"
+            }
+        },
+        {
+            "row_number": 16,
+            "data": {
+                "GameYears": "13",
+                "IncomeBase_Strong": "2103488",
+                "CostBase_Strong": "1682790",
+                "IncomeBase_Medium": "1874395",
+                "CostBase_Medium": "1499516",
+                "IncomeBase_Weak": "1353730",
+                "CostBase_Weak": "1082984"
+            }
+        },
+        {
+            "row_number": 17,
+            "data": {
+                "GameYears": "14",
+                "IncomeBase_Strong": "2964603",
+                "CostBase_Strong": "2371682",
+                "IncomeBase_Medium": "2641725",
+                "CostBase_Medium": "2113380",
+                "IncomeBase_Weak": "1907913",
+                "CostBase_Weak": "1526330"
+            }
+        },
+        {
+            "row_number": 18,
+            "data": {
+                "GameYears": "15",
+                "IncomeBase_Strong": "3261063",
+                "CostBase_Strong": "2608850",
+                "IncomeBase_Medium": "2905898",
+                "CostBase_Medium": "2324718",
+                "IncomeBase_Weak": "2098704",
+                "CostBase_Weak": "1678963"
+            }
+        },
+        {
+            "row_number": 19,
+            "data": {
+                "GameYears": "16",
+                "IncomeBase_Strong": "3587170",
+                "CostBase_Strong": "2869736",
+                "IncomeBase_Medium": "3196488",
+                "CostBase_Medium": "2557190",
+                "IncomeBase_Weak": "2308574",
+                "CostBase_Weak": "1846859"
+            }
+        },
+        {
+            "row_number": 20,
+            "data": {
+                "GameYears": "17",
+                "IncomeBase_Strong": "3945887",
+                "CostBase_Strong": "3156710",
+                "IncomeBase_Medium": "3516137",
+                "CostBase_Medium": "2812910",
+                "IncomeBase_Weak": "2539432",
+                "CostBase_Weak": "2031546"
+            }
+        },
+        {
+            "row_number": 21,
+            "data": {
+                "GameYears": "18",
+                "IncomeBase_Strong": "4340475",
+                "CostBase_Strong": "3472380",
+                "IncomeBase_Medium": "3867750",
+                "CostBase_Medium": "3094200",
+                "IncomeBase_Weak": "2793375",
+                "CostBase_Weak": "2234700"
+            }
+        },
+        {
+            "row_number": 22,
+            "data": {
+                "GameYears": "19",
+                "IncomeBase_Strong": "4774523",
+                "CostBase_Strong": "3819618",
+                "IncomeBase_Medium": "4254525",
+                "CostBase_Medium": "3403620",
+                "IncomeBase_Weak": "3072713",
+                "CostBase_Weak": "2458170"
+            }
+        },
+        {
+            "row_number": 23,
+            "data": {
+                "GameYears": "20",
+                "IncomeBase_Strong": "5327953",
+                "CostBase_Strong": "4262362",
+                "IncomeBase_Medium": "4747681",
+                "CostBase_Medium": "3798145",
+                "IncomeBase_Weak": "3428881",
+                "CostBase_Weak": "2743105"
+            }
+        },
+        {
+            "row_number": 24,
+            "data": {
+                "GameYears": "21",
+                "IncomeBase_Strong": "6640788",
+                "CostBase_Strong": "5312630",
+                "IncomeBase_Medium": "5917534",
+                "CostBase_Medium": "4734027",
+                "IncomeBase_Weak": "4273775",
+                "CostBase_Weak": "3419020"
+            }
+        },
+        {
+            "row_number": 25,
+            "data": {
+                "GameYears": "22",
+                "IncomeBase_Strong": "8591933",
+                "CostBase_Strong": "6873546",
+                "IncomeBase_Medium": "7656178",
+                "CostBase_Medium": "6124942",
+                "IncomeBase_Weak": "5529462",
+                "CostBase_Weak": "4423570"
+            }
+        },
+        {
+            "row_number": 26,
+            "data": {
+                "GameYears": "23",
+                "IncomeBase_Strong": "9451127",
+                "CostBase_Strong": "7560902",
+                "IncomeBase_Medium": "8421796",
+                "CostBase_Medium": "6737437",
+                "IncomeBase_Weak": "6082408",
+                "CostBase_Weak": "4865926"
+            }
+        },
+        {
+            "row_number": 27,
+            "data": {
+                "GameYears": "24",
+                "IncomeBase_Strong": "10563098",
+                "CostBase_Strong": "8450478",
+                "IncomeBase_Medium": "9412662",
+                "CostBase_Medium": "7530130",
+                "IncomeBase_Weak": "6798034",
+                "CostBase_Weak": "5438427"
+            }
+        },
+        {
+            "row_number": 28,
+            "data": {
+                "GameYears": "25",
+                "IncomeBase_Strong": "11619408",
+                "CostBase_Strong": "9295526",
+                "IncomeBase_Medium": "10353928",
+                "CostBase_Medium": "8283142",
+                "IncomeBase_Weak": "7477837",
+                "CostBase_Weak": "5982270"
+            }
+        },
+        {
+            "row_number": 29,
+            "data": {
+                "GameYears": "26",
+                "IncomeBase_Strong": "12781349",
+                "CostBase_Strong": "10225079",
+                "IncomeBase_Medium": "11389321",
+                "CostBase_Medium": "9111457",
+                "IncomeBase_Weak": "8225621",
+                "CostBase_Weak": "6580497"
+            }
+        },
+        {
+            "row_number": 30,
+            "data": {
+                "GameYears": "27",
+                "IncomeBase_Strong": "14290827",
+                "CostBase_Strong": "11432662",
+                "IncomeBase_Medium": "12734400",
+                "CostBase_Medium": "10187520",
+                "IncomeBase_Weak": "9197067",
+                "CostBase_Weak": "7357654"
+            }
+        },
+        {
+            "row_number": 31,
+            "data": {
+                "GameYears": "28",
+                "IncomeBase_Strong": "15974387",
+                "CostBase_Strong": "12779510",
+                "IncomeBase_Medium": "14234602",
+                "CostBase_Medium": "11387682",
+                "IncomeBase_Weak": "10280546",
+                "CostBase_Weak": "8224437"
+            }
+        },
+        {
+            "row_number": 32,
+            "data": {
+                "GameYears": "29",
+                "IncomeBase_Strong": "17571826",
+                "CostBase_Strong": "14057461",
+                "IncomeBase_Medium": "15658062",
+                "CostBase_Medium": "12526450",
+                "IncomeBase_Weak": "11308601",
+                "CostBase_Weak": "9046881"
+            }
+        },
+        {
+            "row_number": 33,
+            "data": {
+                "GameYears": "30",
+                "IncomeBase_Strong": "19329008",
+                "CostBase_Strong": "15463206",
+                "IncomeBase_Medium": "17223869",
+                "CostBase_Medium": "13779095",
+                "IncomeBase_Weak": "12439461",
+                "CostBase_Weak": "9951569"
+            }
+        },
+        {
+            "row_number": 34,
+            "data": {
+                "GameYears": "31",
+                "IncomeBase_Strong": "26966324",
+                "CostBase_Strong": "21573059",
+                "IncomeBase_Medium": "24029397",
+                "CostBase_Medium": "19223518",
+                "IncomeBase_Weak": "17354565",
+                "CostBase_Weak": "13883652"
+            }
+        },
+        {
+            "row_number": 35,
+            "data": {
+                "GameYears": "32",
+                "IncomeBase_Strong": "29662956",
+                "CostBase_Strong": "23730365",
+                "IncomeBase_Medium": "26432337",
+                "CostBase_Medium": "21145870",
+                "IncomeBase_Weak": "19090021",
+                "CostBase_Weak": "15272017"
+            }
+        },
+        {
+            "row_number": 36,
+            "data": {
+                "GameYears": "33",
+                "IncomeBase_Strong": "32629252",
+                "CostBase_Strong": "26103402",
+                "IncomeBase_Medium": "29075571",
+                "CostBase_Medium": "23260457",
+                "IncomeBase_Weak": "20999023",
+                "CostBase_Weak": "16799218"
+            }
+        },
+        {
+            "row_number": 37,
+            "data": {
+                "GameYears": "34",
+                "IncomeBase_Strong": "35892177",
+                "CostBase_Strong": "28713742",
+                "IncomeBase_Medium": "31983128",
+                "CostBase_Medium": "25586502",
+                "IncomeBase_Weak": "23098926",
+                "CostBase_Weak": "18479141"
+            }
+        },
+        {
+            "row_number": 38,
+            "data": {
+                "GameYears": "35",
+                "IncomeBase_Strong": "40085188",
+                "CostBase_Strong": "32068150",
+                "IncomeBase_Medium": "35719475",
+                "CostBase_Medium": "28575580",
+                "IncomeBase_Weak": "25797398",
+                "CostBase_Weak": "20637918"
+            }
+        },
+        {
+            "row_number": 39,
+            "data": {
+                "GameYears": "36",
+                "IncomeBase_Strong": "44093707",
+                "CostBase_Strong": "35274966",
+                "IncomeBase_Medium": "39291422",
+                "CostBase_Medium": "31433138",
+                "IncomeBase_Weak": "28377138",
+                "CostBase_Weak": "22701710"
+            }
+        },
+        {
+            "row_number": 40,
+            "data": {
+                "GameYears": "37",
+                "IncomeBase_Strong": "53020873",
+                "CostBase_Strong": "42416698",
+                "IncomeBase_Medium": "47246323",
+                "CostBase_Medium": "37797058",
+                "IncomeBase_Weak": "34122344",
+                "CostBase_Weak": "27297875"
+            }
+        },
+        {
+            "row_number": 41,
+            "data": {
+                "GameYears": "38",
+                "IncomeBase_Strong": "59224490",
+                "CostBase_Strong": "47379592",
+                "IncomeBase_Medium": "52774298",
+                "CostBase_Medium": "42219438",
+                "IncomeBase_Weak": "38114771",
+                "CostBase_Weak": "30491817"
+            }
+        },
+        {
+            "row_number": 42,
+            "data": {
+                "GameYears": "39",
+                "IncomeBase_Strong": "65146939",
+                "CostBase_Strong": "52117551",
+                "IncomeBase_Medium": "58051728",
+                "CostBase_Medium": "46441382",
+                "IncomeBase_Weak": "41926248",
+                "CostBase_Weak": "33540998"
+            }
+        },
+        {
+            "row_number": 43,
+            "data": {
+                "GameYears": "40",
+                "IncomeBase_Strong": "72752484",
+                "CostBase_Strong": "58201987",
+                "IncomeBase_Medium": "64828946",
+                "CostBase_Medium": "51863157",
+                "IncomeBase_Weak": "46820906",
+                "CostBase_Weak": "37456725"
+            }
+        },
+        {
+            "row_number": 44,
+            "data": {
+                "GameYears": "41",
+                "IncomeBase_Strong": "80027733",
+                "CostBase_Strong": "64022186",
+                "IncomeBase_Medium": "71311841",
+                "CostBase_Medium": "57049473",
+                "IncomeBase_Weak": "51502996",
+                "CostBase_Weak": "41202397"
+            }
+        },
+        {
+            "row_number": 45,
+            "data": {
+                "GameYears": "42",
+                "IncomeBase_Strong": "89350435",
+                "CostBase_Strong": "71480348",
+                "IncomeBase_Medium": "79619200",
+                "CostBase_Medium": "63695360",
+                "IncomeBase_Weak": "57502755",
+                "CostBase_Weak": "46002204"
+            }
+        },
+        {
+            "row_number": 46,
+            "data": {
+                "GameYears": "43",
+                "IncomeBase_Strong": "98285479",
+                "CostBase_Strong": "78628383",
+                "IncomeBase_Medium": "87581120",
+                "CostBase_Medium": "70064896",
+                "IncomeBase_Weak": "63253031",
+                "CostBase_Weak": "50602425"
+            }
+        },
+        {
+            "row_number": 47,
+            "data": {
+                "GameYears": "44",
+                "IncomeBase_Strong": "108114027",
+                "CostBase_Strong": "86491222",
+                "IncomeBase_Medium": "96339232",
+                "CostBase_Medium": "77071386",
+                "IncomeBase_Weak": "69578334",
+                "CostBase_Weak": "55662667"
+            }
+        },
+        {
+            "row_number": 48,
+            "data": {
+                "GameYears": "45",
+                "IncomeBase_Strong": "118925429",
+                "CostBase_Strong": "95140343",
+                "IncomeBase_Medium": "105973155",
+                "CostBase_Medium": "84778524",
+                "IncomeBase_Weak": "76536167",
+                "CostBase_Weak": "61228934"
+            }
+        },
+        {
+            "row_number": 49,
+            "data": {
+                "GameYears": "46",
+                "IncomeBase_Strong": "161531981",
+                "CostBase_Strong": "129225585",
+                "IncomeBase_Medium": "143939389",
+                "CostBase_Medium": "115151511",
+                "IncomeBase_Weak": "103956226",
+                "CostBase_Weak": "83164981"
+            }
+        },
+        {
+            "row_number": 50,
+            "data": {
+                "GameYears": "47",
+                "IncomeBase_Strong": "177685179",
+                "CostBase_Strong": "142148143",
+                "IncomeBase_Medium": "158333328",
+                "CostBase_Medium": "126666662",
+                "IncomeBase_Weak": "114351848",
+                "CostBase_Weak": "91481478"
+            }
+        },
+        {
+            "row_number": 51,
+            "data": {
+                "GameYears": "48",
+                "IncomeBase_Strong": "197792033",
+                "CostBase_Strong": "158233626",
+                "IncomeBase_Medium": "176250327",
+                "CostBase_Medium": "141000262",
+                "IncomeBase_Weak": "127291903",
+                "CostBase_Weak": "101833522"
+            }
+        },
+        {
+            "row_number": 52,
+            "data": {
+                "GameYears": "49",
+                "IncomeBase_Strong": "236639586",
+                "CostBase_Strong": "189311669",
+                "IncomeBase_Medium": "210866958",
+                "CostBase_Medium": "168693566",
+                "IncomeBase_Weak": "152292803",
+                "CostBase_Weak": "121834242"
+            }
+        },
+        {
+            "row_number": 53,
+            "data": {
+                "GameYears": "50",
+                "IncomeBase_Strong": "277657114",
+                "CostBase_Strong": "222125691",
+                "IncomeBase_Medium": "247417230",
+                "CostBase_Medium": "197933784",
+                "IncomeBase_Weak": "178690222",
+                "CostBase_Weak": "142952178"
+            }
+        }
+    ]
+}

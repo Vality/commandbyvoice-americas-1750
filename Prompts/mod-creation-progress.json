@@ -1,0 +1,19 @@
+{
+  "modId": "mod_20260810055229_949bff",
+  "mapSha256": "1038325c257a425351c49777647491f9f9bc4999b1ae4826012c46772bceafa6",
+  "countryCount": 11,
+  "provinceCount": 45,
+  "mapDraftReady": true,
+  "aiBriefReady": true,
+  "agentLaunchHandled": true,
+  "localValidationPassed": false,
+  "localValidationRequested": true,
+  "prePublishCheckPassed": true,
+  "quickDataCheckFailed": false,
+  "prePublishWarningsAcknowledged": false,
+  "prePublishContentFingerprint": "46129efac0e5008b8d3437cbdda51bff4013a02b7cdfd3e04c92498de893aa45",
+  "workshopId": 0,
+  "workshopStatus": null,
+  "lastValidationSummary": "数据快速检查通过",
+  "updatedUtcTicks": 639220053598748758
+}

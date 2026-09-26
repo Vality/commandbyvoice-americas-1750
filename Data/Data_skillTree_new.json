@@ -1,0 +1,1385 @@
+{
+    "num_columns": 13,
+    "headers": [
+        "skillID",
+        "CivilizationID",
+        "skillName",
+        "description",
+        "iconPath",
+        "maxLevel",
+        "pointsPerLevel",
+        "prerequisiteIDs",
+        "effectType",
+        "targetResource",
+        "parameter1",
+        "layer",
+        "positionInLayer"
+    ],
+    "field_types": {
+        "skillID": "int",
+        "CivilizationID": "int",
+        "skillName": "string",
+        "description": "string",
+        "iconPath": "string",
+        "maxLevel": "int",
+        "pointsPerLevel": "int",
+        "prerequisiteIDs": "int",
+        "effectType": "string",
+        "targetResource": "string",
+        "parameter1": "float",
+        "layer": "int",
+        "positionInLayer": "int"
+    },
+    "rows": [
+        {
+            "row_number": 4,
+            "data": {
+                "skillID": 1101,
+                "CivilizationID": 10100,
+                "skillName": "ECO - Crop Rotation Charter",
+                "description": "MoneyManager plus BuildingProductionSystem: farm output stability rises, food production efficiency increases each level.",
+                "iconPath": "SkillIcons/food_efficiency_1",
+                "maxLevel": 5,
+                "pointsPerLevel": 1,
+                "prerequisiteIDs": 0,
+                "effectType": "ResourceProductionEfficiency",
+                "targetResource": "food",
+                "parameter1": 0.05,
+                "layer": 0,
+                "positionInLayer": 0
+            }
+        },
+        {
+            "row_number": 5,
+            "data": {
+                "skillID": 1102,
+                "CivilizationID": 10100,
+                "skillName": "ECO - Timber Lot Registry",
+                "description": "Standardized logging quotas improve upstream material flow for the full building chain and raise wood production efficiency.",
+                "iconPath": "SkillIcons/wood_efficiency_1",
+                "maxLevel": 5,
+                "pointsPerLevel": 1,
+                "prerequisiteIDs": 1101,
+                "effectType": "ResourceProductionEfficiency",
+                "targetResource": "wood",
+                "parameter1": 0.05,
+                "layer": 1,
+                "positionInLayer": 1
+            }
+        },
+        {
+            "row_number": 6,
+            "data": {
+                "skillID": 1103,
+                "CivilizationID": 10100,
+                "skillName": "ECO - Village Granary Network",
+                "description": "Regional granary standards reduce spoilage and increase strategic reserves for crises and war preparation.",
+                "iconPath": "SkillIcons/food_storage",
+                "maxLevel": 5,
+                "pointsPerLevel": 2,
+                "prerequisiteIDs": 1102,
+                "effectType": "ResourceMaxCapacity",
+                "targetResource": "food",
+                "parameter1": 260.0,
+                "layer": 2,
+                "positionInLayer": 2
+            }
+        },
+        {
+            "row_number": 7,
+            "data": {
+                "skillID": 1104,
+                "CivilizationID": 10100,
+                "skillName": "ECO - Workshop Time Ledger",
+                "description": "BuildingProductionSystem production cycle optimization: productSec is reduced for farm and residence pipelines.",
+                "iconPath": "SkillIcons/book_efficiency",
+                "maxLevel": 4,
+                "pointsPerLevel": 2,
+                "prerequisiteIDs": 1103,
+                "effectType": "BuildingProductionCycleReduction",
+                "targetResource": "farm_residence",
+                "parameter1": 0.03,
+                "layer": 3,
+                "positionInLayer": 3
+            }
+        },
+        {
+            "row_number": 8,
+            "data": {
+                "skillID": 1105,
+                "CivilizationID": 10100,
+                "skillName": "ECO - Caravan Permit Route",
+                "description": "CountryTrade and transporter scheduling both improve, raising transport throughput for internal and external exchange.",
+                "iconPath": "SkillIcons/transport_speed",
+                "maxLevel": 5,
+                "pointsPerLevel": 3,
+                "prerequisiteIDs": 1104,
+                "effectType": "TransportSpeed",
+                "targetResource": "land",
+                "parameter1": 0.04,
+                "layer": 4,
+                "positionInLayer": 4
+            }
+        },
+        {
+            "row_number": 9,
+            "data": {
+                "skillID": 1106,
+                "CivilizationID": 10100,
+                "skillName": "MIL - Militia Enrollment",
+                "description": "Base militia framework increases soldier combat power and improves early conflict survivability.",
+                "iconPath": "SkillIcons/soldier_power_1",
+                "maxLevel": 5,
+                "pointsPerLevel": 1,
+                "prerequisiteIDs": 0,
+                "effectType": "SoldierCombatPower",
+                "targetResource": "land",
+                "parameter1": 0.04,
+                "layer": 0,
+                "positionInLayer": 6
+            }
+        },
+        {
+            "row_number": 10,
+            "data": {
+                "skillID": 1107,
+                "CivilizationID": 10100,
+                "skillName": "MIL - Drill Yard Discipline",
+                "description": "BattleManager march preparation discipline reduces movement disorder and increases march speed.",
+                "iconPath": "SkillIcons/march_speed",
+                "maxLevel": 5,
+                "pointsPerLevel": 2,
+                "prerequisiteIDs": 1106,
+                "effectType": "MarchSpeed",
+                "targetResource": "land",
+                "parameter1": 0.03,
+                "layer": 1,
+                "positionInLayer": 7
+            }
+        },
+        {
+            "row_number": 11,
+            "data": {
+                "skillID": 1108,
+                "CivilizationID": 10100,
+                "skillName": "MIL - Frontier Supply Stacks",
+                "description": "MoneyManager military upkeep pressure is reduced by better stock accounting and quartermaster routines.",
+                "iconPath": "SkillIcons/coin_efficiency",
+                "maxLevel": 4,
+                "pointsPerLevel": 2,
+                "prerequisiteIDs": 1107,
+                "effectType": "ArmyMaintenanceCostReduction",
+                "targetResource": "soldier",
+                "parameter1": 0.04,
+                "layer": 2,
+                "positionInLayer": 8
+            }
+        },
+        {
+            "row_number": 12,
+            "data": {
+                "skillID": 1109,
+                "CivilizationID": 10100,
+                "skillName": "MIL - Barracks Rotation Manual",
+                "description": "BuildingProductionSystem barracks output rhythm improves through shorter training turnaround windows.",
+                "iconPath": "SkillIcons/soldier_power_1",
+                "maxLevel": 4,
+                "pointsPerLevel": 3,
+                "prerequisiteIDs": 1108,
+                "effectType": "BarracksTrainingSpeed",
+                "targetResource": "barracks",
+                "parameter1": 0.05,
+                "layer": 3,
+                "positionInLayer": 9
+            }
+        },
+        {
+            "row_number": 13,
+            "data": {
+                "skillID": 1110,
+                "CivilizationID": 10100,
+                "skillName": "MIL - Bronze Era Field Tactics",
+                "description": "BattleManager distance defense from target terrain is partially bypassed by better scouting and approach plans.",
+                "iconPath": "SkillIcons/soldier_power_2",
+                "maxLevel": 5,
+                "pointsPerLevel": 3,
+                "prerequisiteIDs": 1109,
+                "effectType": "DistanceDefenseBypass",
+                "targetResource": "battle_distance",
+                "parameter1": 0.06,
+                "layer": 4,
+                "positionInLayer": 10
+            }
+        },
+        {
+            "row_number": 14,
+            "data": {
+                "skillID": 1111,
+                "CivilizationID": 10100,
+                "skillName": "GOV - Census Bamboo Archive",
+                "description": "SocialClassManager commoner confidence rises with transparent census records and fair obligations.",
+                "iconPath": "SkillIcons/book_efficiency",
+                "maxLevel": 4,
+                "pointsPerLevel": 1,
+                "prerequisiteIDs": 0,
+                "effectType": "SocialClassSatisfactionGain",
+                "targetResource": "commoner",
+                "parameter1": 1.5,
+                "layer": 0,
+                "positionInLayer": 12
+            }
+        },
+        {
+            "row_number": 15,
+            "data": {
+                "skillID": 1112,
+                "CivilizationID": 10100,
+                "skillName": "GOV - Secretariat Workflows",
+                "description": "OfficialManager staffing bandwidth improves by adding practical appointment capacity and duty segmentation.",
+                "iconPath": "SkillIcons/book_efficiency",
+                "maxLevel": 3,
+                "pointsPerLevel": 2,
+                "prerequisiteIDs": 1111,
+                "effectType": "OfficialAppointmentCapacity",
+                "targetResource": "official",
+                "parameter1": 1.0,
+                "layer": 1,
+                "positionInLayer": 13
+            }
+        },
+        {
+            "row_number": 16,
+            "data": {
+                "skillID": 1113,
+                "CivilizationID": 10100,
+                "skillName": "GOV - Tax Exposure Edict",
+                "description": "Anti-rent-seeking audits lower corruption momentum and improve trust in fiscal collection.",
+                "iconPath": "SkillIcons/coin_efficiency",
+                "maxLevel": 4,
+                "pointsPerLevel": 2,
+                "prerequisiteIDs": 1112,
+                "effectType": "CorruptionGrowthReduction",
+                "targetResource": "corruption",
+                "parameter1": 0.05,
+                "layer": 2,
+                "positionInLayer": 14
+            }
+        },
+        {
+            "row_number": 17,
+            "data": {
+                "skillID": 1114,
+                "CivilizationID": 10100,
+                "skillName": "GOV - Court Ritual Prestige",
+                "description": "Country prestige growth improves through ritual diplomacy, ceremonial legitimacy, and soft power projection.",
+                "iconPath": "SkillIcons/coin_efficiency",
+                "maxLevel": 4,
+                "pointsPerLevel": 3,
+                "prerequisiteIDs": 1113,
+                "effectType": "PrestigeGrowthBonus",
+                "targetResource": "prestige",
+                "parameter1": 0.06,
+                "layer": 3,
+                "positionInLayer": 15
+            }
+        },
+        {
+            "row_number": 18,
+            "data": {
+                "skillID": 1115,
+                "CivilizationID": 10100,
+                "skillName": "GOV - Mediation Circuit Courts",
+                "description": "SocialClassManager rebellion base risk is reduced via faster mediation and grievance resolution channels.",
+                "iconPath": "SkillIcons/book_efficiency",
+                "maxLevel": 5,
+                "pointsPerLevel": 4,
+                "prerequisiteIDs": 1114,
+                "effectType": "RebellionBaseRateReduction",
+                "targetResource": "social",
+                "parameter1": 0.07,
+                "layer": 4,
+                "positionInLayer": 16
+            }
+        },
+        {
+            "row_number": 19,
+            "data": {
+                "skillID": 1201,
+                "CivilizationID": 10200,
+                "skillName": "ECO - State Directed Mining",
+                "description": "Empire scale extraction planning raises mine productivity and stabilizes strategic stone supply.",
+                "iconPath": "SkillIcons/stone_efficiency_1",
+                "maxLevel": 5,
+                "pointsPerLevel": 2,
+                "prerequisiteIDs": 1105,
+                "effectType": "ResourceProductionEfficiency",
+                "targetResource": "stone",
+                "parameter1": 0.06,
+                "layer": 0,
+                "positionInLayer": 0
+            }
+        },
+        {
+            "row_number": 20,
+            "data": {
+                "skillID": 1202,
+                "CivilizationID": 10200,
+                "skillName": "ECO - Imperial Mint Reform",
+                "description": "Unified mint standards increase coin throughput and reduce transactional friction across provinces.",
+                "iconPath": "SkillIcons/coin_efficiency",
+                "maxLevel": 5,
+                "pointsPerLevel": 2,
+                "prerequisiteIDs": 1201,
+                "effectType": "ResourceProductionEfficiency",
+                "targetResource": "coin",
+                "parameter1": 0.06,
+                "layer": 1,
+                "positionInLayer": 1
+            }
+        },
+        {
+            "row_number": 21,
+            "data": {
+                "skillID": 1203,
+                "CivilizationID": 10200,
+                "skillName": "ECO - Market Tax Harmonization",
+                "description": "MoneyManager and trade loops gain from coherent tariffs, improving net commercial conversion.",
+                "iconPath": "SkillIcons/coin_efficiency",
+                "maxLevel": 4,
+                "pointsPerLevel": 3,
+                "prerequisiteIDs": 1202,
+                "effectType": "MarketTradeTaxBonus",
+                "targetResource": "market",
+                "parameter1": 0.08,
+                "layer": 2,
+                "positionInLayer": 2
+            }
+        },
+        {
+            "row_number": 22,
+            "data": {
+                "skillID": 1204,
+                "CivilizationID": 10200,
+                "skillName": "ECO - Regional Warehousing Bureaus",
+                "description": "BuildingProductionSystem queue capacity rises, reducing transporter congestion in market and bank hubs.",
+                "iconPath": "SkillIcons/wood_storage",
+                "maxLevel": 4,
+                "pointsPerLevel": 3,
+                "prerequisiteIDs": 1203,
+                "effectType": "BuildingQueueCapacityBonus",
+                "targetResource": "market_bank",
+                "parameter1": 2.0,
+                "layer": 3,
+                "positionInLayer": 3
+            }
+        },
+        {
+            "row_number": 23,
+            "data": {
+                "skillID": 1205,
+                "CivilizationID": 10200,
+                "skillName": "ECO - Academy Grant Program",
+                "description": "Academy and research ecosystem quality improve, accelerating knowledge growth for later eras.",
+                "iconPath": "SkillIcons/book_efficiency",
+                "maxLevel": 5,
+                "pointsPerLevel": 4,
+                "prerequisiteIDs": 1204,
+                "effectType": "ResourceProductionEfficiency",
+                "targetResource": "book",
+                "parameter1": 0.07,
+                "layer": 4,
+                "positionInLayer": 4
+            }
+        },
+        {
+            "row_number": 24,
+            "data": {
+                "skillID": 1206,
+                "CivilizationID": 10200,
+                "skillName": "MIL - Professional Standing Army",
+                "description": "Permanent regiment doctrine provides reliable frontline quality and increases combat power.",
+                "iconPath": "SkillIcons/soldier_power_1",
+                "maxLevel": 5,
+                "pointsPerLevel": 2,
+                "prerequisiteIDs": 1110,
+                "effectType": "SoldierCombatPower",
+                "targetResource": "land",
+                "parameter1": 0.06,
+                "layer": 0,
+                "positionInLayer": 6
+            }
+        },
+        {
+            "row_number": 25,
+            "data": {
+                "skillID": 1207,
+                "CivilizationID": 10200,
+                "skillName": "MIL - Horse Relay Command",
+                "description": "Empire messenger relay and mounted command raise strategic repositioning speed.",
+                "iconPath": "SkillIcons/march_speed",
+                "maxLevel": 5,
+                "pointsPerLevel": 3,
+                "prerequisiteIDs": 1206,
+                "effectType": "MarchSpeed",
+                "targetResource": "land",
+                "parameter1": 0.05,
+                "layer": 1,
+                "positionInLayer": 7
+            }
+        },
+        {
+            "row_number": 26,
+            "data": {
+                "skillID": 1208,
+                "CivilizationID": 10200,
+                "skillName": "MIL - Siege Corps Doctrine",
+                "description": "Specialized engineer detachments improve assault efficiency against fortified enemies.",
+                "iconPath": "SkillIcons/soldier_power_2",
+                "maxLevel": 4,
+                "pointsPerLevel": 3,
+                "prerequisiteIDs": 1207,
+                "effectType": "SiegeEfficiency",
+                "targetResource": "fortified_target",
+                "parameter1": 0.08,
+                "layer": 2,
+                "positionInLayer": 8
+            }
+        },
+        {
+            "row_number": 27,
+            "data": {
+                "skillID": 1209,
+                "CivilizationID": 10200,
+                "skillName": "MIL - Quartermaster Ledger Bureau",
+                "description": "Supply loss and overconsumption are reduced, lowering long campaign attrition.",
+                "iconPath": "SkillIcons/transport_speed",
+                "maxLevel": 4,
+                "pointsPerLevel": 4,
+                "prerequisiteIDs": 1208,
+                "effectType": "SupplyConsumptionReduction",
+                "targetResource": "army_supply",
+                "parameter1": 0.07,
+                "layer": 3,
+                "positionInLayer": 9
+            }
+        },
+        {
+            "row_number": 28,
+            "data": {
+                "skillID": 1210,
+                "CivilizationID": 10200,
+                "skillName": "MIL - Banner Discipline Code",
+                "description": "BattleManager pre-engagement failure risk is lowered through prestige framing and discipline display.",
+                "iconPath": "SkillIcons/soldier_power_2",
+                "maxLevel": 5,
+                "pointsPerLevel": 4,
+                "prerequisiteIDs": 1209,
+                "effectType": "AttackFailChanceReduction",
+                "targetResource": "battle_start",
+                "parameter1": 0.08,
+                "layer": 4,
+                "positionInLayer": 10
+            }
+        },
+        {
+            "row_number": 29,
+            "data": {
+                "skillID": 1211,
+                "CivilizationID": 10200,
+                "skillName": "GOV - Merit Exam Expansion",
+                "description": "OfficialManager recruitment quality and candidate filtering improve governance baseline capability.",
+                "iconPath": "SkillIcons/book_efficiency",
+                "maxLevel": 5,
+                "pointsPerLevel": 2,
+                "prerequisiteIDs": 1115,
+                "effectType": "OfficialRecruitQualityBonus",
+                "targetResource": "official",
+                "parameter1": 0.1,
+                "layer": 0,
+                "positionInLayer": 12
+            }
+        },
+        {
+            "row_number": 30,
+            "data": {
+                "skillID": 1212,
+                "CivilizationID": 10200,
+                "skillName": "GOV - Provincial Audit Circuit",
+                "description": "Cross-region audit offices reduce local corruption accumulation and leakages.",
+                "iconPath": "SkillIcons/coin_efficiency",
+                "maxLevel": 5,
+                "pointsPerLevel": 3,
+                "prerequisiteIDs": 1211,
+                "effectType": "CorruptionGrowthReduction",
+                "targetResource": "corruption",
+                "parameter1": 0.08,
+                "layer": 1,
+                "positionInLayer": 13
+            }
+        },
+        {
+            "row_number": 31,
+            "data": {
+                "skillID": 1213,
+                "CivilizationID": 10200,
+                "skillName": "GOV - Merchant Charter Convention",
+                "description": "NpcActionManager and alliance relations benefit from stronger commerce diplomacy momentum.",
+                "iconPath": "SkillIcons/coin_efficiency",
+                "maxLevel": 4,
+                "pointsPerLevel": 3,
+                "prerequisiteIDs": 1212,
+                "effectType": "DiplomaticFriendshipGain",
+                "targetResource": "merchant_diplomacy",
+                "parameter1": 0.08,
+                "layer": 2,
+                "positionInLayer": 14
+            }
+        },
+        {
+            "row_number": 32,
+            "data": {
+                "skillID": 1214,
+                "CivilizationID": 10200,
+                "skillName": "GOV - Class Arbitration Council",
+                "description": "SocialClassManager influence gaps are smoothed, reducing sudden class polarization spikes.",
+                "iconPath": "SkillIcons/book_efficiency",
+                "maxLevel": 4,
+                "pointsPerLevel": 4,
+                "prerequisiteIDs": 1213,
+                "effectType": "ClassInfluenceBalance",
+                "targetResource": "social",
+                "parameter1": 0.07,
+                "layer": 3,
+                "positionInLayer": 15
+            }
+        },
+        {
+            "row_number": 33,
+            "data": {
+                "skillID": 1215,
+                "CivilizationID": 10200,
+                "skillName": "GOV - Border Intelligence Office",
+                "description": "NpcActionManager aggression pressure on player sphere is reduced via deterrence signaling.",
+                "iconPath": "SkillIcons/book_efficiency",
+                "maxLevel": 5,
+                "pointsPerLevel": 5,
+                "prerequisiteIDs": 1214,
+                "effectType": "NPCDeterrenceAura",
+                "targetResource": "npc_border",
+                "parameter1": 0.08,
+                "layer": 4,
+                "positionInLayer": 16
+            }
+        },
+        {
+            "row_number": 34,
+            "data": {
+                "skillID": 1301,
+                "CivilizationID": 10300,
+                "skillName": "ECO - Steam Sawmill Grid",
+                "description": "Industrial saw lines add direct output on top of percentage bonuses in wood processing centers.",
+                "iconPath": "SkillIcons/wood_efficiency_2",
+                "maxLevel": 5,
+                "pointsPerLevel": 3,
+                "prerequisiteIDs": 1205,
+                "effectType": "BuildingOutputFlatBonus",
+                "targetResource": "woodmill",
+                "parameter1": 3.0,
+                "layer": 0,
+                "positionInLayer": 0
+            }
+        },
+        {
+            "row_number": 35,
+            "data": {
+                "skillID": 1302,
+                "CivilizationID": 10300,
+                "skillName": "ECO - Chemical Fertilizer Program",
+                "description": "Food chain modernization increases agricultural efficiency under high population pressure.",
+                "iconPath": "SkillIcons/food_efficiency_2",
+                "maxLevel": 5,
+                "pointsPerLevel": 3,
+                "prerequisiteIDs": 1301,
+                "effectType": "ResourceProductionEfficiency",
+                "targetResource": "food",
+                "parameter1": 0.08,
+                "layer": 1,
+                "positionInLayer": 1
+            }
+        },
+        {
+            "row_number": 36,
+            "data": {
+                "skillID": 1303,
+                "CivilizationID": 10300,
+                "skillName": "ECO - Rail Freight Backbone",
+                "description": "Transport corridors unify inland logistics and improve building-to-building throughput.",
+                "iconPath": "SkillIcons/transport_speed",
+                "maxLevel": 5,
+                "pointsPerLevel": 4,
+                "prerequisiteIDs": 1302,
+                "effectType": "TransportSpeed",
+                "targetResource": "land",
+                "parameter1": 0.06,
+                "layer": 2,
+                "positionInLayer": 2
+            }
+        },
+        {
+            "row_number": 37,
+            "data": {
+                "skillID": 1304,
+                "CivilizationID": 10300,
+                "skillName": "ECO - Credit Clearing Houses",
+                "description": "TradeRelation and market dynamics amplify profit conversion from international exchange.",
+                "iconPath": "SkillIcons/coin_efficiency",
+                "maxLevel": 4,
+                "pointsPerLevel": 4,
+                "prerequisiteIDs": 1303,
+                "effectType": "TradeBonusAmplifier",
+                "targetResource": "trade",
+                "parameter1": 0.1,
+                "layer": 3,
+                "positionInLayer": 3
+            }
+        },
+        {
+            "row_number": 38,
+            "data": {
+                "skillID": 1305,
+                "CivilizationID": 10300,
+                "skillName": "ECO - Public Schooling Expansion",
+                "description": "Academy pipeline raises book output and supports long horizon state development.",
+                "iconPath": "SkillIcons/book_efficiency",
+                "maxLevel": 5,
+                "pointsPerLevel": 5,
+                "prerequisiteIDs": 1304,
+                "effectType": "ResourceProductionEfficiency",
+                "targetResource": "book",
+                "parameter1": 0.09,
+                "layer": 4,
+                "positionInLayer": 4
+            }
+        },
+        {
+            "row_number": 39,
+            "data": {
+                "skillID": 1306,
+                "CivilizationID": 10300,
+                "skillName": "MIL - Rifled Infantry Standard",
+                "description": "Ranged lethality doctrine lifts soldier combat power in sustained battles.",
+                "iconPath": "SkillIcons/soldier_power_1",
+                "maxLevel": 5,
+                "pointsPerLevel": 3,
+                "prerequisiteIDs": 1210,
+                "effectType": "SoldierCombatPower",
+                "targetResource": "land",
+                "parameter1": 0.08,
+                "layer": 0,
+                "positionInLayer": 6
+            }
+        },
+        {
+            "row_number": 40,
+            "data": {
+                "skillID": 1307,
+                "CivilizationID": 10300,
+                "skillName": "MIL - General Staff Mapping",
+                "description": "Route planning and staging discipline increase campaign march speed.",
+                "iconPath": "SkillIcons/march_speed",
+                "maxLevel": 5,
+                "pointsPerLevel": 4,
+                "prerequisiteIDs": 1306,
+                "effectType": "MarchSpeed",
+                "targetResource": "land",
+                "parameter1": 0.06,
+                "layer": 1,
+                "positionInLayer": 7
+            }
+        },
+        {
+            "row_number": 41,
+            "data": {
+                "skillID": 1308,
+                "CivilizationID": 10300,
+                "skillName": "MIL - Artillery Fire Control",
+                "description": "BattleManager damage spread narrows toward favorable outcomes through better fire calibration.",
+                "iconPath": "SkillIcons/soldier_power_2",
+                "maxLevel": 4,
+                "pointsPerLevel": 4,
+                "prerequisiteIDs": 1307,
+                "effectType": "DamageVarianceControl",
+                "targetResource": "battle_damage",
+                "parameter1": 0.1,
+                "layer": 2,
+                "positionInLayer": 8
+            }
+        },
+        {
+            "row_number": 42,
+            "data": {
+                "skillID": 1309,
+                "CivilizationID": 10300,
+                "skillName": "MIL - Field Hospital Corps",
+                "description": "Post-battle manpower retention and force regeneration improve over successive engagements.",
+                "iconPath": "SkillIcons/human_efficiency",
+                "maxLevel": 4,
+                "pointsPerLevel": 5,
+                "prerequisiteIDs": 1308,
+                "effectType": "CasualtyRecoveryRate",
+                "targetResource": "soldier",
+                "parameter1": 0.1,
+                "layer": 3,
+                "positionInLayer": 9
+            }
+        },
+        {
+            "row_number": 43,
+            "data": {
+                "skillID": 1310,
+                "CivilizationID": 10300,
+                "skillName": "MIL - War Bond Treasury",
+                "description": "MoneyManager upkeep burden is offset by war financing instruments and expenditure smoothing.",
+                "iconPath": "SkillIcons/coin_efficiency",
+                "maxLevel": 5,
+                "pointsPerLevel": 5,
+                "prerequisiteIDs": 1309,
+                "effectType": "ArmyMaintenanceCostReduction",
+                "targetResource": "soldier",
+                "parameter1": 0.08,
+                "layer": 4,
+                "positionInLayer": 10
+            }
+        },
+        {
+            "row_number": 44,
+            "data": {
+                "skillID": 1311,
+                "CivilizationID": 10300,
+                "skillName": "GOV - Professional Civil Service",
+                "description": "OfficialManager retention and loyalty decay improve under formal career administration.",
+                "iconPath": "SkillIcons/book_efficiency",
+                "maxLevel": 4,
+                "pointsPerLevel": 3,
+                "prerequisiteIDs": 1215,
+                "effectType": "OfficialLoyaltyDecayReduction",
+                "targetResource": "official",
+                "parameter1": 0.1,
+                "layer": 0,
+                "positionInLayer": 12
+            }
+        },
+        {
+            "row_number": 45,
+            "data": {
+                "skillID": 1312,
+                "CivilizationID": 10300,
+                "skillName": "GOV - Labor Rights Compromise",
+                "description": "SocialClassManager commoner and merchant satisfaction rises through labor settlement institutions.",
+                "iconPath": "SkillIcons/human_efficiency",
+                "maxLevel": 4,
+                "pointsPerLevel": 4,
+                "prerequisiteIDs": 1311,
+                "effectType": "SocialClassSatisfactionGain",
+                "targetResource": "commoner_merchant",
+                "parameter1": 2.0,
+                "layer": 1,
+                "positionInLayer": 13
+            }
+        },
+        {
+            "row_number": 46,
+            "data": {
+                "skillID": 1313,
+                "CivilizationID": 10300,
+                "skillName": "GOV - National Press Bureau",
+                "description": "NpcAction and internal shock handling improve by reducing panic amplification in crises.",
+                "iconPath": "SkillIcons/book_efficiency",
+                "maxLevel": 4,
+                "pointsPerLevel": 4,
+                "prerequisiteIDs": 1312,
+                "effectType": "InternalEventRiskReduction",
+                "targetResource": "internal_event",
+                "parameter1": 0.1,
+                "layer": 2,
+                "positionInLayer": 14
+            }
+        },
+        {
+            "row_number": 47,
+            "data": {
+                "skillID": 1314,
+                "CivilizationID": 10300,
+                "skillName": "GOV - Integrated Census Engine",
+                "description": "Control stability gains from better visibility of taxable and governable populations.",
+                "iconPath": "SkillIcons/coin_efficiency",
+                "maxLevel": 4,
+                "pointsPerLevel": 5,
+                "prerequisiteIDs": 1313,
+                "effectType": "ControlStabilityBonus",
+                "targetResource": "control",
+                "parameter1": 0.08,
+                "layer": 3,
+                "positionInLayer": 15
+            }
+        },
+        {
+            "row_number": 48,
+            "data": {
+                "skillID": 1315,
+                "CivilizationID": 10300,
+                "skillName": "GOV - Diplomatic Corps Reform",
+                "description": "Alliance proposal quality and treaty closure rates improve through professional envoys.",
+                "iconPath": "SkillIcons/book_efficiency",
+                "maxLevel": 5,
+                "pointsPerLevel": 6,
+                "prerequisiteIDs": 1314,
+                "effectType": "AllianceProposalSuccess",
+                "targetResource": "diplomacy",
+                "parameter1": 0.1,
+                "layer": 4,
+                "positionInLayer": 16
+            }
+        },
+        {
+            "row_number": 49,
+            "data": {
+                "skillID": 1401,
+                "CivilizationID": 10400,
+                "skillName": "ECO - Sensor Driven Agriculture",
+                "description": "Precision cultivation raises food output efficiency while reducing volatility from shocks.",
+                "iconPath": "SkillIcons/food_efficiency_2",
+                "maxLevel": 5,
+                "pointsPerLevel": 4,
+                "prerequisiteIDs": 1305,
+                "effectType": "ResourceProductionEfficiency",
+                "targetResource": "food",
+                "parameter1": 0.1,
+                "layer": 0,
+                "positionInLayer": 0
+            }
+        },
+        {
+            "row_number": 50,
+            "data": {
+                "skillID": 1402,
+                "CivilizationID": 10400,
+                "skillName": "ECO - Automated Warehouse Mesh",
+                "description": "High fidelity storage management expands strategic reserves across key resource pools.",
+                "iconPath": "SkillIcons/wood_storage",
+                "maxLevel": 4,
+                "pointsPerLevel": 4,
+                "prerequisiteIDs": 1401,
+                "effectType": "ResourceMaxCapacity",
+                "targetResource": "all_core_resources",
+                "parameter1": 900.0,
+                "layer": 1,
+                "positionInLayer": 1
+            }
+        },
+        {
+            "row_number": 51,
+            "data": {
+                "skillID": 1403,
+                "CivilizationID": 10400,
+                "skillName": "ECO - Algorithmic Revenue Model",
+                "description": "Tax and market intelligence improve coin generation efficiency in dynamic economies.",
+                "iconPath": "SkillIcons/coin_efficiency",
+                "maxLevel": 5,
+                "pointsPerLevel": 5,
+                "prerequisiteIDs": 1402,
+                "effectType": "ResourceProductionEfficiency",
+                "targetResource": "coin",
+                "parameter1": 0.1,
+                "layer": 2,
+                "positionInLayer": 2
+            }
+        },
+        {
+            "row_number": 52,
+            "data": {
+                "skillID": 1404,
+                "CivilizationID": 10400,
+                "skillName": "ECO - Research Cloud Fabric",
+                "description": "Research institute collaboration boosts knowledge generation and innovation throughput.",
+                "iconPath": "SkillIcons/book_efficiency",
+                "maxLevel": 4,
+                "pointsPerLevel": 5,
+                "prerequisiteIDs": 1403,
+                "effectType": "ResearchInstituteOutputMultiplier",
+                "targetResource": "research",
+                "parameter1": 0.12,
+                "layer": 3,
+                "positionInLayer": 3
+            }
+        },
+        {
+            "row_number": 53,
+            "data": {
+                "skillID": 1405,
+                "CivilizationID": 10400,
+                "skillName": "ECO - Supply Chain AI Scheduler",
+                "description": "BuildingProductionSystem dispatch intervals shrink, reducing logistics idle time.",
+                "iconPath": "SkillIcons/transport_speed",
+                "maxLevel": 5,
+                "pointsPerLevel": 6,
+                "prerequisiteIDs": 1404,
+                "effectType": "TransportDispatchIntervalReduction",
+                "targetResource": "transport_network",
+                "parameter1": 0.1,
+                "layer": 4,
+                "positionInLayer": 4
+            }
+        },
+        {
+            "row_number": 54,
+            "data": {
+                "skillID": 1406,
+                "CivilizationID": 10400,
+                "skillName": "MIL - Network Centric Operations",
+                "description": "Battlefield data fusion improves soldier combat effectiveness under multi-front pressure.",
+                "iconPath": "SkillIcons/soldier_power_1",
+                "maxLevel": 5,
+                "pointsPerLevel": 4,
+                "prerequisiteIDs": 1310,
+                "effectType": "SoldierCombatPower",
+                "targetResource": "land",
+                "parameter1": 0.1,
+                "layer": 0,
+                "positionInLayer": 6
+            }
+        },
+        {
+            "row_number": 55,
+            "data": {
+                "skillID": 1407,
+                "CivilizationID": 10400,
+                "skillName": "MIL - Satellite Route Guidance",
+                "description": "Strategic and tactical movement accuracy improves, increasing march speed.",
+                "iconPath": "SkillIcons/march_speed",
+                "maxLevel": 5,
+                "pointsPerLevel": 5,
+                "prerequisiteIDs": 1406,
+                "effectType": "MarchSpeed",
+                "targetResource": "land",
+                "parameter1": 0.08,
+                "layer": 1,
+                "positionInLayer": 7
+            }
+        },
+        {
+            "row_number": 56,
+            "data": {
+                "skillID": 1408,
+                "CivilizationID": 10400,
+                "skillName": "MIL - Drone Supply Columns",
+                "description": "Autonomous logistics expands campaign endurance and transport responsiveness.",
+                "iconPath": "SkillIcons/transport_speed",
+                "maxLevel": 5,
+                "pointsPerLevel": 5,
+                "prerequisiteIDs": 1407,
+                "effectType": "TransportSpeed",
+                "targetResource": "land",
+                "parameter1": 0.08,
+                "layer": 2,
+                "positionInLayer": 8
+            }
+        },
+        {
+            "row_number": 57,
+            "data": {
+                "skillID": 1409,
+                "CivilizationID": 10400,
+                "skillName": "MIL - Electronic Warfare Cells",
+                "description": "Enemy distance and fortification advantages are further neutralized before engagement.",
+                "iconPath": "SkillIcons/soldier_power_2",
+                "maxLevel": 4,
+                "pointsPerLevel": 6,
+                "prerequisiteIDs": 1408,
+                "effectType": "DistanceDefenseBypass",
+                "targetResource": "battle_distance",
+                "parameter1": 0.1,
+                "layer": 3,
+                "positionInLayer": 9
+            }
+        },
+        {
+            "row_number": 58,
+            "data": {
+                "skillID": 1410,
+                "CivilizationID": 10400,
+                "skillName": "MIL - Precision Strike Doctrine",
+                "description": "Operational strike coordination improves siege efficiency and key target neutralization.",
+                "iconPath": "SkillIcons/soldier_power_2",
+                "maxLevel": 5,
+                "pointsPerLevel": 6,
+                "prerequisiteIDs": 1409,
+                "effectType": "SiegeEfficiency",
+                "targetResource": "fortified_target",
+                "parameter1": 0.12,
+                "layer": 4,
+                "positionInLayer": 10
+            }
+        },
+        {
+            "row_number": 59,
+            "data": {
+                "skillID": 1411,
+                "CivilizationID": 10400,
+                "skillName": "GOV - Digital Cabinet Platform",
+                "description": "OfficialManager can sustain broader role specialization with expanded appointment slots.",
+                "iconPath": "SkillIcons/book_efficiency",
+                "maxLevel": 4,
+                "pointsPerLevel": 4,
+                "prerequisiteIDs": 1315,
+                "effectType": "OfficialAppointmentCapacity",
+                "targetResource": "official",
+                "parameter1": 1.0,
+                "layer": 0,
+                "positionInLayer": 12
+            }
+        },
+        {
+            "row_number": 60,
+            "data": {
+                "skillID": 1412,
+                "CivilizationID": 10400,
+                "skillName": "GOV - Social Sentiment Twin",
+                "description": "SocialClassManager tension decays faster through proactive grievance monitoring.",
+                "iconPath": "SkillIcons/human_efficiency",
+                "maxLevel": 4,
+                "pointsPerLevel": 5,
+                "prerequisiteIDs": 1411,
+                "effectType": "SocialClassTensionDecay",
+                "targetResource": "social",
+                "parameter1": 0.12,
+                "layer": 1,
+                "positionInLayer": 13
+            }
+        },
+        {
+            "row_number": 61,
+            "data": {
+                "skillID": 1413,
+                "CivilizationID": 10400,
+                "skillName": "GOV - Anti Corruption Analytics",
+                "description": "Corruption growth slows through continuous anomaly detection and audit automation.",
+                "iconPath": "SkillIcons/coin_efficiency",
+                "maxLevel": 5,
+                "pointsPerLevel": 5,
+                "prerequisiteIDs": 1412,
+                "effectType": "CorruptionGrowthReduction",
+                "targetResource": "corruption",
+                "parameter1": 0.12,
+                "layer": 2,
+                "positionInLayer": 14
+            }
+        },
+        {
+            "row_number": 62,
+            "data": {
+                "skillID": 1414,
+                "CivilizationID": 10400,
+                "skillName": "GOV - Narrative Diplomacy Engine",
+                "description": "NpcActionManager trade and diplomatic acceptance improves via strategic communication.",
+                "iconPath": "SkillIcons/coin_efficiency",
+                "maxLevel": 4,
+                "pointsPerLevel": 6,
+                "prerequisiteIDs": 1413,
+                "effectType": "NPCTradeAcceptance",
+                "targetResource": "npc_trade",
+                "parameter1": 0.1,
+                "layer": 3,
+                "positionInLayer": 15
+            }
+        },
+        {
+            "row_number": 63,
+            "data": {
+                "skillID": 1415,
+                "CivilizationID": 10400,
+                "skillName": "GOV - National Crisis Simulator",
+                "description": "Random event outcomes skew positive by pre-trained contingency planning.",
+                "iconPath": "SkillIcons/book_efficiency",
+                "maxLevel": 5,
+                "pointsPerLevel": 7,
+                "prerequisiteIDs": 1414,
+                "effectType": "RandomEventPositiveWeight",
+                "targetResource": "event_system",
+                "parameter1": 0.12,
+                "layer": 4,
+                "positionInLayer": 16
+            }
+        },
+        {
+            "row_number": 64,
+            "data": {
+                "skillID": 1501,
+                "CivilizationID": 10500,
+                "skillName": "ECO - Autonomous Extraction Swarms",
+                "description": "Self managed mining fleets raise stone output under extreme demand conditions.",
+                "iconPath": "SkillIcons/stone_efficiency_2",
+                "maxLevel": 5,
+                "pointsPerLevel": 5,
+                "prerequisiteIDs": 1405,
+                "effectType": "ResourceProductionEfficiency",
+                "targetResource": "stone",
+                "parameter1": 0.12,
+                "layer": 0,
+                "positionInLayer": 0
+            }
+        },
+        {
+            "row_number": 65,
+            "data": {
+                "skillID": 1502,
+                "CivilizationID": 10500,
+                "skillName": "ECO - Synthetic Food Webs",
+                "description": "Biofabrication food loops dramatically increase sustainable food production efficiency.",
+                "iconPath": "SkillIcons/food_efficiency_2",
+                "maxLevel": 5,
+                "pointsPerLevel": 5,
+                "prerequisiteIDs": 1501,
+                "effectType": "ResourceProductionEfficiency",
+                "targetResource": "food",
+                "parameter1": 0.12,
+                "layer": 1,
+                "positionInLayer": 1
+            }
+        },
+        {
+            "row_number": 66,
+            "data": {
+                "skillID": 1503,
+                "CivilizationID": 10500,
+                "skillName": "ECO - Quantum Finance Fabric",
+                "description": "Ultra low latency clearing improves coin generation and capital circulation.",
+                "iconPath": "SkillIcons/coin_efficiency",
+                "maxLevel": 5,
+                "pointsPerLevel": 6,
+                "prerequisiteIDs": 1502,
+                "effectType": "ResourceProductionEfficiency",
+                "targetResource": "coin",
+                "parameter1": 0.12,
+                "layer": 2,
+                "positionInLayer": 2
+            }
+        },
+        {
+            "row_number": 67,
+            "data": {
+                "skillID": 1504,
+                "CivilizationID": 10500,
+                "skillName": "ECO - Neural Academy Constellation",
+                "description": "Learning acceleration networks provide exceptional book production scaling.",
+                "iconPath": "SkillIcons/book_efficiency",
+                "maxLevel": 5,
+                "pointsPerLevel": 6,
+                "prerequisiteIDs": 1503,
+                "effectType": "ResourceProductionEfficiency",
+                "targetResource": "book",
+                "parameter1": 0.13,
+                "layer": 3,
+                "positionInLayer": 3
+            }
+        },
+        {
+            "row_number": 68,
+            "data": {
+                "skillID": 1505,
+                "CivilizationID": 10500,
+                "skillName": "ECO - Post Scarcity Production Grid",
+                "description": "Adaptive factories cut production cycle times across all homeland building lines.",
+                "iconPath": "SkillIcons/transport_speed",
+                "maxLevel": 5,
+                "pointsPerLevel": 7,
+                "prerequisiteIDs": 1504,
+                "effectType": "BuildingProductionCycleReduction",
+                "targetResource": "all_buildings",
+                "parameter1": 0.15,
+                "layer": 4,
+                "positionInLayer": 4
+            }
+        },
+        {
+            "row_number": 69,
+            "data": {
+                "skillID": 1506,
+                "CivilizationID": 10500,
+                "skillName": "MIL - Swarm Command Core",
+                "description": "Autonomous tactical mesh substantially increases soldier combat power.",
+                "iconPath": "SkillIcons/soldier_power_1",
+                "maxLevel": 5,
+                "pointsPerLevel": 5,
+                "prerequisiteIDs": 1410,
+                "effectType": "SoldierCombatPower",
+                "targetResource": "land",
+                "parameter1": 0.12,
+                "layer": 0,
+                "positionInLayer": 6
+            }
+        },
+        {
+            "row_number": 70,
+            "data": {
+                "skillID": 1507,
+                "CivilizationID": 10500,
+                "skillName": "MIL - Hyper Mobility Protocol",
+                "description": "Cross domain maneuver orchestration further increases strategic march speed.",
+                "iconPath": "SkillIcons/march_speed",
+                "maxLevel": 5,
+                "pointsPerLevel": 6,
+                "prerequisiteIDs": 1506,
+                "effectType": "MarchSpeed",
+                "targetResource": "land",
+                "parameter1": 0.1,
+                "layer": 1,
+                "positionInLayer": 7
+            }
+        },
+        {
+            "row_number": 71,
+            "data": {
+                "skillID": 1508,
+                "CivilizationID": 10500,
+                "skillName": "MIL - Self Healing Logistics",
+                "description": "Adaptive repair and routing pushes transport reliability and speed to late game levels.",
+                "iconPath": "SkillIcons/transport_speed",
+                "maxLevel": 5,
+                "pointsPerLevel": 6,
+                "prerequisiteIDs": 1507,
+                "effectType": "TransportSpeed",
+                "targetResource": "land",
+                "parameter1": 0.1,
+                "layer": 2,
+                "positionInLayer": 8
+            }
+        },
+        {
+            "row_number": 72,
+            "data": {
+                "skillID": 1509,
+                "CivilizationID": 10500,
+                "skillName": "MIL - Quantum Deterrence Matrix",
+                "description": "Battle opening failure risk sharply drops through prestige and deterrence dominance.",
+                "iconPath": "SkillIcons/soldier_power_2",
+                "maxLevel": 4,
+                "pointsPerLevel": 7,
+                "prerequisiteIDs": 1508,
+                "effectType": "AttackFailChanceReduction",
+                "targetResource": "battle_start",
+                "parameter1": 0.14,
+                "layer": 3,
+                "positionInLayer": 9
+            }
+        },
+        {
+            "row_number": 73,
+            "data": {
+                "skillID": 1510,
+                "CivilizationID": 10500,
+                "skillName": "MIL - Orbital War Theater AI",
+                "description": "Multi-front force allocation and battle planning gain a major strategic uplift.",
+                "iconPath": "SkillIcons/soldier_power_2",
+                "maxLevel": 5,
+                "pointsPerLevel": 7,
+                "prerequisiteIDs": 1509,
+                "effectType": "LegionForceAllocationBonus",
+                "targetResource": "legion",
+                "parameter1": 0.15,
+                "layer": 4,
+                "positionInLayer": 10
+            }
+        },
+        {
+            "row_number": 74,
+            "data": {
+                "skillID": 1511,
+                "CivilizationID": 10500,
+                "skillName": "GOV - Augmented Bureaucracy",
+                "description": "OfficialManager candidate processing and office competence accelerate at empire scale.",
+                "iconPath": "SkillIcons/book_efficiency",
+                "maxLevel": 5,
+                "pointsPerLevel": 5,
+                "prerequisiteIDs": 1415,
+                "effectType": "OfficialRecruitQualityBonus",
+                "targetResource": "official",
+                "parameter1": 0.15,
+                "layer": 0,
+                "positionInLayer": 12
+            }
+        },
+        {
+            "row_number": 75,
+            "data": {
+                "skillID": 1512,
+                "CivilizationID": 10500,
+                "skillName": "GOV - Dynamic Class Governance",
+                "description": "SocialClassManager adaptive policy loops raise broad class satisfaction each cycle.",
+                "iconPath": "SkillIcons/human_efficiency",
+                "maxLevel": 4,
+                "pointsPerLevel": 6,
+                "prerequisiteIDs": 1511,
+                "effectType": "SocialClassSatisfactionGain",
+                "targetResource": "all_classes",
+                "parameter1": 2.5,
+                "layer": 1,
+                "positionInLayer": 13
+            }
+        },
+        {
+            "row_number": 76,
+            "data": {
+                "skillID": 1513,
+                "CivilizationID": 10500,
+                "skillName": "GOV - Predictive Stability Net",
+                "description": "Rebellion probability baseline is heavily reduced by predictive intervention systems.",
+                "iconPath": "SkillIcons/book_efficiency",
+                "maxLevel": 5,
+                "pointsPerLevel": 6,
+                "prerequisiteIDs": 1512,
+                "effectType": "RebellionBaseRateReduction",
+                "targetResource": "social",
+                "parameter1": 0.15,
+                "layer": 2,
+                "positionInLayer": 14
+            }
+        },
+        {
+            "row_number": 77,
+            "data": {
+                "skillID": 1514,
+                "CivilizationID": 10500,
+                "skillName": "GOV - Holographic Diplomacy",
+                "description": "NpcActionManager relation gains and treaty trust are strengthened across regions.",
+                "iconPath": "SkillIcons/coin_efficiency",
+                "maxLevel": 4,
+                "pointsPerLevel": 7,
+                "prerequisiteIDs": 1513,
+                "effectType": "DiplomaticFriendshipGain",
+                "targetResource": "diplomacy",
+                "parameter1": 0.14,
+                "layer": 3,
+                "positionInLayer": 15
+            }
+        },
+        {
+            "row_number": 78,
+            "data": {
+                "skillID": 1515,
+                "CivilizationID": 10500,
+                "skillName": "GOV - Civilization Protocol Engine",
+                "description": "Strategic deterrence aura lowers hostile NPC initiation rates in the endgame.",
+                "iconPath": "SkillIcons/book_efficiency",
+                "maxLevel": 5,
+                "pointsPerLevel": 8,
+                "prerequisiteIDs": 1514,
+                "effectType": "NPCDeterrenceAura",
+                "targetResource": "npc_global",
+                "parameter1": 0.15,
+                "layer": 4,
+                "positionInLayer": 16
+            }
+        }
+    ]
+}

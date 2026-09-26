@@ -1,0 +1,14 @@
+{
+    "num_columns": 3,
+    "headers": [
+        "steamID",
+        "useless_remark",
+        "useless_addDate"
+    ],
+    "field_types": {
+        "steamID": "string",
+        "useless_remark": "string",
+        "useless_addDate": "string"
+    },
+    "rows": []
+}

@@ -1,0 +1,2528 @@
+{
+    "num_columns": 4,
+    "headers": [
+        "key",
+        "useless_system",
+        "useless_remark",
+        "value"
+    ],
+    "field_types": {
+        "key": "string",
+        "useless_system": "string",
+        "useless_remark": "string",
+        "value": "string"
+    },
+    "rows": [
+        {
+            "row_number": 4,
+            "data": {
+                "key": "rebellionCheckInterval",
+                "useless_system": "阶层系统",
+                "useless_remark": "叛乱检查间隔",
+                "value": "1"
+            }
+        },
+        {
+            "row_number": 5,
+            "data": {
+                "key": "rebellionBaseRate",
+                "useless_system": "阶层系统",
+                "useless_remark": "叛乱基础率",
+                "value": "0.12"
+            }
+        },
+        {
+            "row_number": 6,
+            "data": {
+                "key": "satisfactionLowThreshold",
+                "useless_system": "阶层系统",
+                "useless_remark": "满意度低阈值",
+                "value": "10"
+            }
+        },
+        {
+            "row_number": 7,
+            "data": {
+                "key": "satisfactionCriticalThreshold",
+                "useless_system": "阶层系统",
+                "useless_remark": "满意度临界阈值",
+                "value": "20"
+            }
+        },
+        {
+            "row_number": 8,
+            "data": {
+                "key": "influenceHighThreshold",
+                "useless_system": "阶层系统",
+                "useless_remark": "影响高阈值",
+                "value": "80"
+            }
+        },
+        {
+            "row_number": 9,
+            "data": {
+                "key": "specialBurstBonus",
+                "useless_system": "阶层系统",
+                "useless_remark": "特殊爆发奖励",
+                "value": "0.05"
+            }
+        },
+        {
+            "row_number": 10,
+            "data": {
+                "key": "soldierMaintenanceCost",
+                "useless_system": "经济系统",
+                "useless_remark": "单兵年维护费用（coin）",
+                "value": "0.36"
+            }
+        },
+        {
+            "row_number": 11,
+            "data": {
+                "key": "emperorEraNameKey",
+                "useless_system": "年份显示",
+                "useless_remark": "帝号多语言 key",
+                "value": "Emperor_Era_Name"
+            }
+        },
+        {
+            "row_number": 12,
+            "data": {
+                "key": "gameStartYear",
+                "useless_system": "年份显示",
+                "useless_remark": "游戏开始年份（用于计算帝号年数）",
+                "value": "1750"
+            }
+        },
+        {
+            "row_number": 13,
+            "data": {
+                "key": "useEmperorEraDisplay",
+                "useless_system": "年份显示",
+                "useless_remark": "是否用年号显示，true表示年号，false表示公元记年",
+                "value": "False"
+            }
+        },
+        {
+            "row_number": 14,
+            "data": {
+                "key": "defaultGameStartYear",
+                "useless_system": "游戏时间",
+                "useless_remark": "新游戏默认起始年份",
+                "value": "1750"
+            }
+        },
+        {
+            "row_number": 15,
+            "data": {
+                "key": "haremFavorInterval",
+                "useless_system": "后宫",
+                "useless_remark": "宠爱机会增加间隔年数",
+                "value": "2"
+            }
+        },
+        {
+            "row_number": 16,
+            "data": {
+                "key": "haremFavorLoyaltyMin",
+                "useless_system": "后宫",
+                "useless_remark": "宠爱增加忠诚最小值",
+                "value": "3"
+            }
+        },
+        {
+            "row_number": 17,
+            "data": {
+                "key": "haremFavorLoyaltyMax",
+                "useless_system": "后宫",
+                "useless_remark": "宠爱增加忠诚最大值",
+                "value": "8"
+            }
+        },
+        {
+            "row_number": 18,
+            "data": {
+                "key": "haremFavorInfluenceMin",
+                "useless_system": "后宫",
+                "useless_remark": "宠爱增加影响力最小值",
+                "value": "2"
+            }
+        },
+        {
+            "row_number": 19,
+            "data": {
+                "key": "haremFavorInfluenceMax",
+                "useless_system": "后宫",
+                "useless_remark": "宠爱增加影响力最大值",
+                "value": "6"
+            }
+        },
+        {
+            "row_number": 20,
+            "data": {
+                "key": "haremLoyaltyMin",
+                "useless_system": "后宫",
+                "useless_remark": "忠诚值下限",
+                "value": "1"
+            }
+        },
+        {
+            "row_number": 21,
+            "data": {
+                "key": "haremLoyaltyMax",
+                "useless_system": "后宫",
+                "useless_remark": "忠诚值上限",
+                "value": "100"
+            }
+        },
+        {
+            "row_number": 22,
+            "data": {
+                "key": "haremInfluenceMin",
+                "useless_system": "后宫",
+                "useless_remark": "影响力下限",
+                "value": "1"
+            }
+        },
+        {
+            "row_number": 23,
+            "data": {
+                "key": "haremInfluenceMax",
+                "useless_system": "后宫",
+                "useless_remark": "影响力上限",
+                "value": "100"
+            }
+        },
+        {
+            "row_number": 24,
+            "data": {
+                "key": "haremBaseInfluenceEmpress",
+                "useless_system": "后宫",
+                "useless_remark": "皇后基础影响力",
+                "value": "40"
+            }
+        },
+        {
+            "row_number": 25,
+            "data": {
+                "key": "haremBaseInfluenceZhaoyi",
+                "useless_system": "后宫",
+                "useless_remark": "昭仪基础影响力",
+                "value": "25"
+            }
+        },
+        {
+            "row_number": 26,
+            "data": {
+                "key": "haremBaseInfluenceMeiren",
+                "useless_system": "后宫",
+                "useless_remark": "美人基础影响力",
+                "value": "15"
+            }
+        },
+        {
+            "row_number": 27,
+            "data": {
+                "key": "haremBaseInfluenceLiangren",
+                "useless_system": "后宫",
+                "useless_remark": "良人基础影响力",
+                "value": "5"
+            }
+        },
+        {
+            "row_number": 28,
+            "data": {
+                "key": "haremInterferenceBaseRate",
+                "useless_system": "后宫",
+                "useless_remark": "外戚干政基础概率",
+                "value": "0.01"
+            }
+        },
+        {
+            "row_number": 29,
+            "data": {
+                "key": "primaryIndustryMinRatio",
+                "useless_system": "产业",
+                "useless_remark": "第一产业最低占比，低于此值无法新增第二产业",
+                "value": "0.6"
+            }
+        },
+        {
+            "row_number": 30,
+            "data": {
+                "key": "secondaryIndustryMinRatio",
+                "useless_system": "产业",
+                "useless_remark": "第二产业最低占比，低于此值无法新增第三产业",
+                "value": "0.2"
+            }
+        },
+        {
+            "row_number": 31,
+            "data": {
+                "key": "voronoiBattle_baseDamage",
+                "useless_system": "Voronoi 战斗",
+                "useless_remark": "军团遭遇战每回合基础伤害（双方各自随机 baseDamage ~ baseDamage+damageRange）",
+                "value": "28500"
+            }
+        },
+        {
+            "row_number": 32,
+            "data": {
+                "key": "voronoiBattle_damageRange",
+                "useless_system": "Voronoi 战斗",
+                "useless_remark": "军团遭遇战伤害浮动范围（最终伤害 = Random (baseDamage, baseDamage+damageRange)）",
+                "value": "8000"
+            }
+        },
+        {
+            "row_number": 33,
+            "data": {
+                "key": "voronoiBattle_battleInterval",
+                "useless_system": "Voronoi 战斗",
+                "useless_remark": "军团遭遇战每回合间隔（秒）",
+                "value": "3"
+            }
+        },
+        {
+            "row_number": 34,
+            "data": {
+                "key": "voronoiBattle_soldiersPerOccupy",
+                "useless_system": "Voronoi 战斗",
+                "useless_remark": "占领一个行省消耗的兵力",
+                "value": "0"
+            }
+        },
+        {
+            "row_number": 35,
+            "data": {
+                "key": "voronoiBattle_occupyDuration",
+                "useless_system": "Voronoi 战斗",
+                "useless_remark": "占领一个行省的耗时（秒）",
+                "value": "10"
+            }
+        },
+        {
+            "row_number": 36,
+            "data": {
+                "key": "soldier_annual_maintenance_coin",
+                "useless_system": "年度经济",
+                "useless_remark": "单兵年度维护费用（coin）",
+                "value": "0.22"
+            }
+        },
+        {
+            "row_number": 37,
+            "data": {
+                "key": "province_annual_engineering_cost_coin",
+                "useless_system": "年度经济",
+                "useless_remark": "每个行省年度工程支出（coin）",
+                "value": "750"
+            }
+        },
+        {
+            "row_number": 38,
+            "data": {
+                "key": "province_annual_admin_salary_cost_coin",
+                "useless_system": "年度经济",
+                "useless_remark": "每个行省年度行政支出（coin）",
+                "value": "650"
+            }
+        },
+        {
+            "row_number": 39,
+            "data": {
+                "key": "soldier_recruit_cost_coin",
+                "useless_system": "军团",
+                "useless_remark": "每名士兵募兵成本（coin）",
+                "value": "7.1"
+            }
+        },
+        {
+            "row_number": 40,
+            "data": {
+                "key": "general_base_soldier_capacity",
+                "useless_system": "军团",
+                "useless_remark": "武将基础带兵上限",
+                "value": "100000"
+            }
+        },
+        {
+            "row_number": 41,
+            "data": {
+                "key": "trade_route_income_bonus_base_percent",
+                "useless_system": "贸易",
+                "useless_remark": "单条贸易路线基础收入加成（即5%）",
+                "value": "0.05"
+            }
+        },
+        {
+            "row_number": 42,
+            "data": {
+                "key": "trade_partner_default_max_count",
+                "useless_system": "贸易",
+                "useless_remark": "默认可建立贸易伙伴最大数量",
+                "value": "5"
+            }
+        },
+        {
+            "row_number": 43,
+            "data": {
+                "key": "early_game_year_count",
+                "useless_system": "游戏时间",
+                "useless_remark": "前x年使用特殊秒数",
+                "value": "1"
+            }
+        },
+        {
+            "row_number": 44,
+            "data": {
+                "key": "early_game_year_seconds",
+                "useless_system": "游戏时间",
+                "useless_remark": "第一年朝会开始时间",
+                "value": "10"
+            }
+        },
+        {
+            "row_number": 45,
+            "data": {
+                "key": "game_year_real_seconds",
+                "useless_system": "游戏时间",
+                "useless_remark": "1 游戏年对应现实秒数",
+                "value": "360"
+            }
+        },
+        {
+            "row_number": 46,
+            "data": {
+                "key": "court_session_times_per_year",
+                "useless_system": "时间",
+                "useless_remark": "一年开多少次朝会",
+                "value": "4"
+            }
+        },
+        {
+            "row_number": 47,
+            "data": {
+                "key": "industry_land_use_primary_per_factory",
+                "useless_system": "产业",
+                "useless_remark": "第一产业每座工厂占地",
+                "value": "18"
+            }
+        },
+        {
+            "row_number": 48,
+            "data": {
+                "key": "industry_land_use_secondary_per_factory",
+                "useless_system": "产业",
+                "useless_remark": "第二产业每座工厂占地",
+                "value": "24"
+            }
+        },
+        {
+            "row_number": 49,
+            "data": {
+                "key": "industry_land_use_tertiary_per_factory",
+                "useless_system": "产业",
+                "useless_remark": "第三产业每座工厂占地",
+                "value": "32"
+            }
+        },
+        {
+            "row_number": 50,
+            "data": {
+                "key": "industry_primary_single_output_random_min",
+                "useless_system": "产业",
+                "useless_remark": "第一产业单次产出随机值下限",
+                "value": "1"
+            }
+        },
+        {
+            "row_number": 51,
+            "data": {
+                "key": "industry_primary_single_output_random_max",
+                "useless_system": "产业",
+                "useless_remark": "第一产业单次产出随机值上限",
+                "value": "15"
+            }
+        },
+        {
+            "row_number": 52,
+            "data": {
+                "key": "industry_secondary_single_output_random_min",
+                "useless_system": "产业",
+                "useless_remark": "第二产业单次产出随机值下限",
+                "value": "2"
+            }
+        },
+        {
+            "row_number": 53,
+            "data": {
+                "key": "industry_secondary_single_output_random_max",
+                "useless_system": "产业",
+                "useless_remark": "第二产业单次产出随机值上限",
+                "value": "46"
+            }
+        },
+        {
+            "row_number": 54,
+            "data": {
+                "key": "industry_tertiary_single_output_random_min",
+                "useless_system": "产业",
+                "useless_remark": "第三产业单次产出随机值下限",
+                "value": "3"
+            }
+        },
+        {
+            "row_number": 55,
+            "data": {
+                "key": "industry_tertiary_single_output_random_max",
+                "useless_system": "产业",
+                "useless_remark": "第三产业单次产出随机值上限",
+                "value": "247"
+            }
+        },
+        {
+            "row_number": 56,
+            "data": {
+                "key": "industry_speed_slow_seconds_min",
+                "useless_system": "产业",
+                "useless_remark": "慢速档随机秒数下限（用在第3产业）",
+                "value": "50"
+            }
+        },
+        {
+            "row_number": 57,
+            "data": {
+                "key": "industry_speed_slow_seconds_max",
+                "useless_system": "产业",
+                "useless_remark": "慢速档随机秒数上限（用在第3产业）",
+                "value": "150"
+            }
+        },
+        {
+            "row_number": 58,
+            "data": {
+                "key": "industry_speed_normal_seconds_min",
+                "useless_system": "产业",
+                "useless_remark": "常速档随机秒数下限（用在第2产业）",
+                "value": "20"
+            }
+        },
+        {
+            "row_number": 59,
+            "data": {
+                "key": "industry_speed_normal_seconds_max",
+                "useless_system": "产业",
+                "useless_remark": "常速档随机秒数上限（用在第2产业）",
+                "value": "45"
+            }
+        },
+        {
+            "row_number": 60,
+            "data": {
+                "key": "industry_speed_fast_seconds_min",
+                "useless_system": "产业",
+                "useless_remark": "快速档随机秒数下限（用在第1产业）",
+                "value": "2"
+            }
+        },
+        {
+            "row_number": 61,
+            "data": {
+                "key": "industry_speed_fast_seconds_max",
+                "useless_system": "产业",
+                "useless_remark": "快速档随机秒数上限（用在第1产业）",
+                "value": "20"
+            }
+        },
+        {
+            "row_number": 62,
+            "data": {
+                "key": "industry_coin_output_primary_range",
+                "useless_system": "产业",
+                "useless_remark": "第1产业产出区间",
+                "value": "1|2|3|8"
+            }
+        },
+        {
+            "row_number": 63,
+            "data": {
+                "key": "industry_coin_output_secondary_range",
+                "useless_system": "产业",
+                "useless_remark": "第2产业产出区间",
+                "value": "2|10|20|45"
+            }
+        },
+        {
+            "row_number": 64,
+            "data": {
+                "key": "industry_coin_output_tertiary_range",
+                "useless_system": "产业",
+                "useless_remark": "第3产业产出区间",
+                "value": "3|50|125|247"
+            }
+        },
+        {
+            "row_number": 65,
+            "data": {
+                "key": "aiMemoryTopK",
+                "useless_system": "AI 记忆过滤",
+                "useless_remark": "相关历史检索 TopK 条数",
+                "value": "20"
+            }
+        },
+        {
+            "row_number": 66,
+            "data": {
+                "key": "aiIntentTimeoutSeconds",
+                "useless_system": "AI 记忆过滤",
+                "useless_remark": "意图分类超时秒数",
+                "value": "20"
+            }
+        },
+        {
+            "row_number": 67,
+            "data": {
+                "key": "aiIntentFastModelName",
+                "useless_system": null,
+                "useless_remark": null,
+                "value": null
+            }
+        },
+        {
+            "row_number": 68,
+            "data": {
+                "key": "aiIntentFallbackEnable",
+                "useless_system": "AI 记忆过滤",
+                "useless_remark": "是否启用意图分类本地兜底",
+                "value": "True"
+            }
+        },
+        {
+            "row_number": 69,
+            "data": {
+                "key": "aiMemoryMinScore",
+                "useless_system": "AI 记忆过滤",
+                "useless_remark": "历史相关性最低分阈值",
+                "value": "0.25"
+            }
+        },
+        {
+            "row_number": 70,
+            "data": {
+                "key": "aiOfficialV3ModelName",
+                "useless_system": null,
+                "useless_remark": null,
+                "value": null
+            }
+        },
+        {
+            "row_number": 71,
+            "data": {
+                "key": "aiOfficialR1ModelName",
+                "useless_system": null,
+                "useless_remark": null,
+                "value": null
+            }
+        },
+        {
+            "row_number": 72,
+            "data": {
+                "key": "aiOfficialV3ModelName",
+                "useless_system": null,
+                "useless_remark": null,
+                "value": null
+            }
+        },
+        {
+            "row_number": 73,
+            "data": {
+                "key": "aiOfficialR1ModelName",
+                "useless_system": null,
+                "useless_remark": null,
+                "value": null
+            }
+        },
+        {
+            "row_number": 74,
+            "data": {
+                "key": "aiOfficialV3ModelName_Overseas",
+                "useless_system": null,
+                "useless_remark": null,
+                "value": null
+            }
+        },
+        {
+            "row_number": 75,
+            "data": {
+                "key": "aiOfficialR1ModelName_Overseas",
+                "useless_system": null,
+                "useless_remark": null,
+                "value": null
+            }
+        },
+        {
+            "row_number": 76,
+            "data": {
+                "key": "avatarMaxGenerationCount",
+                "useless_system": "头像系统",
+                "useless_remark": "玩家最大头像生成次数",
+                "value": "1"
+            }
+        },
+        {
+            "row_number": 77,
+            "data": {
+                "key": "npc_strong_fluctuation_min",
+                "useless_system": "NPC经济",
+                "useless_remark": "强国年度收入/支出波动下限",
+                "value": "0.8"
+            }
+        },
+        {
+            "row_number": 78,
+            "data": {
+                "key": "npc_strong_fluctuation_max",
+                "useless_system": "NPC经济",
+                "useless_remark": "强国年度收入/支出波动上限",
+                "value": "1.2"
+            }
+        },
+        {
+            "row_number": 79,
+            "data": {
+                "key": "npc_medium_fluctuation_min",
+                "useless_system": "NPC经济",
+                "useless_remark": "中等年度收入/支出波动下限",
+                "value": "0.75"
+            }
+        },
+        {
+            "row_number": 80,
+            "data": {
+                "key": "npc_medium_fluctuation_max",
+                "useless_system": "NPC经济",
+                "useless_remark": "中等年度收入/支出波动上限",
+                "value": "1.25"
+            }
+        },
+        {
+            "row_number": 81,
+            "data": {
+                "key": "npc_weak_fluctuation_min",
+                "useless_system": "NPC经济",
+                "useless_remark": "弱国年度收入/支出波动下限",
+                "value": "0.65"
+            }
+        },
+        {
+            "row_number": 82,
+            "data": {
+                "key": "npc_weak_fluctuation_max",
+                "useless_system": "NPC经济",
+                "useless_remark": "弱国年度收入/支出波动上限",
+                "value": "1.35"
+            }
+        },
+        {
+            "row_number": 83,
+            "data": {
+                "key": "default_SuccessEffect",
+                "useless_system": "连锁事件",
+                "useless_remark": "连锁事件的默认成功影响提示词",
+                "value": "正向的变化，你按事件推理即可"
+            }
+        },
+        {
+            "row_number": 84,
+            "data": {
+                "key": "default_FailEffect",
+                "useless_system": "连锁事件",
+                "useless_remark": "连锁事件的默认失败影响提示词",
+                "value": "负向的变化，你按事件推理即可"
+            }
+        },
+        {
+            "row_number": 85,
+            "data": {
+                "key": "legion_max_count",
+                "useless_system": "军事",
+                "useless_remark": "默认最大军团数上限",
+                "value": "20"
+            }
+        },
+        {
+            "row_number": 86,
+            "data": {
+                "key": "legion_max_count_npc",
+                "useless_system": "军事",
+                "useless_remark": "npc国家默认最大军团数上限",
+                "value": "10"
+            }
+        },
+        {
+            "row_number": 87,
+            "data": {
+                "key": "weapon_recycle_ratio",
+                "useless_system": "经略系统",
+                "useless_remark": "武器回收比例（士兵损失时）",
+                "value": "0.5"
+            }
+        },
+        {
+            "row_number": 88,
+            "data": {
+                "key": "weapon_coin_per_combat_percent",
+                "useless_system": "经略系统",
+                "useless_remark": "每1%战斗力生产一个武器的coin",
+                "value": "0.08"
+            }
+        },
+        {
+            "row_number": 89,
+            "data": {
+                "key": "weapon_production_seconds",
+                "useless_system": "经略系统",
+                "useless_remark": "单次武器生产所需真实秒数",
+                "value": "90"
+            }
+        },
+        {
+            "row_number": 90,
+            "data": {
+                "key": "general_base_soldier_capacity",
+                "useless_system": "经略系统",
+                "useless_remark": "军团基础士兵容量（计算单次生产数量）",
+                "value": "100000"
+            }
+        },
+        {
+            "row_number": 91,
+            "data": {
+                "key": "book_per_year",
+                "useless_system": "科技树",
+                "useless_remark": "每个游戏年自动获得的知识（book）数量",
+                "value": "5"
+            }
+        },
+        {
+            "row_number": 92,
+            "data": {
+                "key": "book_per_policy_complete",
+                "useless_system": "科技树",
+                "useless_remark": "每完成一个policy事件获得的知识（book）数量",
+                "value": "10"
+            }
+        },
+        {
+            "row_number": 93,
+            "data": {
+                "key": "tension_growth_threshold",
+                "useless_system": "阶层系统",
+                "useless_remark": "满意度低于此值时张力开始增长（阈值）",
+                "value": "50"
+            }
+        },
+        {
+            "row_number": 94,
+            "data": {
+                "key": "tension_growth_rate",
+                "useless_system": "阶层系统",
+                "useless_remark": "张力增长系数（每年增长量 = (阈值-当前满意度) × 系数）",
+                "value": "0.5"
+            }
+        },
+        {
+            "row_number": 95,
+            "data": {
+                "key": "tension_decay_threshold",
+                "useless_system": "阶层系统",
+                "useless_remark": "满意度高于此值时张力开始下降（阈值）",
+                "value": "70"
+            }
+        },
+        {
+            "row_number": 96,
+            "data": {
+                "key": "tension_decay_rate",
+                "useless_system": "阶层系统",
+                "useless_remark": "张力下降系数（每年下降量 = (当前满意度-阈值) × 系数）",
+                "value": "0.1"
+            }
+        },
+        {
+            "row_number": 97,
+            "data": {
+                "key": "tension_cooldown_rate",
+                "useless_system": "阶层系统",
+                "useless_remark": "张力自然冷却乘数（每年 T × 此值，建议0.97-0.99）",
+                "value": "0.99"
+            }
+        },
+        {
+            "row_number": 98,
+            "data": {
+                "key": "rebellion_rs_low_multiplier",
+                "useless_system": "阶层系统",
+                "useless_remark": "满意度极低时Rs放大倍数（当前满意度 < satisfactionLowThreshold 时生效）",
+                "value": "1.5"
+            }
+        },
+        {
+            "row_number": 99,
+            "data": {
+                "key": "rebellion_ri_base_offset",
+                "useless_system": "阶层系统",
+                "useless_remark": "影响力因子基础偏移（Ri = offset + 当前影响力/Max影响力，值越高影响力对叛乱的放大越强）",
+                "value": "0.5"
+            }
+        },
+        {
+            "row_number": 100,
+            "data": {
+                "key": "rebellion_rt_tension_divisor",
+                "useless_system": "阶层系统",
+                "useless_remark": "张力因子分母（Rt = 1 + T/divisor，值越小张力对叛乱的放大越强）",
+                "value": "200"
+            }
+        },
+        {
+            "row_number": 101,
+            "data": {
+                "key": "rebellionMinThreshold",
+                "useless_system": "阶层系统",
+                "useless_remark": "叛乱触发最小累积概率阈值（PN低于此值时跳过随机判定，不会触发叛乱）",
+                "value": "0.4"
+            }
+        },
+        {
+            "row_number": 102,
+            "data": {
+                "key": "officialDefaultLoyalty",
+                "useless_system": "官员",
+                "useless_remark": "官员默认忠诚值",
+                "value": "50"
+            }
+        },
+        {
+            "row_number": 103,
+            "data": {
+                "key": "officialDefaultWenTao",
+                "useless_system": "官员",
+                "useless_remark": "文官默认文韬值",
+                "value": "50"
+            }
+        },
+        {
+            "row_number": 104,
+            "data": {
+                "key": "officialDefaultWuLue",
+                "useless_system": "官员",
+                "useless_remark": "武将默认武略值",
+                "value": "50"
+            }
+        },
+        {
+            "row_number": 105,
+            "data": {
+                "key": "proactive_story_chance",
+                "useless_system": "主动剧情系统",
+                "useless_remark": "每年触发概率(百分比整数),即除以100",
+                "value": "33"
+            }
+        },
+        {
+            "row_number": 106,
+            "data": {
+                "key": "proactive_story_memory_years",
+                "useless_system": "主动剧情系统",
+                "useless_remark": "历史记忆回溯年数",
+                "value": "5"
+            }
+        },
+        {
+            "row_number": 107,
+            "data": {
+                "key": "pendingTask_checkInterval",
+                "useless_system": "任务队列功能",
+                "useless_remark": "条件检测间隔（秒）",
+                "value": "5"
+            }
+        },
+        {
+            "row_number": 108,
+            "data": {
+                "key": "pendingTask_bookThreshold",
+                "useless_system": "任务队列功能",
+                "useless_remark": "知识点数触发阈值（超过则提示）",
+                "value": "10"
+            }
+        },
+        {
+            "row_number": 109,
+            "data": {
+                "key": "pendingTask_statLowThreshold",
+                "useless_system": "任务队列功能",
+                "useless_remark": "军事/控制/声望过低阈值（低于则提示）",
+                "value": "20"
+            }
+        },
+        {
+            "row_number": 110,
+            "data": {
+                "key": "pendingTask_corruptionHighThreshold",
+                "useless_system": "任务队列功能",
+                "useless_remark": "腐败度过高阈值（超过则提示）",
+                "value": "80"
+            }
+        },
+        {
+            "row_number": 111,
+            "data": {
+                "key": "pendingTask_tensionHighThreshold",
+                "useless_system": "任务队列功能",
+                "useless_remark": "阶层张力过高阈值（超过则提示）",
+                "value": "70"
+            }
+        },
+        {
+            "row_number": 112,
+            "data": {
+                "key": "policyAiTimeout",
+                "useless_system": "AI超时配置",
+                "useless_remark": "政策系统AI请求超时秒数（V3模型）",
+                "value": "180"
+            }
+        },
+        {
+            "row_number": 113,
+            "data": {
+                "key": "policyAiTimeoutR1",
+                "useless_system": "AI超时配置",
+                "useless_remark": "政策系统AI请求超时秒数（R1模型）",
+                "value": "180"
+            }
+        },
+        {
+            "row_number": 114,
+            "data": {
+                "key": "decreeAiTimeout",
+                "useless_system": "AI超时配置",
+                "useless_remark": "国策系统AI请求超时秒数",
+                "value": "180"
+            }
+        },
+        {
+            "row_number": 115,
+            "data": {
+                "key": "coinChangeMin",
+                "useless_system": "AI约束",
+                "useless_remark": "coin单次变化下限",
+                "value": "-20000000"
+            }
+        },
+        {
+            "row_number": 116,
+            "data": {
+                "key": "coinChangeMax",
+                "useless_system": "AI约束",
+                "useless_remark": "coin单次变化上限",
+                "value": "20000000"
+            }
+        },
+        {
+            "row_number": 117,
+            "data": {
+                "key": "proactiveMemorialInterval",
+                "useless_system": "主动上奏",
+                "useless_remark": "主动上奏触发间隔年数",
+                "value": "2"
+            }
+        },
+        {
+            "row_number": 118,
+            "data": {
+                "key": "policyCardSlotMax",
+                "useless_system": "主动上奏",
+                "useless_remark": "每个分类卡槽最大容量",
+                "value": "5"
+            }
+        },
+        {
+            "row_number": 119,
+            "data": {
+                "key": "policyCardStorageMax",
+                "useless_system": "主动上奏",
+                "useless_remark": "仓库最大存储数量",
+                "value": "50"
+            }
+        },
+        {
+            "row_number": 120,
+            "data": {
+                "key": "legion3d_showRange",
+                "useless_system": "3D模型",
+                "useless_remark": "摄像机水平距离阈值（世界单位），近于此值才显示3D模型",
+                "value": "150"
+            }
+        },
+        {
+            "row_number": 121,
+            "data": {
+                "key": "legion3d_showCameraHeight",
+                "useless_system": "3D模型",
+                "useless_remark": "摄像机高度阈值，低于此值才显示3D模型",
+                "value": "200"
+            }
+        },
+        {
+            "row_number": 122,
+            "data": {
+                "key": "legion3d_rotateSpeed",
+                "useless_system": "3D模型",
+                "useless_remark": "3D模型转向速度（度/秒）",
+                "value": "360"
+            }
+        },
+        {
+            "row_number": 123,
+            "data": {
+                "key": "camera_minPitchAngle",
+                "useless_system": "3D模型",
+                "useless_remark": "最近时的俯仰角，可在Inspector调",
+                "value": "90"
+            }
+        },
+        {
+            "row_number": 124,
+            "data": {
+                "key": "camera_pitchTransitionStartDistance",
+                "useless_system": "3D模型",
+                "useless_remark": "开始渐变的距离阈值",
+                "value": "160"
+            }
+        },
+        {
+            "row_number": 125,
+            "data": {
+                "key": "provinceName_heightOffset",
+                "useless_system": "3D模型",
+                "useless_remark": "行省名字Y轴高度偏移（世界单位），避免斜视角下被地面遮挡，默认0.5",
+                "value": "0.5"
+            }
+        },
+        {
+            "row_number": 126,
+            "data": {
+                "key": "heir_birthRate_base",
+                "useless_system": "子嗣&继承",
+                "useless_remark": "基础生育率",
+                "value": "0.1"
+            }
+        },
+        {
+            "row_number": 127,
+            "data": {
+                "key": "heir_affair_probability",
+                "useless_system": "子嗣&继承",
+                "useless_remark": "情人产生概率",
+                "value": "0.001"
+            }
+        },
+        {
+            "row_number": 128,
+            "data": {
+                "key": "heir_designate_prestige_cost",
+                "useless_system": "子嗣&继承",
+                "useless_remark": "指定继承人威望消耗",
+                "value": "15"
+            }
+        },
+        {
+            "row_number": 129,
+            "data": {
+                "key": "heir_designate_control_cost",
+                "useless_system": "子嗣&继承",
+                "useless_remark": "指定继承人控制力消耗",
+                "value": "10"
+            }
+        },
+        {
+            "row_number": 130,
+            "data": {
+                "key": "heir_depose_rebellion_rate",
+                "useless_system": "子嗣&继承",
+                "useless_remark": "废太子内乱概率",
+                "value": "0.5"
+            }
+        },
+        {
+            "row_number": 131,
+            "data": {
+                "key": "heir_selection_prestige_cost",
+                "useless_system": "子嗣&继承",
+                "useless_remark": "选秀威望消耗",
+                "value": "2"
+            }
+        },
+        {
+            "row_number": 132,
+            "data": {
+                "key": "heir_allow_rename_country",
+                "useless_system": "子嗣&继承",
+                "useless_remark": "继位时是否允许改国号",
+                "value": "True"
+            }
+        },
+        {
+            "row_number": 133,
+            "data": {
+                "key": "heir_max_character_count",
+                "useless_system": "子嗣&继承",
+                "useless_remark": "角色数据上限",
+                "value": "200"
+            }
+        },
+        {
+            "row_number": 134,
+            "data": {
+                "key": "heir_birth_max_per_year",
+                "useless_system": "子嗣&继承",
+                "useless_remark": "每年最多诞下子嗣数量",
+                "value": "2"
+            }
+        },
+        {
+            "row_number": 135,
+            "data": {
+                "key": "battle_armorReduction_cap",
+                "useless_system": "战斗修改",
+                "useless_remark": "护甲减伤率上限（最高75%减伤，防止无敌",
+                "value": "0.75"
+            }
+        },
+        {
+            "row_number": 136,
+            "data": {
+                "key": "battle_critChance_cap",
+                "useless_system": "战斗修改",
+                "useless_remark": "暴击率上限（最高60%暴击率",
+                "value": "0.6"
+            }
+        },
+        {
+            "row_number": 137,
+            "data": {
+                "key": "battle_critDamage_base",
+                "useless_system": "战斗修改",
+                "useless_remark": "暴击伤害基础倍率(暴击造成2倍伤害（+科技加成）",
+                "value": "2"
+            }
+        },
+        {
+            "row_number": 138,
+            "data": {
+                "key": "battle_decapitate_chance",
+                "useless_system": "战斗修改",
+                "useless_remark": "斩首触发概率（暴击后）(暴击后15%概率触发斩首",
+                "value": "0.15"
+            }
+        },
+        {
+            "row_number": 139,
+            "data": {
+                "key": "battle_decapitate_min_percent",
+                "useless_system": "战斗修改",
+                "useless_remark": "斩首最低消灭敌方兵力百分比",
+                "value": "0.05"
+            }
+        },
+        {
+            "row_number": 140,
+            "data": {
+                "key": "battle_decapitate_max_percent",
+                "useless_system": "战斗修改",
+                "useless_remark": "斩首最高消灭敌方兵力百分比",
+                "value": "0.1"
+            }
+        },
+        {
+            "row_number": 141,
+            "data": {
+                "key": "battle_rangedVolley_roundsPerRange",
+                "useless_system": "战斗修改",
+                "useless_remark": "每多少点攻击范围AttackRange=1回合齐射(AttackRange=1 → 2回合齐射",
+                "value": "0.5"
+            }
+        },
+        {
+            "row_number": 142,
+            "data": {
+                "key": "battle_rangedVolley_maxRounds",
+                "useless_system": "战斗修改",
+                "useless_remark": "远程齐射最大回合数上限（最多x回合免伤齐射",
+                "value": "3"
+            }
+        },
+        {
+            "row_number": 143,
+            "data": {
+                "key": "decreeClassifiedCharLimit",
+                "useless_system": "诏书系统",
+                "useless_remark": "分类模式每个输入框的字符上限",
+                "value": "700"
+            }
+        },
+        {
+            "row_number": 144,
+            "data": {
+                "key": "decreeUnifiedCharLimit",
+                "useless_system": "诏书系统",
+                "useless_remark": "整合模式单输入框的字符上限",
+                "value": "3000"
+            }
+        },
+        {
+            "row_number": 145,
+            "data": {
+                "key": "decree_orderRegenYears",
+                "useless_system": "诏书系统",
+                "useless_remark": "每X年自动增加一次政令",
+                "value": "1"
+            }
+        },
+        {
+            "row_number": 146,
+            "data": {
+                "key": "decree_orderRegenAmount",
+                "useless_system": "诏书系统",
+                "useless_remark": "每次增加的政令数量",
+                "value": "4"
+            }
+        },
+        {
+            "row_number": 147,
+            "data": {
+                "key": "battleCrowd_unitsPerSide",
+                "useless_system": "战斗群体系统",
+                "useless_remark": "每方士兵集团数",
+                "value": "100"
+            }
+        },
+        {
+            "row_number": 148,
+            "data": {
+                "key": "battleCrowd_spacing",
+                "useless_system": "战斗群体系统",
+                "useless_remark": "集团间距",
+                "value": "0.4"
+            }
+        },
+        {
+            "row_number": 149,
+            "data": {
+                "key": "battleCrowd_battleGap",
+                "useless_system": "战斗群体系统",
+                "useless_remark": "两军间距",
+                "value": "3"
+            }
+        },
+        {
+            "row_number": 150,
+            "data": {
+                "key": "battleCrowd_floatSpeed",
+                "useless_system": "战斗群体系统",
+                "useless_remark": "浮动速度",
+                "value": "2"
+            }
+        },
+        {
+            "row_number": 151,
+            "data": {
+                "key": "battleCrowd_floatAmplitude",
+                "useless_system": "战斗群体系统",
+                "useless_remark": "浮动幅度",
+                "value": "0.08"
+            }
+        },
+        {
+            "row_number": 152,
+            "data": {
+                "key": "battleCrowd_chargeTime",
+                "useless_system": "战斗群体系统",
+                "useless_remark": "冲锋时间（秒）",
+                "value": "2"
+            }
+        },
+        {
+            "row_number": 153,
+            "data": {
+                "key": "battleCrowd_deathFadeDuration",
+                "useless_system": "战斗群体系统",
+                "useless_remark": "死亡消失时间（秒）",
+                "value": "0.5"
+            }
+        },
+        {
+            "row_number": 154,
+            "data": {
+                "key": "battleCrowd_dustParticleRate",
+                "useless_system": "战斗群体系统",
+                "useless_remark": "烟尘粒子发射率（个 / 秒）",
+                "value": "30"
+            }
+        },
+        {
+            "row_number": 155,
+            "data": {
+                "key": "battleCrowd_enableDustShader",
+                "useless_system": "战斗群体系统",
+                "useless_remark": "是否启用地面烟尘 Shader",
+                "value": "True"
+            }
+        },
+        {
+            "row_number": 156,
+            "data": {
+                "key": "battleCrowd_maxConcurrentBattles",
+                "useless_system": "战斗群体系统",
+                "useless_remark": "最大同时展开群体的战斗数",
+                "value": "5"
+            }
+        },
+        {
+            "row_number": 157,
+            "data": {
+                "key": "unitSpeed_Infantry",
+                "useless_system": "大地图军团UI",
+                "useless_remark": "步兵移动速度",
+                "value": "0.8"
+            }
+        },
+        {
+            "row_number": 158,
+            "data": {
+                "key": "unitSpeed_Cavalry",
+                "useless_system": "大地图军团UI",
+                "useless_remark": "骑兵移动速度",
+                "value": "1.4"
+            }
+        },
+        {
+            "row_number": 159,
+            "data": {
+                "key": "unitSpeed_Crossbow",
+                "useless_system": "大地图军团UI",
+                "useless_remark": "弓弩兵移动速度",
+                "value": "0.7"
+            }
+        },
+        {
+            "row_number": 160,
+            "data": {
+                "key": "unitSpeed_Musketeer",
+                "useless_system": "大地图军团UI",
+                "useless_remark": "火枪手移动速度",
+                "value": "0.6"
+            }
+        },
+        {
+            "row_number": 161,
+            "data": {
+                "key": "unitSpeed_Tank",
+                "useless_system": "大地图军团UI",
+                "useless_remark": "坦克移动速度",
+                "value": "0.5"
+            }
+        },
+        {
+            "row_number": 162,
+            "data": {
+                "key": "legionDisplay_farThreshold",
+                "useless_system": "大地图军团UI",
+                "useless_remark": "远距离显示阈值【废弃】",
+                "value": "200"
+            }
+        },
+        {
+            "row_number": 163,
+            "data": {
+                "key": "legionDisplay_nearThreshold",
+                "useless_system": "大地图军团UI",
+                "useless_remark": "近距离显示阈值【废弃】",
+                "value": "80"
+            }
+        },
+        {
+            "row_number": 164,
+            "data": {
+                "key": "legionDualView_threshold",
+                "useless_system": "大地图军团UI",
+                "useless_remark": "摄像机Y轴，切换远近阈值",
+                "value": "190"
+            }
+        },
+        {
+            "row_number": 165,
+            "data": {
+                "key": "militaryChangeMin",
+                "useless_system": "扩展资源",
+                "useless_remark": "军事力量单次变化量下限",
+                "value": "-40"
+            }
+        },
+        {
+            "row_number": 166,
+            "data": {
+                "key": "militaryChangeMax",
+                "useless_system": "扩展资源",
+                "useless_remark": "军事力量单次变化量上限",
+                "value": "40"
+            }
+        },
+        {
+            "row_number": 167,
+            "data": {
+                "key": "controlChangeMin",
+                "useless_system": "扩展资源",
+                "useless_remark": "控制力单次变化量下限",
+                "value": "-40"
+            }
+        },
+        {
+            "row_number": 168,
+            "data": {
+                "key": "controlChangeMax",
+                "useless_system": "扩展资源",
+                "useless_remark": "控制力单次变化量上限",
+                "value": "40"
+            }
+        },
+        {
+            "row_number": 169,
+            "data": {
+                "key": "prestigeChangeMin",
+                "useless_system": "扩展资源",
+                "useless_remark": "声望单次变化量下限",
+                "value": "-40"
+            }
+        },
+        {
+            "row_number": 170,
+            "data": {
+                "key": "prestigeChangeMax",
+                "useless_system": "扩展资源",
+                "useless_remark": "声望单次变化量上限",
+                "value": "40"
+            }
+        },
+        {
+            "row_number": 171,
+            "data": {
+                "key": "corruptionChangeMin",
+                "useless_system": "扩展资源",
+                "useless_remark": "腐败度单次变化量下限",
+                "value": "-40"
+            }
+        },
+        {
+            "row_number": 172,
+            "data": {
+                "key": "corruptionChangeMax",
+                "useless_system": "扩展资源",
+                "useless_remark": "腐败度单次变化量上限",
+                "value": "40"
+            }
+        },
+        {
+            "row_number": 173,
+            "data": {
+                "key": "goods_grain_base_value",
+                "useless_system": "经济系统深化",
+                "useless_remark": "粮食基础价值(coin)",
+                "value": "0.1"
+            }
+        },
+        {
+            "row_number": 174,
+            "data": {
+                "key": "goods_dailygoods_base_value",
+                "useless_system": "经济系统深化",
+                "useless_remark": "日用品基础价值(coin)",
+                "value": "0.5"
+            }
+        },
+        {
+            "row_number": 175,
+            "data": {
+                "key": "goods_metal_base_value",
+                "useless_system": "经济系统深化",
+                "useless_remark": "金属基础价值(coin)",
+                "value": "2.1"
+            }
+        },
+        {
+            "row_number": 176,
+            "data": {
+                "key": "goods_grain_per_capita",
+                "useless_system": "经济系统深化",
+                "useless_remark": "人均粮食消耗/年",
+                "value": "0.136"
+            }
+        },
+        {
+            "row_number": 177,
+            "data": {
+                "key": "goods_dailygoods_per_capita",
+                "useless_system": "经济系统深化",
+                "useless_remark": "人均日用品需求/年",
+                "value": "0.02"
+            }
+        },
+        {
+            "row_number": 178,
+            "data": {
+                "key": "goods_metal_per_10k_soldiers",
+                "useless_system": "经济系统深化",
+                "useless_remark": "每万士兵金属消耗/年",
+                "value": "5"
+            }
+        },
+        {
+            "row_number": 179,
+            "data": {
+                "key": "province_birth_rate",
+                "useless_system": "经济系统深化",
+                "useless_remark": "行省年出生率 （百分比）",
+                "value": "0.035"
+            }
+        },
+        {
+            "row_number": 180,
+            "data": {
+                "key": "province_death_rate",
+                "useless_system": "经济系统深化",
+                "useless_remark": "行省年死亡率 （百分比）",
+                "value": "0.02"
+            }
+        },
+        {
+            "row_number": 181,
+            "data": {
+                "key": "province_max_recruit_rate",
+                "useless_system": "经济系统深化",
+                "useless_remark": "行省最大征兵率",
+                "value": "0.1"
+            }
+        },
+        {
+            "row_number": 182,
+            "data": {
+                "key": "province_war_casualty_rate",
+                "useless_system": "经济系统深化",
+                "useless_remark": "战区人口损失率/年",
+                "value": "0.05"
+            }
+        },
+        {
+            "row_number": 183,
+            "data": {
+                "key": "province_base_unrest_decay",
+                "useless_system": "经济系统深化",
+                "useless_remark": "民心不满度基础衰减/年",
+                "value": "-2"
+            }
+        },
+        {
+            "row_number": 184,
+            "data": {
+                "key": "province_famine_threshold",
+                "useless_system": "经济系统深化",
+                "useless_remark": "饥荒阈值(foodSecurity)",
+                "value": "0.5"
+            }
+        },
+        {
+            "row_number": 185,
+            "data": {
+                "key": "province_unrest_warning",
+                "useless_system": "经济系统深化",
+                "useless_remark": "民变预警阈值(unrest)",
+                "value": "70"
+            }
+        },
+        {
+            "row_number": 186,
+            "data": {
+                "key": "province_unrest_rebellion",
+                "useless_system": "经济系统深化",
+                "useless_remark": "叛乱阈值(unrest)",
+                "value": "90"
+            }
+        },
+        {
+            "row_number": 187,
+            "data": {
+                "key": "province_default_tax_rate",
+                "useless_system": "经济系统深化",
+                "useless_remark": "默认税率",
+                "value": "0.25"
+            }
+        },
+        {
+            "row_number": 188,
+            "data": {
+                "key": "province_jobs_per_industry",
+                "useless_system": "经济系统深化",
+                "useless_remark": "每单位产业岗位数",
+                "value": "500"
+            }
+        },
+        {
+            "row_number": 189,
+            "data": {
+                "key": "trade_max_goods_per_route",
+                "useless_system": "经济系统深化",
+                "useless_remark": "每条路线最大商品交易量/年",
+                "value": "50"
+            }
+        },
+        {
+            "row_number": 190,
+            "data": {
+                "key": "economy_ai_scale_small_min",
+                "useless_system": "经济系统深化",
+                "useless_remark": "AI随机small规模范围",
+                "value": "1"
+            }
+        },
+        {
+            "row_number": 191,
+            "data": {
+                "key": "economy_ai_scale_small_max",
+                "useless_system": "经济系统深化",
+                "useless_remark": "AI随机small规模范围",
+                "value": "3"
+            }
+        },
+        {
+            "row_number": 192,
+            "data": {
+                "key": "economy_ai_scale_medium_min",
+                "useless_system": "经济系统深化",
+                "useless_remark": "AI随机medium规模范围",
+                "value": "3"
+            }
+        },
+        {
+            "row_number": 193,
+            "data": {
+                "key": "economy_ai_scale_medium_max",
+                "useless_system": "经济系统深化",
+                "useless_remark": "AI随机medium规模范围",
+                "value": "6"
+            }
+        },
+        {
+            "row_number": 194,
+            "data": {
+                "key": "economy_ai_scale_large_min",
+                "useless_system": "经济系统深化",
+                "useless_remark": "AI随机large规模范围",
+                "value": "6"
+            }
+        },
+        {
+            "row_number": 195,
+            "data": {
+                "key": "economy_ai_scale_large_max",
+                "useless_system": "经济系统深化",
+                "useless_remark": "AI随机large规模范围",
+                "value": "10"
+            }
+        },
+        {
+            "row_number": 196,
+            "data": {
+                "key": "province_population_float_min",
+                "useless_system": "经济系统深化",
+                "useless_remark": "初始人口随机浮动下限",
+                "value": "-0.05"
+            }
+        },
+        {
+            "row_number": 197,
+            "data": {
+                "key": "province_population_float_max",
+                "useless_system": "经济系统深化",
+                "useless_remark": "初始人口随机浮动上限",
+                "value": "0.05"
+            }
+        },
+        {
+            "row_number": 198,
+            "data": {
+                "key": "province_min_population_seed",
+                "useless_system": "经济系统深化",
+                "useless_remark": "人口归零时的兜底种子值",
+                "value": "10000"
+            }
+        },
+        {
+            "row_number": 199,
+            "data": {
+                "key": "officialGovernorWenTaoPerProvince",
+                "useless_system": "官员系统",
+                "useless_remark": "每多少点文韬可管理1个行省",
+                "value": "10"
+            }
+        },
+        {
+            "row_number": 200,
+            "data": {
+                "key": "diplomacy_camera_max_per_type",
+                "useless_system": "外交动画",
+                "useless_remark": "同类型镜头动画最多播放次数（如trade最多播3次），不同类型独立计数",
+                "value": "3"
+            }
+        },
+        {
+            "row_number": 201,
+            "data": {
+                "key": "voronoiBattle_occupyCostFixedRatio",
+                "useless_system": "战斗系统",
+                "useless_remark": "占领消耗固定比例（不可减免部分）",
+                "value": "0.1"
+            }
+        },
+        {
+            "row_number": 202,
+            "data": {
+                "key": "voronoiBattle_occupyCostVariableRatio",
+                "useless_system": "战斗系统",
+                "useless_remark": "占领消耗可变比例（受战斗力加成影响）",
+                "value": "0.9"
+            }
+        },
+        {
+            "row_number": 203,
+            "data": {
+                "key": "battle_casualty_minRatio",
+                "useless_system": "战斗系统",
+                "useless_remark": "最低战损比例（固定战损不可减免）",
+                "value": "0.1"
+            }
+        },
+        {
+            "row_number": 204,
+            "data": {
+                "key": "battle_powerDiff_coefficient",
+                "useless_system": "战斗系统",
+                "useless_remark": "战力差减伤系数",
+                "value": "0.5"
+            }
+        },
+        {
+            "row_number": 205,
+            "data": {
+                "key": "battle_powerDiff_reductionCap",
+                "useless_system": "战斗系统",
+                "useless_remark": "战力差减伤上限",
+                "value": "0.9"
+            }
+        },
+        {
+            "row_number": 206,
+            "data": {
+                "key": "lifespanChangeMin",
+                "useless_system": "皇帝寿命系统",
+                "useless_remark": "AI寿命变化最小值",
+                "value": "-10"
+            }
+        },
+        {
+            "row_number": 207,
+            "data": {
+                "key": "lifespanChangeMax",
+                "useless_system": "皇帝寿命系统",
+                "useless_remark": "AI寿命变化最大值",
+                "value": "10"
+            }
+        },
+        {
+            "row_number": 208,
+            "data": {
+                "key": "industry_goods_output_grain_range",
+                "useless_system": "经济系统深化",
+                "useless_remark": "AI新增粮食产业商品产出区间，格式:min_low|max_low|max_mid|max_high",
+                "value": "2200|5000|8500|12000"
+            }
+        },
+        {
+            "row_number": 209,
+            "data": {
+                "key": "industry_goods_output_daily_range",
+                "useless_system": "经济系统深化",
+                "useless_remark": "AI新增日用品产业商品产出区间，格式:min_low|max_low|max_mid|max_high",
+                "value": "1200|2000|3000|4000"
+            }
+        },
+        {
+            "row_number": 210,
+            "data": {
+                "key": "industry_goods_output_metal_range",
+                "useless_system": "经济系统深化",
+                "useless_remark": "AI新增金属产业商品产出区间，格式:min_low|max_low|max_mid|max_high",
+                "value": "1200|1600|2300|3000"
+            }
+        },
+        {
+            "row_number": 211,
+            "data": {
+                "key": "cloudTokenWalletApiBaseUrl",
+                "useless_system": "云端Token钱包",
+                "useless_remark": "Cloudflare Worker API根地址，留空时使用旧本地额度逻辑",
+                "value": "https://ai-emperor-token-wallet.heisenberglin789.workers.dev"
+            }
+        },
+        {
+            "row_number": 212,
+            "data": {
+                "key": "cloudTokenWalletDefaultGrantedTokens",
+                "useless_system": "云端Token钱包",
+                "useless_remark": "新钱包默认发放Token数，需与云端配置保持一致（仅显示无作用）",
+                "value": "75"
+            }
+        },
+        {
+            "row_number": 213,
+            "data": {
+                "key": "cloudTokenWalletTimeoutSeconds",
+                "useless_system": "云端Token钱包",
+                "useless_remark": "Cloudflare钱包请求超时时间（秒）",
+                "value": "30"
+            }
+        },
+        {
+            "row_number": 214,
+            "data": {
+                "key": "cloudTokenWalletAllowLocalFallback",
+                "useless_system": "云端Token钱包",
+                "useless_remark": "API地址未配置时是否允许开发期回退旧本地额度逻辑",
+                "value": "False"
+            }
+        },
+        {
+            "row_number": 215,
+            "data": {
+                "key": "secretLetter_basePerYear",
+                "useless_system": "密信系统",
+                "useless_remark": "每次朝会恢复密信次数",
+                "value": "3"
+            }
+        },
+        {
+            "row_number": 216,
+            "data": {
+                "key": "secretLetter_max",
+                "useless_system": "密信系统",
+                "useless_remark": "密信次数上限",
+                "value": "3"
+            }
+        },
+        {
+            "row_number": 217,
+            "data": {
+                "key": "secretLetter_probeCost",
+                "useless_system": "密信系统",
+                "useless_remark": "试探消耗",
+                "value": "1"
+            }
+        },
+        {
+            "row_number": 218,
+            "data": {
+                "key": "secretLetter_recruitCost",
+                "useless_system": "密信系统",
+                "useless_remark": "拉拢/策反消耗",
+                "value": "1"
+            }
+        },
+        {
+            "row_number": 219,
+            "data": {
+                "key": "secretLetter_sowDiscordCost",
+                "useless_system": "密信系统",
+                "useless_remark": "反间计消耗",
+                "value": "1"
+            }
+        },
+        {
+            "row_number": 220,
+            "data": {
+                "key": "secretLetter_agreementCost",
+                "useless_system": "密信系统",
+                "useless_remark": "秘密定约消耗",
+                "value": "1"
+            }
+        },
+        {
+            "row_number": 221,
+            "data": {
+                "key": "secretLetter_recruitCoinCost",
+                "useless_system": "密信系统",
+                "useless_remark": "拉拢/策反默认黄金消耗",
+                "value": "5000"
+            }
+        },
+        {
+            "row_number": 222,
+            "data": {
+                "key": "secretLetter_agreementCoinCost",
+                "useless_system": "密信系统",
+                "useless_remark": "秘密定约默认黄金消耗",
+                "value": "3000"
+            }
+        },
+        {
+            "row_number": 223,
+            "data": {
+                "key": "court_session_interval",
+                "useless_system": "朝会系统",
+                "useless_remark": "朝会触发间隔（年数）",
+                "value": "1"
+            }
+        },
+        {
+            "row_number": 224,
+            "data": {
+                "key": "npc_strong_country_attack_chance",
+                "useless_system": "NPC国家",
+                "useless_remark": "强国-进攻概率",
+                "value": "0.05"
+            }
+        },
+        {
+            "row_number": 225,
+            "data": {
+                "key": "npc_strong_country_alliance_chance",
+                "useless_system": "NPC国家",
+                "useless_remark": "强国-联盟概率",
+                "value": "0"
+            }
+        },
+        {
+            "row_number": 226,
+            "data": {
+                "key": "npc_medium_country_attack_chance",
+                "useless_system": "NPC国家",
+                "useless_remark": "中等国-进攻概率",
+                "value": "0.05"
+            }
+        },
+        {
+            "row_number": 227,
+            "data": {
+                "key": "npc_medium_country_alliance_chance",
+                "useless_system": "NPC国家",
+                "useless_remark": "中等国-联盟概率",
+                "value": "0"
+            }
+        },
+        {
+            "row_number": 228,
+            "data": {
+                "key": "npc_weak_country_attack_chance",
+                "useless_system": "NPC国家",
+                "useless_remark": "弱国-进攻概率",
+                "value": "0.05"
+            }
+        },
+        {
+            "row_number": 229,
+            "data": {
+                "key": "npc_weak_country_alliance_chance",
+                "useless_system": "NPC国家",
+                "useless_remark": "弱国-联盟概率",
+                "value": "0"
+            }
+        },
+        {
+            "row_number": 230,
+            "data": {
+                "key": "npc_attack_legion_min",
+                "useless_system": "NPC国家",
+                "useless_remark": "NPC的AI单次进攻最少军团个数",
+                "value": "1"
+            }
+        },
+        {
+            "row_number": 231,
+            "data": {
+                "key": "npc_attack_legion_max",
+                "useless_system": "NPC国家",
+                "useless_remark": "NPC的AI单次进攻最多军团个数",
+                "value": "2"
+            }
+        },
+        {
+            "row_number": 232,
+            "data": {
+                "key": "policy_decree_alliance_enabled",
+                "useless_system": "外交",
+                "useless_remark": "是否允许联盟",
+                "value": "False"
+            }
+        },
+        {
+            "row_number": 233,
+            "data": {
+                "key": "industry_build_payback_primary_years",
+                "useless_system": "产业",
+                "useless_remark": "第一产业建造成本回本年数",
+                "value": "1"
+            }
+        },
+        {
+            "row_number": 234,
+            "data": {
+                "key": "industry_build_payback_secondary_years",
+                "useless_system": "产业",
+                "useless_remark": "第二产业建造成本回本年数",
+                "value": "2"
+            }
+        },
+        {
+            "row_number": 235,
+            "data": {
+                "key": "industry_build_payback_tertiary_years",
+                "useless_system": "产业",
+                "useless_remark": "第三产业建造成本回本年数",
+                "value": "3"
+            }
+        },
+        {
+            "row_number": 236,
+            "data": {
+                "key": "treaty_breach_prestige_penalty",
+                "useless_system": "外交",
+                "useless_remark": "撕毁条约威望变化",
+                "value": "-30"
+            }
+        },
+        {
+            "row_number": 237,
+            "data": {
+                "key": "multiIdentity_startYear",
+                "useless_system": "多身份开局",
+                "useless_remark": "自定义身份开局起始年份",
+                "value": "209"
+            }
+        },
+        {
+            "row_number": 238,
+            "data": {
+                "key": "multiIdentity_maxAdventureMonths",
+                "useless_system": "多身份开局",
+                "useless_remark": "多身份阶段最大月数",
+                "value": "48"
+            }
+        },
+        {
+            "row_number": 239,
+            "data": {
+                "key": "multiIdentity_energyMax",
+                "useless_system": "多身份开局",
+                "useless_remark": "多身份精力上限",
+                "value": "6"
+            }
+        },
+        {
+            "row_number": 240,
+            "data": {
+                "key": "multiIdentity_energyRecoverPerMonth",
+                "useless_system": "多身份开局",
+                "useless_remark": "多身份每月恢复精力",
+                "value": "6"
+            }
+        },
+        {
+            "row_number": 241,
+            "data": {
+                "key": "multiIdentity_energyRecoverPerYear",
+                "useless_system": "多身份开局",
+                "useless_remark": "旧年度恢复配置保留兼容",
+                "value": "6"
+            }
+        },
+        {
+            "row_number": 242,
+            "data": {
+                "key": "multiIdentity_choiceCountMin",
+                "useless_system": "多身份开局",
+                "useless_remark": "行动选项数量最小值",
+                "value": "3"
+            }
+        },
+        {
+            "row_number": 243,
+            "data": {
+                "key": "multiIdentity_choiceCountMax",
+                "useless_system": "多身份开局",
+                "useless_remark": "行动选项数量最大值",
+                "value": "3"
+            }
+        },
+        {
+            "row_number": 244,
+            "data": {
+                "key": "multiIdentity_actionCostMin",
+                "useless_system": "多身份开局",
+                "useless_remark": "行动精力消耗最小值",
+                "value": "1"
+            }
+        },
+        {
+            "row_number": 245,
+            "data": {
+                "key": "multiIdentity_actionCostMax",
+                "useless_system": "多身份开局",
+                "useless_remark": "行动精力消耗最大值",
+                "value": "4"
+            }
+        },
+        {
+            "row_number": 246,
+            "data": {
+                "key": "multiIdentity_aiTimeout",
+                "useless_system": "多身份开局",
+                "useless_remark": "多身份AI请求超时秒数",
+                "value": "60"
+            }
+        },
+        {
+            "row_number": 247,
+            "data": {
+                "key": "multiIdentity_powerToEmperorThreshold",
+                "useless_system": "多身份开局",
+                "useless_remark": "登基所需权势阈值",
+                "value": "100"
+            }
+        },
+        {
+            "row_number": 248,
+            "data": {
+                "key": "multiIdentity_historyPromptCount",
+                "useless_system": "多身份开局",
+                "useless_remark": "注入AI的最近行动历史数量",
+                "value": "20"
+            }
+        },
+        {
+            "row_number": 249,
+            "data": {
+                "key": "multiIdentity_enableStartSelection",
+                "useless_system": "多身份开局",
+                "useless_remark": "是否打开选择面板",
+                "value": "True"
+            }
+        },
+        {
+            "row_number": 250,
+            "data": {
+                "key": "multiIdentity_promptContactCount",
+                "useless_system": "多身份开局",
+                "useless_remark": "注入AI的人脉数",
+                "value": "20"
+            }
+        },
+        {
+            "row_number": 251,
+            "data": {
+                "key": "multiIdentity_promptItemCount",
+                "useless_system": "多身份开局",
+                "useless_remark": "注入AI的道具数",
+                "value": "20"
+            }
+        },
+        {
+            "row_number": 252,
+            "data": {
+                "key": "multiIdentity_promptTraitCount",
+                "useless_system": "多身份开局",
+                "useless_remark": "注入AI的技能数",
+                "value": "20"
+            }
+        },
+        {
+            "row_number": 253,
+            "data": {
+                "key": "multiIdentity_ascensionRequiredIdentityTier",
+                "useless_system": "多身份开局",
+                "useless_remark": "登基所需最低实际身份层级，可填 Commoner/Gentry/Clerk/Officer/Court/Heir/Emperor 或枚举数字",
+                "value": "Court"
+            }
+        },
+        {
+            "row_number": 254,
+            "data": {
+                "key": "multiIdentity_ascensionRequiredMilestoneCount",
+                "useless_system": "多身份开局",
+                "useless_remark": "登基所需完成的路线节点数量",
+                "value": "2"
+            }
+        },
+        {
+            "row_number": 255,
+            "data": {
+                "key": "multiIdentity_ascensionRequiredStrongContactCount",
+                "useless_system": "多身份开局",
+                "useless_remark": "作为登基支撑资产时所需的重要支持者数量",
+                "value": "1"
+            }
+        },
+        {
+            "row_number": 256,
+            "data": {
+                "key": "multiIdentity_ascensionStrongContactTrustThreshold",
+                "useless_system": "多身份开局",
+                "useless_remark": "重要支持者判定的信任阈值，满足信任/好感/把柄人情任一阈值即可计入",
+                "value": "60"
+            }
+        },
+        {
+            "row_number": 257,
+            "data": {
+                "key": "multiIdentity_ascensionStrongContactFavorThreshold",
+                "useless_system": "多身份开局",
+                "useless_remark": "重要支持者判定的好感阈值，满足信任/好感/把柄人情任一阈值即可计入",
+                "value": "70"
+            }
+        },
+        {
+            "row_number": 258,
+            "data": {
+                "key": "multiIdentity_ascensionStrongContactLeverageThreshold",
+                "useless_system": "多身份开局",
+                "useless_remark": "重要支持者判定的把柄/人情阈值，满足信任/好感/把柄人情任一阈值即可计入",
+                "value": "50"
+            }
+        },
+        {
+            "row_number": 259,
+            "data": {
+                "key": "multiIdentity_ascensionRequiredKeyItemCount",
+                "useless_system": "多身份开局",
+                "useless_remark": "作为登基支撑资产时所需的关键物品数量",
+                "value": "3"
+            }
+        },
+        {
+            "row_number": 260,
+            "data": {
+                "key": "multiIdentity_ascensionKeyItemCategories",
+                "useless_system": "多身份开局",
+                "useless_remark": "计入登基关键物品的物品类别，英文逗号分隔",
+                "value": "Evidence,Token,Secret"
+            }
+        },
+        {
+            "row_number": 261,
+            "data": {
+                "key": "multiIdentity_ascensionRequiredHighQualityItemCount",
+                "useless_system": "多身份开局",
+                "useless_remark": "作为登基支撑资产时所需的高品质物品数量",
+                "value": "3"
+            }
+        },
+        {
+            "row_number": 262,
+            "data": {
+                "key": "multiIdentity_ascensionHighQualityItemQualities",
+                "useless_system": "多身份开局",
+                "useless_remark": "计入登基高品质物品的品质枚举，英文逗号分隔",
+                "value": "Rare,Epic,Legendary"
+            }
+        },
+        {
+            "row_number": 263,
+            "data": {
+                "key": "multiIdentity_ascensionRequiredTraitCount",
+                "useless_system": "多身份开局",
+                "useless_remark": "作为登基支撑资产时所需的特性数量",
+                "value": "3"
+            }
+        },
+        {
+            "row_number": 264,
+            "data": {
+                "key": "policyMaxTokens",
+                "useless_system": "圣旨系统",
+                "useless_remark": "policy系统单次最大输出tokens",
+                "value": "15000"
+            }
+        },
+        {
+            "row_number": 265,
+            "data": {
+                "key": "battlefieldDynamic_recent_count",
+                "useless_system": "提示词构建",
+                "useless_remark": "AI能感知到的最近的战斗场数",
+                "value": "20"
+            }
+        },
+        {
+            "row_number": 266,
+            "data": {
+                "key": "legion_action_stamina_max",
+                "useless_system": "战斗系统",
+                "useless_remark": "军团每次朝会回合的最大体力，回合恢复时恢复到该值",
+                "value": "100"
+            }
+        },
+        {
+            "row_number": 267,
+            "data": {
+                "key": "legion_action_stamina_attack",
+                "useless_system": "战斗系统",
+                "useless_remark": "发起进攻命令消耗的体力，用于限制同一军团连续出征",
+                "value": "10"
+            }
+        },
+        {
+            "row_number": 268,
+            "data": {
+                "key": "legion_action_stamina_garrison",
+                "useless_system": "战斗系统",
+                "useless_remark": "驻守/调动到指定行省消耗的体力",
+                "value": "10"
+            }
+        },
+        {
+            "row_number": 269,
+            "data": {
+                "key": "legion_action_stamina_battle",
+                "useless_system": "战斗系统",
+                "useless_remark": "进入军团战斗或城池守军战消耗的体力",
+                "value": "10"
+            }
+        },
+        {
+            "row_number": 270,
+            "data": {
+                "key": "legion_action_stamina_occupy",
+                "useless_system": "战斗系统",
+                "useless_remark": "开始攻占敌方行省消耗的体力",
+                "value": "10"
+            }
+        },
+        {
+            "row_number": 271,
+            "data": {
+                "key": "legion_action_stamina_continue_attack_min",
+                "useless_system": "战斗系统",
+                "useless_remark": "攻占完成后允许继续自动进攻下一个目标所需的最低体力",
+                "value": "10"
+            }
+        },
+        {
+            "row_number": 272,
+            "data": {
+                "key": "battle_maxMeleeRounds",
+                "useless_system": "战斗系统",
+                "useless_remark": "普通军团战斗进入近战后的最大回合数，达到后按战果评分结算胜负",
+                "value": "8"
+            }
+        },
+        {
+            "row_number": 273,
+            "data": {
+                "key": "battle_retreatSoldierRatio",
+                "useless_system": "战斗系统",
+                "useless_remark": "普通军团触发溃退判定的兵力比例阈值，当前兵力/最大兵力低于该值时可提前结束战斗",
+                "value": "0.35"
+            }
+        },
+        {
+            "row_number": 274,
+            "data": {
+                "key": "battle_retreatMoraleThreshold",
+                "useless_system": "战斗系统",
+                "useless_remark": "普通军团触发溃退判定的士气阈值，士气低于该值时可提前结束战斗",
+                "value": "25"
+            }
+        },
+        {
+            "row_number": 275,
+            "data": {
+                "key": "battle_overrunPowerRatio",
+                "useless_system": "战斗系统",
+                "useless_remark": "碾压歼灭所需的胜负评分倍率，胜方评分/败方评分达到该值且败方兵力足够低时直接歼灭",
+                "value": "3"
+            }
+        },
+        {
+            "row_number": 276,
+            "data": {
+                "key": "battle_overrunSoldierRatio",
+                "useless_system": "战斗系统",
+                "useless_remark": "碾压歼灭所需的败方兵力比例阈值，败方当前兵力/最大兵力低于该值才可能被全歼",
+                "value": "0.1"
+            }
+        },
+        {
+            "row_number": 277,
+            "data": {
+                "key": "multiIdentity_ascensionRequiredNetAssets",
+                "useless_system": "多身份开局",
+                "useless_remark": "登基所需净资产",
+                "value": "200000"
+            }
+        },
+        {
+            "row_number": 278,
+            "data": {
+                "key": "multiIdentity_ascensionRequiredMobilizableCapital",
+                "useless_system": "多身份开局",
+                "useless_remark": "登基所需可动员财力",
+                "value": "100000"
+            }
+        },
+        {
+            "row_number": 279,
+            "data": {
+                "key": "multiIdentity_ascensionRequiredCoreRetainerCount",
+                "useless_system": "多身份开局",
+                "useless_remark": "登基所需核心班底人数",
+                "value": "3"
+            }
+        },
+        {
+            "row_number": 280,
+            "data": {
+                "key": "multiIdentity_traitAwakeningFirstMonth",
+                "useless_system": "多身份开局",
+                "useless_remark": "首次稀缺特性觉醒月份",
+                "value": "1"
+            }
+        },
+        {
+            "row_number": 281,
+            "data": {
+                "key": "multiIdentity_traitAwakeningIntervalMonths",
+                "useless_system": "多身份开局",
+                "useless_remark": "稀缺特性后续觉醒间隔（月）",
+                "value": "3"
+            }
+        },
+        {
+            "row_number": 282,
+            "data": {
+                "key": "multiIdentity_ascensionRequiredCompletedEventCount",
+                "useless_system": "多身份开局",
+                "useless_remark": "要求完成任务数",
+                "value": "30"
+            }
+        }
+    ]
+}

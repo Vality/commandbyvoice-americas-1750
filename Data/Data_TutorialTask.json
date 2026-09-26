@@ -1,0 +1,119 @@
+{
+    "num_columns": 7,
+    "headers": [
+        "taskId",
+        "title",
+        "description",
+        "conditionTypes",
+        "conditionParams",
+        "rewardOrder",
+        "navigateTarget"
+    ],
+    "field_types": {
+        "taskId": "int",
+        "title": "string",
+        "description": "string",
+        "conditionTypes": "string",
+        "conditionParams": "string",
+        "rewardOrder": "int",
+        "navigateTarget": "string"
+    },
+    "rows": [
+        {
+            "row_number": 4,
+            "data": {
+                "taskId": "1",
+                "title": "TASK_1_TITLE",
+                "description": "TASK_1_DESC",
+                "conditionTypes": "camera_zoom,camera_pan,view_country",
+                "conditionParams": "10,10,0",
+                "rewardOrder": "1",
+                "navigateTarget": null
+            }
+        },
+        {
+            "row_number": 5,
+            "data": {
+                "taskId": "2",
+                "title": "TASK_2_TITLE",
+                "description": "TASK_2_DESC",
+                "conditionTypes": "policy_complete",
+                "conditionParams": "0",
+                "rewardOrder": "1",
+                "navigateTarget": "storyline"
+            }
+        },
+        {
+            "row_number": 6,
+            "data": {
+                "taskId": "3",
+                "title": "TASK_3_TITLE",
+                "description": "TASK_3_DESC",
+                "conditionTypes": "build_industry",
+                "conditionParams": "0",
+                "rewardOrder": "1",
+                "navigateTarget": "decree"
+            }
+        },
+        {
+            "row_number": 7,
+            "data": {
+                "taskId": "4",
+                "title": "TASK_4_TITLE",
+                "description": "TASK_4_DESC",
+                "conditionTypes": "recruit_soldier",
+                "conditionParams": "0",
+                "rewardOrder": "1",
+                "navigateTarget": "decree"
+            }
+        },
+        {
+            "row_number": 8,
+            "data": {
+                "taskId": "5",
+                "title": "TASK_5_TITLE",
+                "description": "TASK_5_DESC",
+                "conditionTypes": "recruit_official",
+                "conditionParams": "0",
+                "rewardOrder": "1",
+                "navigateTarget": "decree"
+            }
+        },
+        {
+            "row_number": 9,
+            "data": {
+                "taskId": "6",
+                "title": "TASK_6_TITLE",
+                "description": "TASK_6_DESC",
+                "conditionTypes": "upgrade_tech",
+                "conditionParams": "0",
+                "rewardOrder": "1",
+                "navigateTarget": "techTree"
+            }
+        },
+        {
+            "row_number": 10,
+            "data": {
+                "taskId": "7",
+                "title": "TASK_7_TITLE",
+                "description": "TASK_7_DESC",
+                "conditionTypes": "create_weapon,create_tech,create_policy",
+                "conditionParams": "0,0,0",
+                "rewardOrder": "1",
+                "navigateTarget": "decree"
+            }
+        },
+        {
+            "row_number": 11,
+            "data": {
+                "taskId": "8",
+                "title": "TASK_8_TITLE",
+                "description": "TASK_8_DESC",
+                "conditionTypes": "attack_country",
+                "conditionParams": "0",
+                "rewardOrder": "1",
+                "navigateTarget": null
+            }
+        }
+    ]
+}

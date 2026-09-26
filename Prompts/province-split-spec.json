@@ -1,0 +1,36 @@
+{
+  "current_provinces": 45,
+  "cap": 48,
+  "available_slots": 3,
+  "split_candidates": [
+    {
+      "province_id": 31,
+      "name": "North Amazon",
+      "country_id": 200011,
+      "country_name": "New Granada",
+      "cell_count": 765,
+      "rationale": "Largest single province; geographically straddles Amazon basin and Orinoco; viable N/S split would balance the country better",
+      "new_provinces_after_split": [
+        "P49 (North Amazonia)",
+        "P50 (Orinoco)"
+      ],
+      "slots_used_after_split": 2
+    },
+    {
+      "province_id": 44,
+      "name": "Bahia",
+      "country_id": 200009,
+      "country_name": "Brazil",
+      "cell_count": 354,
+      "rationale": "Medium province; only split if first split leaves room; safe to leave for future patch",
+      "new_provinces_after_split": [
+        "P51 (Bahia coast)",
+        "P52 (Bahia interior)"
+      ],
+      "slots_used_after_split": 2,
+      "deferred": true
+    }
+  ],
+  "recommended_action": "Defer actual map edits; emit JSON spec to Prompts/province-split-spec.json for future patch. Map file (Maps/DefaultVoronoiMap.json) is TRULY IMMUTABLE per AGENTS.md.",
+  "rationale_for_deferral": "Phase 6 scope = analysis + identification, not map mutation. AGENTS.md explicitly forbids editing Maps/DefaultVoronoiMap.json."
+}

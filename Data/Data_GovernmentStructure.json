@@ -1,0 +1,929 @@
+{
+  "num_columns": 10,
+  "headers": [
+    "tierName",
+    "useless",
+    "tierId",
+    "slotId",
+    "CountryID",
+    "functionId",
+    "groupId",
+    "groupName",
+    "displayName",
+    "functionDesc"
+  ],
+  "field_types": {
+    "tierName": "string",
+    "useless": "string",
+    "tierId": "string",
+    "slotId": "string",
+    "CountryID": "int",
+    "functionId": "string",
+    "groupId": "string",
+    "groupName": "string",
+    "displayName": "string",
+    "functionDesc": "string"
+  },
+  "rows": [
+    {
+      "row_number": 4,
+      "data": {
+        "tierName": "GOV_TIER_governor",
+        "useless": "Governor / Directs the colonial administration and the governor's cabinet",
+        "tierId": "sangong",
+        "slotId": "sangong_1",
+        "CountryID": "200001",
+        "functionId": "prime_minister",
+        "groupId": "prime_minister_group",
+        "groupName": "Governors Council",
+        "displayName": "200001_GOV_officer_displayName_Governor",
+        "functionDesc": "Directs the colonial administration and the governor's cabinet."
+      }
+    },
+    {
+      "row_number": 5,
+      "data": {
+        "tierName": "GOV_TIER_governor",
+        "useless": "Viceroy / Commands the colonial militia and the garrison forts",
+        "tierId": "sangong",
+        "slotId": "sangong_2",
+        "CountryID": "200002",
+        "functionId": "grand_commandant",
+        "groupId": "grand_commandant_group",
+        "groupName": "Militia Command",
+        "displayName": "200002_GOV_officer_displayName_Viceroy",
+        "functionDesc": "Commands the colonial militia and the garrison forts."
+      }
+    },
+    {
+      "row_number": 6,
+      "data": {
+        "tierName": "GOV_TIER_governor",
+        "useless": "Lord Protector / Inspects the conduct of officials and the colonial courts",
+        "tierId": "sangong",
+        "slotId": "sangong_3",
+        "CountryID": "200003",
+        "functionId": "censor_in_chief",
+        "groupId": "censor_in_chief_group",
+        "groupName": "Censor's Office",
+        "displayName": "200003_GOV_officer_displayName_Lord Protector",
+        "functionDesc": "Inspects the conduct of officials and the colonial courts."
+      }
+    },
+    {
+      "row_number": 7,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Captain-General / Observes the rituals of the colonial church and the crown",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_1",
+        "CountryID": "200004",
+        "functionId": "ritual",
+        "groupId": "ritual_group",
+        "groupName": "Council of Ritual",
+        "displayName": "200004_GOV_officer_displayName_Captain-General",
+        "functionDesc": "Observes the rituals of the colonial church and the crown."
+      }
+    },
+    {
+      "row_number": 8,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Admiral / Guards the colonial palace and the governor's residence",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_2",
+        "CountryID": "200005",
+        "functionId": "palace_guard",
+        "groupId": "palace_guard_group",
+        "groupName": "Captains of the Guard",
+        "displayName": "200005_GOV_officer_displayName_Admiral",
+        "functionDesc": "Guards the colonial palace and the governor's residence."
+      }
+    },
+    {
+      "row_number": 9,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Field Marshal / Holds the frontier forts and the colonial militia",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_3",
+        "CountryID": "200006",
+        "functionId": "garrison",
+        "groupId": "garrison_group",
+        "groupName": "Militia Board",
+        "displayName": "200006_GOV_officer_displayName_Field Marshal",
+        "functionDesc": "Holds the frontier forts and the colonial militia."
+      }
+    },
+    {
+      "row_number": 10,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Surveyor / Oversees roads, ports, and the shipment of colonial produce",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_4",
+        "CountryID": "200007",
+        "functionId": "transport",
+        "groupId": "transport_group",
+        "groupName": "Bureau of Roads",
+        "displayName": "200007_GOV_officer_displayName_Surveyor",
+        "functionDesc": "Oversees roads, ports, and the shipment of colonial produce."
+      }
+    },
+    {
+      "row_number": 11,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Treasurer / Administers the colonial courts and the law of the realm",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_5",
+        "CountryID": "200009",
+        "functionId": "justice",
+        "groupId": "justice_group",
+        "groupName": "Council of Law",
+        "displayName": "200009_GOV_officer_displayName_Treasurer",
+        "functionDesc": "Administers the colonial courts and the law of the realm."
+      }
+    },
+    {
+      "row_number": 12,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Auditor / Treats with the Indigenous nations and the rival colonial powers",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_6",
+        "CountryID": "200010",
+        "functionId": "diplomacy",
+        "groupId": "diplomacy_group",
+        "groupName": "Foreign Office",
+        "displayName": "200010_GOV_officer_displayName_Auditor",
+        "functionDesc": "Treats with the Indigenous nations and the rival colonial powers."
+      }
+    },
+    {
+      "row_number": 13,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Chancellor / Manages the affairs of the colonial families and the successor line",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_7",
+        "CountryID": "200011",
+        "functionId": "royal_clan",
+        "groupId": "royal_clan_group",
+        "groupName": "House of Succession",
+        "displayName": "200011_GOV_officer_displayName_Chancellor",
+        "functionDesc": "Manages the affairs of the colonial families and the successor line."
+      }
+    },
+    {
+      "row_number": 14,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Envoy / Collects taxes, duties, and the colonial treasury",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_8",
+        "CountryID": "200012",
+        "functionId": "finance",
+        "groupId": "finance_group",
+        "groupName": "Treasury Board",
+        "displayName": "200012_GOV_officer_displayName_Envoy",
+        "functionDesc": "Collects taxes, duties, and the colonial treasury."
+      }
+    },
+    {
+      "row_number": 15,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "High Priest / Manages the supply of food, arms, and trade goods to the colony",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_9",
+        "CountryID": "200001",
+        "functionId": "imperial_supply",
+        "groupId": "imperial_supply_group",
+        "groupName": "Supply Office",
+        "displayName": "200001_GOV_officer_displayName_High Priest",
+        "functionDesc": "Manages the supply of food, arms, and trade goods to the colony."
+      }
+    },
+    {
+      "row_number": 16,
+      "data": {
+        "tierName": "GOV_TIER_office",
+        "useless": "Free Slot / A free-form slot of the colonial administration",
+        "tierId": "other",
+        "slotId": "-",
+        "CountryID": "200002",
+        "functionId": "-",
+        "groupId": "-",
+        "groupName": "Free slot",
+        "displayName": "200002_GOV_officer_displayName_Free Slot",
+        "functionDesc": "A free-form slot of the colonial administration."
+      }
+    },
+    {
+      "row_number": 17,
+      "data": {
+        "tierName": "GOV_TIER_governor",
+        "useless": "Governor / Directs the colonial administration and the governor's cabinet",
+        "tierId": "sangong",
+        "slotId": "sangong_1",
+        "CountryID": "200003",
+        "functionId": "prime_minister",
+        "groupId": "prime_minister_group",
+        "groupName": "Governors Council",
+        "displayName": "200003_GOV_officer_displayName_Governor",
+        "functionDesc": "Directs the colonial administration and the governor's cabinet."
+      }
+    },
+    {
+      "row_number": 18,
+      "data": {
+        "tierName": "GOV_TIER_governor",
+        "useless": "Acting Governor / Directs the colonial administration and the governor's cabinet",
+        "tierId": "sangong",
+        "slotId": "sangong_1a",
+        "CountryID": "200004",
+        "functionId": "prime_minister",
+        "groupId": "prime_minister_group",
+        "groupName": "Governors Council",
+        "displayName": "200004_GOV_officer_displayName_Acting Governor",
+        "functionDesc": "Directs the colonial administration and the governor's cabinet."
+      }
+    },
+    {
+      "row_number": 19,
+      "data": {
+        "tierName": "GOV_TIER_governor",
+        "useless": "Deputy Governor / Directs the colonial administration and the governor's cabinet",
+        "tierId": "sangong",
+        "slotId": "sangong_1b",
+        "CountryID": "200005",
+        "functionId": "prime_minister",
+        "groupId": "prime_minister_group",
+        "groupName": "Governors Council",
+        "displayName": "200005_GOV_officer_displayName_Deputy Governor",
+        "functionDesc": "Directs the colonial administration and the governor's cabinet."
+      }
+    },
+    {
+      "row_number": 20,
+      "data": {
+        "tierName": "GOV_TIER_governor",
+        "useless": "Viceroy / Commands the colonial militia and the garrison forts",
+        "tierId": "sangong",
+        "slotId": "sangong_2",
+        "CountryID": "200006",
+        "functionId": "grand_commandant",
+        "groupId": "grand_commandant_group",
+        "groupName": "Militia Command",
+        "displayName": "200006_GOV_officer_displayName_Viceroy",
+        "functionDesc": "Commands the colonial militia and the garrison forts."
+      }
+    },
+    {
+      "row_number": 21,
+      "data": {
+        "tierName": "GOV_TIER_governor",
+        "useless": "Lord Protector / Inspects the conduct of officials and the colonial courts",
+        "tierId": "sangong",
+        "slotId": "sangong_3",
+        "CountryID": "200007",
+        "functionId": "censor_in_chief",
+        "groupId": "censor_in_chief_group",
+        "groupName": "Censor's Office",
+        "displayName": "200007_GOV_officer_displayName_Lord Protector",
+        "functionDesc": "Inspects the conduct of officials and the colonial courts."
+      }
+    },
+    {
+      "row_number": 22,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Captain-General / Observes the rituals of the colonial church and the crown",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_1",
+        "CountryID": "200009",
+        "functionId": "ritual",
+        "groupId": "ritual_group",
+        "groupName": "Council of Ritual",
+        "displayName": "200009_GOV_officer_displayName_Captain-General",
+        "functionDesc": "Observes the rituals of the colonial church and the crown."
+      }
+    },
+    {
+      "row_number": 23,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Admiral / Guards the colonial palace and the governor's residence",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_2",
+        "CountryID": "200010",
+        "functionId": "palace_guard",
+        "groupId": "palace_guard_group",
+        "groupName": "Captains of the Guard",
+        "displayName": "200010_GOV_officer_displayName_Admiral",
+        "functionDesc": "Guards the colonial palace and the governor's residence."
+      }
+    },
+    {
+      "row_number": 24,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Field Marshal / Holds the frontier forts and the colonial militia",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_3",
+        "CountryID": "200011",
+        "functionId": "garrison",
+        "groupId": "garrison_group",
+        "groupName": "Militia Board",
+        "displayName": "200011_GOV_officer_displayName_Field Marshal",
+        "functionDesc": "Holds the frontier forts and the colonial militia."
+      }
+    },
+    {
+      "row_number": 25,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Surveyor / Oversees roads, ports, and the shipment of colonial produce",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_4",
+        "CountryID": "200012",
+        "functionId": "transport",
+        "groupId": "transport_group",
+        "groupName": "Bureau of Roads",
+        "displayName": "200012_GOV_officer_displayName_Surveyor",
+        "functionDesc": "Oversees roads, ports, and the shipment of colonial produce."
+      }
+    },
+    {
+      "row_number": 26,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Treasurer / Administers the colonial courts and the law of the realm",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_5",
+        "CountryID": "200001",
+        "functionId": "justice",
+        "groupId": "justice_group",
+        "groupName": "Council of Law",
+        "displayName": "200001_GOV_officer_displayName_Treasurer",
+        "functionDesc": "Administers the colonial courts and the law of the realm."
+      }
+    },
+    {
+      "row_number": 27,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Auditor / Treats with the Indigenous nations and the rival colonial powers",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_6",
+        "CountryID": "200002",
+        "functionId": "diplomacy",
+        "groupId": "diplomacy_group",
+        "groupName": "Foreign Office",
+        "displayName": "200002_GOV_officer_displayName_Auditor",
+        "functionDesc": "Treats with the Indigenous nations and the rival colonial powers."
+      }
+    },
+    {
+      "row_number": 28,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Chancellor / Manages the affairs of the colonial families and the successor line",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_7",
+        "CountryID": "200003",
+        "functionId": "royal_clan",
+        "groupId": "royal_clan_group",
+        "groupName": "House of Succession",
+        "displayName": "200003_GOV_officer_displayName_Chancellor",
+        "functionDesc": "Manages the affairs of the colonial families and the successor line."
+      }
+    },
+    {
+      "row_number": 29,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Envoy / Collects taxes, duties, and the colonial treasury",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_8",
+        "CountryID": "200004",
+        "functionId": "finance",
+        "groupId": "finance_group",
+        "groupName": "Treasury Board",
+        "displayName": "200004_GOV_officer_displayName_Envoy",
+        "functionDesc": "Collects taxes, duties, and the colonial treasury."
+      }
+    },
+    {
+      "row_number": 30,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "High Priest / Manages the supply of food, arms, and trade goods to the colony",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_9",
+        "CountryID": "200005",
+        "functionId": "imperial_supply",
+        "groupId": "imperial_supply_group",
+        "groupName": "Supply Office",
+        "displayName": "200005_GOV_officer_displayName_High Priest",
+        "functionDesc": "Manages the supply of food, arms, and trade goods to the colony."
+      }
+    },
+    {
+      "row_number": 31,
+      "data": {
+        "tierName": "GOV_TIER_office",
+        "useless": "Free Slot / A free-form slot of the colonial administration",
+        "tierId": "other",
+        "slotId": "-",
+        "CountryID": "200006",
+        "functionId": "-",
+        "groupId": "-",
+        "groupName": "Free slot",
+        "displayName": "200006_GOV_officer_displayName_Free Slot",
+        "functionDesc": "A free-form slot of the colonial administration."
+      }
+    },
+    {
+      "row_number": 32,
+      "data": {
+        "tierName": "GOV_TIER_governor",
+        "useless": "Governor / Directs the colonial administration and the governor's cabinet",
+        "tierId": "sangong",
+        "slotId": "sangong_1",
+        "CountryID": "200007",
+        "functionId": "prime_minister",
+        "groupId": "prime_minister_group",
+        "groupName": "Governors Council",
+        "displayName": "200007_GOV_officer_displayName_Governor",
+        "functionDesc": "Directs the colonial administration and the governor's cabinet."
+      }
+    },
+    {
+      "row_number": 33,
+      "data": {
+        "tierName": "GOV_TIER_governor",
+        "useless": "Viceroy / Commands the colonial militia and the garrison forts",
+        "tierId": "sangong",
+        "slotId": "sangong_2",
+        "CountryID": "200009",
+        "functionId": "grand_commandant",
+        "groupId": "grand_commandant_group",
+        "groupName": "Militia Command",
+        "displayName": "200009_GOV_officer_displayName_Viceroy",
+        "functionDesc": "Commands the colonial militia and the garrison forts."
+      }
+    },
+    {
+      "row_number": 34,
+      "data": {
+        "tierName": "GOV_TIER_governor",
+        "useless": "Lord Protector / Inspects the conduct of officials and the colonial courts",
+        "tierId": "sangong",
+        "slotId": "sangong_3",
+        "CountryID": "200010",
+        "functionId": "censor_in_chief",
+        "groupId": "censor_in_chief_group",
+        "groupName": "Censor's Office",
+        "displayName": "200010_GOV_officer_displayName_Lord Protector",
+        "functionDesc": "Inspects the conduct of officials and the colonial courts."
+      }
+    },
+    {
+      "row_number": 35,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Captain-General / Observes the rituals of the colonial church and the crown",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_1",
+        "CountryID": "200011",
+        "functionId": "ritual",
+        "groupId": "ritual_group",
+        "groupName": "Council of Ritual",
+        "displayName": "200011_GOV_officer_displayName_Captain-General",
+        "functionDesc": "Observes the rituals of the colonial church and the crown."
+      }
+    },
+    {
+      "row_number": 36,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Admiral / Guards the colonial palace and the governor's residence",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_2",
+        "CountryID": "200012",
+        "functionId": "palace_guard",
+        "groupId": "palace_guard_group",
+        "groupName": "Captains of the Guard",
+        "displayName": "200012_GOV_officer_displayName_Admiral",
+        "functionDesc": "Guards the colonial palace and the governor's residence."
+      }
+    },
+    {
+      "row_number": 37,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Field Marshal / Holds the frontier forts and the colonial militia",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_3",
+        "CountryID": "200001",
+        "functionId": "garrison",
+        "groupId": "garrison_group",
+        "groupName": "Militia Board",
+        "displayName": "200001_GOV_officer_displayName_Field Marshal",
+        "functionDesc": "Holds the frontier forts and the colonial militia."
+      }
+    },
+    {
+      "row_number": 38,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Surveyor / Oversees roads, ports, and the shipment of colonial produce",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_4",
+        "CountryID": "200002",
+        "functionId": "transport",
+        "groupId": "transport_group",
+        "groupName": "Bureau of Roads",
+        "displayName": "200002_GOV_officer_displayName_Surveyor",
+        "functionDesc": "Oversees roads, ports, and the shipment of colonial produce."
+      }
+    },
+    {
+      "row_number": 39,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Treasurer / Administers the colonial courts and the law of the realm",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_5",
+        "CountryID": "200003",
+        "functionId": "justice",
+        "groupId": "justice_group",
+        "groupName": "Council of Law",
+        "displayName": "200003_GOV_officer_displayName_Treasurer",
+        "functionDesc": "Administers the colonial courts and the law of the realm."
+      }
+    },
+    {
+      "row_number": 40,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Auditor / Treats with the Indigenous nations and the rival colonial powers",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_6",
+        "CountryID": "200004",
+        "functionId": "diplomacy",
+        "groupId": "diplomacy_group",
+        "groupName": "Foreign Office",
+        "displayName": "200004_GOV_officer_displayName_Auditor",
+        "functionDesc": "Treats with the Indigenous nations and the rival colonial powers."
+      }
+    },
+    {
+      "row_number": 41,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Chancellor / Manages the affairs of the colonial families and the successor line",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_7",
+        "CountryID": "200005",
+        "functionId": "royal_clan",
+        "groupId": "royal_clan_group",
+        "groupName": "House of Succession",
+        "displayName": "200005_GOV_officer_displayName_Chancellor",
+        "functionDesc": "Manages the affairs of the colonial families and the successor line."
+      }
+    },
+    {
+      "row_number": 42,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Envoy / Collects taxes, duties, and the colonial treasury",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_8",
+        "CountryID": "200006",
+        "functionId": "finance",
+        "groupId": "finance_group",
+        "groupName": "Treasury Board",
+        "displayName": "200006_GOV_officer_displayName_Envoy",
+        "functionDesc": "Collects taxes, duties, and the colonial treasury."
+      }
+    },
+    {
+      "row_number": 43,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "High Priest / Manages the supply of food, arms, and trade goods to the colony",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_9",
+        "CountryID": "200007",
+        "functionId": "imperial_supply",
+        "groupId": "imperial_supply_group",
+        "groupName": "Supply Office",
+        "displayName": "200007_GOV_officer_displayName_High Priest",
+        "functionDesc": "Manages the supply of food, arms, and trade goods to the colony."
+      }
+    },
+    {
+      "row_number": 44,
+      "data": {
+        "tierName": "GOV_TIER_office",
+        "useless": "Free Slot / A free-form slot of the colonial administration",
+        "tierId": "other",
+        "slotId": "-",
+        "CountryID": "200009",
+        "functionId": "-",
+        "groupId": "-",
+        "groupName": "Free slot",
+        "displayName": "200009_GOV_officer_displayName_Free Slot",
+        "functionDesc": "A free-form slot of the colonial administration."
+      }
+    },
+    {
+      "row_number": 45,
+      "data": {
+        "tierName": "GOV_TIER_governor",
+        "useless": "Governor / Directs the colonial administration and the governor's cabinet",
+        "tierId": "sangong",
+        "slotId": "sangong_1",
+        "CountryID": "200010",
+        "functionId": "prime_minister",
+        "groupId": "prime_minister_group",
+        "groupName": "Governors Council",
+        "displayName": "200010_GOV_officer_displayName_Governor",
+        "functionDesc": "Directs the colonial administration and the governor's cabinet."
+      }
+    },
+    {
+      "row_number": 46,
+      "data": {
+        "tierName": "GOV_TIER_governor",
+        "useless": "Viceroy / Commands the colonial militia and the garrison forts",
+        "tierId": "sangong",
+        "slotId": "sangong_2",
+        "CountryID": "200011",
+        "functionId": "grand_commandant",
+        "groupId": "grand_commandant_group",
+        "groupName": "Militia Command",
+        "displayName": "200011_GOV_officer_displayName_Viceroy",
+        "functionDesc": "Commands the colonial militia and the garrison forts."
+      }
+    },
+    {
+      "row_number": 47,
+      "data": {
+        "tierName": "GOV_TIER_governor",
+        "useless": "Lord Protector / Inspects the conduct of officials and the colonial courts",
+        "tierId": "sangong",
+        "slotId": "sangong_3",
+        "CountryID": "200012",
+        "functionId": "censor_in_chief",
+        "groupId": "censor_in_chief_group",
+        "groupName": "Censor's Office",
+        "displayName": "200012_GOV_officer_displayName_Lord Protector",
+        "functionDesc": "Inspects the conduct of officials and the colonial courts."
+      }
+    },
+    {
+      "row_number": 48,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Captain-General / Observes the rituals of the colonial church and the crown",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_1",
+        "CountryID": "200001",
+        "functionId": "ritual",
+        "groupId": "ritual_group",
+        "groupName": "Council of Ritual",
+        "displayName": "200001_GOV_officer_displayName_Captain-General",
+        "functionDesc": "Observes the rituals of the colonial church and the crown."
+      }
+    },
+    {
+      "row_number": 49,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Admiral / Guards the colonial palace and the governor's residence",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_2",
+        "CountryID": "200002",
+        "functionId": "palace_guard",
+        "groupId": "palace_guard_group",
+        "groupName": "Captains of the Guard",
+        "displayName": "200002_GOV_officer_displayName_Admiral",
+        "functionDesc": "Guards the colonial palace and the governor's residence."
+      }
+    },
+    {
+      "row_number": 50,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Field Marshal / Holds the frontier forts and the colonial militia",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_3",
+        "CountryID": "200003",
+        "functionId": "garrison",
+        "groupId": "garrison_group",
+        "groupName": "Militia Board",
+        "displayName": "200003_GOV_officer_displayName_Field Marshal",
+        "functionDesc": "Holds the frontier forts and the colonial militia."
+      }
+    },
+    {
+      "row_number": 51,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Surveyor / Oversees roads, ports, and the shipment of colonial produce",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_4",
+        "CountryID": "200004",
+        "functionId": "transport",
+        "groupId": "transport_group",
+        "groupName": "Bureau of Roads",
+        "displayName": "200004_GOV_officer_displayName_Surveyor",
+        "functionDesc": "Oversees roads, ports, and the shipment of colonial produce."
+      }
+    },
+    {
+      "row_number": 52,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Treasurer / Administers the colonial courts and the law of the realm",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_5",
+        "CountryID": "200005",
+        "functionId": "justice",
+        "groupId": "justice_group",
+        "groupName": "Council of Law",
+        "displayName": "200005_GOV_officer_displayName_Treasurer",
+        "functionDesc": "Administers the colonial courts and the law of the realm."
+      }
+    },
+    {
+      "row_number": 53,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Auditor / Treats with the Indigenous nations and the rival colonial powers",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_6",
+        "CountryID": "200006",
+        "functionId": "diplomacy",
+        "groupId": "diplomacy_group",
+        "groupName": "Foreign Office",
+        "displayName": "200006_GOV_officer_displayName_Auditor",
+        "functionDesc": "Treats with the Indigenous nations and the rival colonial powers."
+      }
+    },
+    {
+      "row_number": 54,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Chancellor / Manages the affairs of the colonial families and the successor line",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_7",
+        "CountryID": "200007",
+        "functionId": "royal_clan",
+        "groupId": "royal_clan_group",
+        "groupName": "House of Succession",
+        "displayName": "200007_GOV_officer_displayName_Chancellor",
+        "functionDesc": "Manages the affairs of the colonial families and the successor line."
+      }
+    },
+    {
+      "row_number": 55,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Envoy / Collects taxes, duties, and the colonial treasury",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_8",
+        "CountryID": "200009",
+        "functionId": "finance",
+        "groupId": "finance_group",
+        "groupName": "Treasury Board",
+        "displayName": "200009_GOV_officer_displayName_Envoy",
+        "functionDesc": "Collects taxes, duties, and the colonial treasury."
+      }
+    },
+    {
+      "row_number": 56,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "High Priest / Manages the supply of food, arms, and trade goods to the colony",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_9",
+        "CountryID": "200010",
+        "functionId": "imperial_supply",
+        "groupId": "imperial_supply_group",
+        "groupName": "Supply Office",
+        "displayName": "200010_GOV_officer_displayName_High Priest",
+        "functionDesc": "Manages the supply of food, arms, and trade goods to the colony."
+      }
+    },
+    {
+      "row_number": 57,
+      "data": {
+        "tierName": "GOV_TIER_office",
+        "useless": "Free Slot / A free-form slot of the colonial administration",
+        "tierId": "other",
+        "slotId": "-",
+        "CountryID": "200011",
+        "functionId": "-",
+        "groupId": "-",
+        "groupName": "Free slot",
+        "displayName": "200011_GOV_officer_displayName_Free Slot",
+        "functionDesc": "A free-form slot of the colonial administration."
+      }
+    },
+    {
+      "row_number": 58,
+      "data": {
+        "tierName": "GOV_TIER_governor",
+        "useless": "Viceroy / Directs the colonial administration of Peru and its audiencia",
+        "tierId": "sangong",
+        "slotId": "sangong_1",
+        "CountryID": "200008",
+        "functionId": "prime_minister",
+        "groupId": "prime_minister_group",
+        "groupName": "Governors Council",
+        "displayName": "200008_GOV_officer_displayName_Viceroy",
+        "functionDesc": "Directs the colonial administration of Peru and its audiencia."
+      }
+    },
+    {
+      "row_number": 59,
+      "data": {
+        "tierName": "GOV_TIER_governor",
+        "useless": "Auditor / Oversees the colonial courts and the Bourbon reforms",
+        "tierId": "sangong",
+        "slotId": "sangong_2",
+        "CountryID": "200008",
+        "functionId": "grand_commandant",
+        "groupId": "grand_commandant_group",
+        "groupName": "Militia Command",
+        "displayName": "200008_GOV_officer_displayName_Auditor",
+        "functionDesc": "Oversees the colonial courts and the Bourbon reforms."
+      }
+    },
+    {
+      "row_number": 60,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Treasurer / Manages the silver fleets and the colonial treasury",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_1",
+        "CountryID": "200008",
+        "functionId": "ritual",
+        "groupId": "ritual_group",
+        "groupName": "Council of Ritual",
+        "displayName": "200008_GOV_officer_displayName_Treasurer",
+        "functionDesc": "Manages the silver fleets and the colonial treasury."
+      }
+    },
+    {
+      "row_number": 61,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Captain-General / Commands the militia and the highland garrisons",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_2",
+        "CountryID": "200008",
+        "functionId": "garrison",
+        "groupId": "garrison_group",
+        "groupName": "Militia Board",
+        "displayName": "200008_GOV_officer_displayName_Captain-General",
+        "functionDesc": "Commands the militia and the highland garrisons."
+      }
+    },
+    {
+      "row_number": 62,
+      "data": {
+        "tierName": "GOV_TIER_council",
+        "useless": "Bishop / Observes the church calendar and the missionary towns",
+        "tierId": "jiuqing",
+        "slotId": "jiuqing_3",
+        "CountryID": "200008",
+        "functionId": "palace_guard",
+        "groupId": "palace_guard_group",
+        "groupName": "Captains of the Guard",
+        "displayName": "200008_GOV_officer_displayName_Bishop",
+        "functionDesc": "Observes the church calendar and the missionary towns."
+      }
+    },
+    {
+      "row_number": 63,
+      "data": {
+        "tierName": "GOV_TIER_office",
+        "useless": "Free Slot / A free-form slot of the colonial administration",
+        "tierId": "other",
+        "slotId": "-",
+        "CountryID": "200012",
+        "functionId": "-",
+        "groupId": "-",
+        "groupName": "Free slot",
+        "displayName": "200012_GOV_officer_displayName_Free Slot",
+        "functionDesc": "A free-form slot of the colonial administration."
+      }
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "num_columns": 9,
+  "headers": [
+    "id",
+    "name",
+    "description",
+    "rarity",
+    "tag",
+    "baseBuffValue",
+    "portraitPath",
+    "hasDynamicEffect",
+    "acquisitionType"
+  ],
+  "field_types": {
+    "id": "int",
+    "name": "string",
+    "description": "string",
+    "rarity": "string",
+    "tag": "string",
+    "baseBuffValue": "float",
+    "portraitPath": "string",
+    "hasDynamicEffect": "string",
+    "acquisitionType": "string"
+  },
+  "rows": [
+    {
+      "row_number": 4,
+      "data": {
+        "id": "1",
+        "name": "Eleanor 'The Duchess'",
+        "description": "A noblewoman of the colonial salons, witty and cosmopolitan, whose presence at court steadies the governor's cabinet.",
+        "rarity": "Legendary",
+        "tag": "Cultivator",
+        "baseBuffValue": "0.05",
+        "portraitPath": "Portraits/Concubine1",
+        "hasDynamicEffect": "True",
+        "acquisitionType": "婚配"
+      }
+    },
+    {
+      "row_number": 5,
+      "data": {
+        "id": "2",
+        "name": "Anne-Sophie de la Croix",
+        "description": "A French-born lady of New Orleans salons, known for her sharp tongue and the chandelier dance she choreographed for the Carnival.",
+        "rarity": "Legendary",
+        "tag": "Cultivator",
+        "baseBuffValue": "0.03",
+        "portraitPath": "Portraits/Concubine2",
+        "hasDynamicEffect": "True",
+        "acquisitionType": "婚配"
+      }
+    },
+    {
+      "row_number": 6,
+      "data": {
+        "id": "3",
+        "name": "Carolina de los Reyes",
+        "description": "A creole beauty of the Tierra Firme, legendary for her patronage of poetry and the planters' ball of Cartagena.",
+        "rarity": "Legendary",
+        "tag": "Cultivator",
+        "baseBuffValue": "0.05",
+        "portraitPath": "Portraits/Concubine3",
+        "hasDynamicEffect": "True",
+        "acquisitionType": "婚配"
+      }
+    },
+    {
+      "row_number": 7,
+      "data": {
+        "id": "4",
+        "name": "Marie-Madeleine de Plessis",
+        "description": "A widow of the Louisiana frontier, soft-spoken yet cunning, who guides the governor's household with an iron hand.",
+        "rarity": "Legendary",
+        "tag": "Cultivator",
+        "baseBuffValue": "0.05",
+        "portraitPath": "Portraits/Concubine4",
+        "hasDynamicEffect": "True",
+        "acquisitionType": "婚配"
+      }
+    },
+    {
+      "row_number": 8,
+      "data": {
+        "id": "5",
+        "name": "Anne Bradstreet",
+        "description": "A Puritan poetess of the Massachusetts colony, whose verses lift the spirits of the Sabbath-keeping towns.",
+        "rarity": "Rare",
+        "tag": "Cultivator",
+        "baseBuffValue": "0.03",
+        "portraitPath": "Portraits/Concubine5",
+        "hasDynamicEffect": "False",
+        "acquisitionType": "婚配"
+      }
+    },
+    {
+      "row_number": 9,
+      "data": {
+        "id": "6",
+        "name": "Sarah Kemble Knight",
+        "description": "A colonial diarist and tavern keeper of Boston, who rode the post-roads alone and traded in land warrants.",
+        "rarity": "Rare",
+        "tag": "Cultivator",
+        "baseBuffValue": "0.04",
+        "portraitPath": "Portraits/Concubine6",
+        "hasDynamicEffect": "False",
+        "acquisitionType": "婚配"
+      }
+    },
+    {
+      "row_number": 10,
+      "data": {
+        "id": "7",
+        "name": "Marie-Rose Durocher",
+        "description": "A Quebecoise seamstress of the Saint Lawrence, who founded a convent and a school of needlework.",
+        "rarity": "Rare",
+        "tag": "Cultivator",
+        "baseBuffValue": "0.03",
+        "portraitPath": "Portraits/Concubine7",
+        "hasDynamicEffect": "False",
+        "acquisitionType": "婚配"
+      }
+    },
+    {
+      "row_number": 11,
+      "data": {
+        "id": "8",
+        "name": "Anne de Montagne",
+        "description": "Daughter of a Huguenot settler of the Hudson valley, learned in the herbs of the New World.",
+        "rarity": "Rare",
+        "tag": "Cultivator",
+        "baseBuffValue": "0.04",
+        "portraitPath": "Portraits/Concubine8",
+        "hasDynamicEffect": "False",
+        "acquisitionType": "婚配"
+      }
+    },
+    {
+      "row_number": 12,
+      "data": {
+        "id": "9",
+        "name": "Charlotte de Savereux",
+        "description": "Mistress of the Bordeaux merchant fleet, a French planter's daughter and sharp-eyed at the customs house.",
+        "rarity": "Rare",
+        "tag": "Cultivator",
+        "baseBuffValue": "0.03",
+        "portraitPath": "Portraits/Concubine9",
+        "hasDynamicEffect": "False",
+        "acquisitionType": "婚配"
+      }
+    },
+    {
+      "row_number": 13,
+      "data": {
+        "id": "10",
+        "name": "Maria de la Garza",
+        "description": "A noblewoman of the Rio Grande, keeper of the Spanish colonial land grants and household shrine.",
+        "rarity": "Rare",
+        "tag": "Cultivator",
+        "baseBuffValue": "0.04",
+        "portraitPath": "Portraits/Concubine10",
+        "hasDynamicEffect": "False",
+        "acquisitionType": "婚配"
+      }
+    },
+    {
+      "row_number": 14,
+      "data": {
+        "id": "11",
+        "name": "Kateri Tekakwitha",
+        "description": "A Mohawk-Algonquin convert of the Mohawk valley, a weaver of beadwork and a lay sister of the Jesuits.",
+        "rarity": "Rare",
+        "tag": "Cultivator",
+        "baseBuffValue": "0.05",
+        "portraitPath": "Portraits/Concubine11",
+        "hasDynamicEffect": "False",
+        "acquisitionType": "婚配"
+      }
+    },
+    {
+      "row_number": 15,
+      "data": {
+        "id": "12",
+        "name": "Nanye-hi",
+        "description": "A Cherokee Beloved Woman of Chota, beloved of the Overhill towns, famous for her counsel at the peace councils.",
+        "rarity": "Rare",
+        "tag": "Cultivator",
+        "baseBuffValue": "0.04",
+        "portraitPath": "Portraits/Concubine12",
+        "hasDynamicEffect": "False",
+        "acquisitionType": "婚配"
+      }
+    },
+    {
+      "row_number": 16,
+      "data": {
+        "id": "13",
+        "name": "Margaret Brent",
+        "description": "A landowner of colonial Maryland, executor of the Calvert estate and a defender of the colony's militia.",
+        "rarity": "Rare",
+        "tag": "Cultivator",
+        "baseBuffValue": "0.04",
+        "portraitPath": "Portraits/Concubine13",
+        "hasDynamicEffect": "False",
+        "acquisitionType": "婚配"
+      }
+    },
+    {
+      "row_number": 17,
+      "data": {
+        "id": "14",
+        "name": "Tituba",
+        "description": "A P Boca islander in the service of the Salem parsonage, versed in folk medicine and the folktales of the Caribbean.",
+        "rarity": "Rare",
+        "tag": "Cultivator",
+        "baseBuffValue": "0.03",
+        "portraitPath": "Portraits/Concubine14",
+        "hasDynamicEffect": "False",
+        "acquisitionType": "婚配"
+      }
+    },
+    {
+      "row_number": 18,
+      "data": {
+        "id": "15",
+        "name": "Eliza Lucas Pinckney",
+        "description": "A South Carolina planter's daughter, who introduced indigo culture to the colonial Lowcountry.",
+        "rarity": "Rare",
+        "tag": "Cultivator",
+        "baseBuffValue": "0.04",
+        "portraitPath": "Portraits/Concubine15",
+        "hasDynamicEffect": "False",
+        "acquisitionType": "婚配"
+      }
+    },
+    {
+      "row_number": 19,
+      "data": {
+        "id": "16",
+        "name": "Catherine de Verdier",
+        "description": "A French Huguenot spinning mistress of the Carolinas, who kept the household and the small silk nurseries.",
+        "rarity": "Rare",
+        "tag": "Cultivator",
+        "baseBuffValue": "0.02",
+        "portraitPath": "Portraits/Concubine16",
+        "hasDynamicEffect": "False",
+        "acquisitionType": "婚配"
+      }
+    },
+    {
+      "row_number": 20,
+      "data": {
+        "id": "17",
+        "name": "Mary Johnson",
+        "description": "An indentured servant of the Virginia tobacco fields, who by thrift and diligence rose to the housekeeper's keys.",
+        "rarity": "Rare",
+        "tag": "Cultivator",
+        "baseBuffValue": "0.02",
+        "portraitPath": "Portraits/Concubine17",
+        "hasDynamicEffect": "False",
+        "acquisitionType": "婚配"
+      }
+    },
+    {
+      "row_number": 21,
+      "data": {
+        "id": "18",
+        "name": "Anneke van Voorthuijsen",
+        "description": "A Dutch widow of New Amsterdam, keeper of the Bowery Lane farm and the orange grove.",
+        "rarity": "Rare",
+        "tag": "Cultivator",
+        "baseBuffValue": "0.02",
+        "portraitPath": "Portraits/Concubine18",
+        "hasDynamicEffect": "False",
+        "acquisitionType": "婚配"
+      }
+    },
+    {
+      "row_number": 22,
+      "data": {
+        "id": "19",
+        "name": "Brita Stina Pipping",
+        "description": "A Finnish wife of the New Sweden colony, builder of the log cabin and the sauna by the Delaware.",
+        "rarity": "Rare",
+        "tag": "Cultivator",
+        "baseBuffValue": "0.02",
+        "portraitPath": "Portraits/Concubine19",
+        "hasDynamicEffect": "False",
+        "acquisitionType": "婚配"
+      }
+    },
+    {
+      "row_number": 23,
+      "data": {
+        "id": "20",
+        "name": "Anna Petrovna Prohorova",
+        "description": "A Russian Siberian cossack's daughter who crossed the strait, a fur-trader and wife of the Kodiak garrison.",
+        "rarity": "Rare",
+        "tag": "Cultivator",
+        "baseBuffValue": "0.02",
+        "portraitPath": "Portraits/Concubine20",
+        "hasDynamicEffect": "False",
+        "acquisitionType": "婚配"
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "soldiersPerLegion": 1000,
+  "legionMoveSpeed": 2.0,
+  "maxLegionsPerCell": 3,
+  "soldiersCostPerCell": 100
+}

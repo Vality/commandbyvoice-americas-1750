@@ -1,0 +1,153 @@
+{
+  "num_columns": 6,
+  "headers": [
+    "CountryID",
+    "CenterX",
+    "CenterY",
+    "CenterZ",
+    "CameraDistance",
+    "CameraAngle"
+  ],
+  "field_types": {
+    "CountryID": "int",
+    "CenterX": "float",
+    "CenterY": "float",
+    "CenterZ": "float",
+    "CameraDistance": "float",
+    "CameraAngle": "float"
+  },
+  "rows": [
+    {
+      "row_number": 4,
+      "data": {
+        "CountryID": 200001,
+        "CenterX": 175.14,
+        "CenterY": 200.18,
+        "CenterZ": 0.0,
+        "CameraDistance": 62.67,
+        "CameraAngle": 70.0
+      }
+    },
+    {
+      "row_number": 5,
+      "data": {
+        "CountryID": 200002,
+        "CenterX": 151.89,
+        "CenterY": 171.97,
+        "CenterZ": 0.0,
+        "CameraDistance": 40.23,
+        "CameraAngle": 70.0
+      }
+    },
+    {
+      "row_number": 6,
+      "data": {
+        "CountryID": 200003,
+        "CenterX": 163.77,
+        "CenterY": 204.59,
+        "CenterZ": 0.0,
+        "CameraDistance": 59.94,
+        "CameraAngle": 70.0
+      }
+    },
+    {
+      "row_number": 7,
+      "data": {
+        "CountryID": 200004,
+        "CenterX": 144.35,
+        "CenterY": 166.74,
+        "CenterZ": 0.0,
+        "CameraDistance": 43.72,
+        "CameraAngle": 70.0
+      }
+    },
+    {
+      "row_number": 8,
+      "data": {
+        "CountryID": 200005,
+        "CenterX": 149.29,
+        "CenterY": 196.54,
+        "CenterZ": 0.0,
+        "CameraDistance": 26.67,
+        "CameraAngle": 70.0
+      }
+    },
+    {
+      "row_number": 9,
+      "data": {
+        "CountryID": 200006,
+        "CenterX": 160.44,
+        "CenterY": 201.91,
+        "CenterZ": 0.0,
+        "CameraDistance": 25.0,
+        "CameraAngle": 70.0
+      }
+    },
+    {
+      "row_number": 10,
+      "data": {
+        "CountryID": 200007,
+        "CenterX": 143.5,
+        "CenterY": 201.14,
+        "CenterZ": 0.0,
+        "CameraDistance": 29.09,
+        "CameraAngle": 70.0
+      }
+    },
+    {
+      "row_number": 11,
+      "data": {
+        "CountryID": 200009,
+        "CenterX": 145.45,
+        "CenterY": 87.63,
+        "CenterZ": 0.0,
+        "CameraDistance": 50.02,
+        "CameraAngle": 70.0
+      }
+    },
+    {
+      "row_number": 12,
+      "data": {
+        "CountryID": 200010,
+        "CenterX": 150.38,
+        "CenterY": 59.96,
+        "CenterZ": 0.0,
+        "CameraDistance": 46.07,
+        "CameraAngle": 70.0
+      }
+    },
+    {
+      "row_number": 13,
+      "data": {
+        "CountryID": 200011,
+        "CenterX": 153.0,
+        "CenterY": 115.35,
+        "CenterZ": 0.0,
+        "CameraDistance": 34.07,
+        "CameraAngle": 70.0
+      }
+    },
+    {
+      "row_number": 14,
+      "data": {
+        "CountryID": 200012,
+        "CenterX": 148.34,
+        "CenterY": 50.12,
+        "CenterZ": 0.0,
+        "CameraDistance": 34.92,
+        "CameraAngle": 70.0
+      }
+    },
+    {
+      "row_number": 15,
+      "data": {
+        "CountryID": 200008,
+        "CenterX": 153.0,
+        "CenterY": 115.35,
+        "CenterZ": 0.0,
+        "CameraDistance": 34.07,
+        "CameraAngle": 70.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,759 @@
+{
+  "num_columns": 15,
+  "headers": [
+    "Name",
+    "NameKey",
+    "Biography",
+    "BiographyKey",
+    "Rank",
+    "RankKey",
+    "CountryID",
+    "SocialClassType",
+    "IsDefault",
+    "FamilyOfficialNames",
+    "FamilyOfficialNameKeys",
+    "FamilyOfficialBios",
+    "FamilyOfficialBioKeys",
+    "FamilyOfficialTypes",
+    "DefaultPortrait"
+  ],
+  "field_types": {
+    "Name": "string",
+    "NameKey": "string",
+    "Biography": "string",
+    "BiographyKey": "string",
+    "Rank": "string",
+    "RankKey": "string",
+    "CountryID": "int",
+    "SocialClassType": "string",
+    "IsDefault": "string",
+    "FamilyOfficialNames": "string",
+    "FamilyOfficialNameKeys": "string",
+    "FamilyOfficialBios": "string",
+    "FamilyOfficialBioKeys": "string",
+    "FamilyOfficialTypes": "string",
+    "DefaultPortrait": "string"
+  },
+  "rows": [
+    {
+      "row_number": 4,
+      "data": {
+        "Name": "Anne Bradstreet",
+        "NameKey": "CONCUBINE_NAME_ANNE_BRADS",
+        "Biography": "Poetess of the Massachusetts Bay Colony, Puritan wife of the Governor of the Massachusetts.",
+        "BiographyKey": "CONCUBINE_BIO_ANNE_BRADS",
+        "Rank": "Empress",
+        "RankKey": "CONCUBINE_RANK_EMPRESS",
+        "CountryID": "200001",
+        "SocialClassType": "Royal",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "",
+        "FamilyOfficialNameKeys": "",
+        "FamilyOfficialBios": "",
+        "FamilyOfficialBioKeys": "",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200001/Anne_Bradstreet.jpg"
+      }
+    },
+    {
+      "row_number": 5,
+      "data": {
+        "Name": "Maria Isabel de Bourbon",
+        "NameKey": "CONCUBINE_NAME_FL_MARIA_OLIVAREZ",
+        "Biography": "Infanta of the Spanish Bourbon house; wife of the Captain-General of Cuba and the Floridas, presided over the Havana court.",
+        "BiographyKey": "CONCUBINE_BIO_FL_MARIA_OLIVAREZ",
+        "Rank": "Empress",
+        "RankKey": "CONCUBINE_RANK_EMPRESS",
+        "CountryID": "200002",
+        "SocialClassType": "Royal",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Felipe de Bourbon",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_FL_MANUEL_CAGIGAL",
+        "FamilyOfficialBios": "Brother of the first lady, Spanish prince of the Bourbon house, patron of the colonial chapel of San Marcos.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_FL_MANUEL_CAGIGAL",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200002/Maria_Isabel_de_Bourbon.jpg"
+      }
+    },
+    {
+      "row_number": 6,
+      "data": {
+        "Name": "Anne of Orleans",
+        "NameKey": "CONCUBINE_NAME_FR_ANNE",
+        "Biography": "French colonial first lady of New France, cousin of the king, a patron of the Quebec salons and the Ursuline chapel.",
+        "BiographyKey": "CONCUBINE_BIO_FR_ANNE",
+        "Rank": "Empress",
+        "RankKey": "CONCUBINE_RANK_EMPRESS",
+        "CountryID": "200003",
+        "SocialClassType": "Royal",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Philippe d'Orleans",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_FR_MONTCALM",
+        "FamilyOfficialBios": "Brother of the first lady, Lieutenant General of New France, diplomat of the colonial court at Versailles.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_FR_MONTCALM",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200003/Anne_of_Orleans.jpg"
+      }
+    },
+    {
+      "row_number": 7,
+      "data": {
+        "Name": "María Ignacia de Azlor",
+        "NameKey": "CONCUBINE_NAME_NS_MARIA_IGNACIA",
+        "Biography": "Wife of a Mexico City silver magnate; presided over the salons of the Viceregal Palace; knight of the Order of Saint James.",
+        "BiographyKey": "CONCUBINE_BIO_NS_MARIA_IGNACIA",
+        "Rank": "Zhaoyi",
+        "RankKey": "CONCUBINE_RANK_ZHAOYI",
+        "CountryID": "200004",
+        "SocialClassType": "Royal",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Ignacio de Azlor",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_NS_AZLOR",
+        "FamilyOfficialBios": "Aragonese nobleman and count of the Viceregal Palace of Mexico City.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_NS_AZLOR",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200004/Maria_Ignacia_de_Azlor.jpg"
+      }
+    },
+    {
+      "row_number": 15,
+      "data": {
+        "Name": "Catalina de Ulloa",
+        "NameKey": "CONCUBINE_NAME_FL_ISABEL_REYES",
+        "Biography": "Mistress of the colonial chapel of San Pedro, herbalist of the Floridas frontier, sharp-tongued at the St. Augustine salons.",
+        "BiographyKey": "CONCUBINE_BIO_FL_ISABEL_REYES",
+        "Rank": "Liangren",
+        "RankKey": "CONCUBINE_RANK_LIANGREN",
+        "CountryID": "200002",
+        "SocialClassType": "Commoner",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Pedro de Ulloa",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_FL_DIEGO_PENA",
+        "FamilyOfficialBios": "Brother of Catalina, captain of the colonial militia of the Apalache frontier.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_FL_DIEGO_PENA",
+        "FamilyOfficialTypes": "Military",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200002/Catalina_de_Ulloa.jpg"
+      }
+    },
+    {
+      "row_number": 16,
+      "data": {
+        "Name": "Marie-Madeleine de Plessis",
+        "NameKey": "CONCUBINE_NAME_FR_MARIE_MADELEINE",
+        "Biography": "Mistress of the Louisiana frontier, a Creole planter's daughter, sharp-tongued at the New Orleans salons.",
+        "BiographyKey": "CONCUBINE_BIO_FR_MARIE_MADELEINE",
+        "Rank": "Zhaoyi",
+        "RankKey": "CONCUBINE_RANK_ZHAOYI",
+        "CountryID": "200003",
+        "SocialClassType": "Scholar",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Jacques Plessis",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_FR_VAUDREUIL",
+        "FamilyOfficialBios": "Brother of the Creole lady, captain of the French militia of the Illinois country.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_FR_VAUDREUIL",
+        "FamilyOfficialTypes": "Military",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200003/Marie-Madeleine_de_Plessis.jpg"
+      }
+    },
+    {
+      "row_number": 17,
+      "data": {
+        "Name": "Eliza Lucas Pinckney",
+        "NameKey": "CONCUBINE_NAME_ELIZA_LUCAS_PINCKNEY",
+        "Biography": "A planter of colonial South Carolina, agronomist of the indigo trade, letter-writer of the colonial salon.",
+        "BiographyKey": "CONCUBINE_BIO_ELIZA_LUCAS_PINCKNEY",
+        "Rank": "Zhaoyi",
+        "RankKey": "CONCUBINE_RANK_ZHAOYI",
+        "CountryID": "200001",
+        "SocialClassType": "Scholar",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Charles Pinckney",
+        "FamilyOfficialNameKeys": "CONCUBINE_FAM_NAME_ELIZA_LUCAS_PINCKNEY",
+        "FamilyOfficialBios": "Brother of Eliza, planter of the lowcountry, advocate of the colonial assemblies of Charleston.",
+        "FamilyOfficialBioKeys": "CONCUBINE_FAM_BIO_ELIZA_LUCAS_PINCKNEY",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200001/Eliza_Lucas_Pinckney.jpg"
+      }
+    },
+    {
+      "row_number": 18,
+      "data": {
+        "Name": "Charlotte Sophia",
+        "NameKey": "CONCUBINE_NAME_CHARLOTTE_SOPHIA",
+        "Biography": "Wife of the British colonial governor of New York, of the Hanover royal line, a patroness of the colonial assemblies.",
+        "BiographyKey": "CONCUBINE_BIO_CHARLOTTE_SOPHIA",
+        "Rank": "Meiren",
+        "RankKey": "CONCUBINE_RANK_MEIREN",
+        "CountryID": "200001",
+        "SocialClassType": "Bureaucrat",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "",
+        "FamilyOfficialNameKeys": "",
+        "FamilyOfficialBios": "",
+        "FamilyOfficialBioKeys": "",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200001/Charlotte_Sophia.jpg"
+      }
+    },
+    {
+      "row_number": 19,
+      "data": {
+        "Name": "Maria Teresa de Cepeda",
+        "NameKey": "CONCUBINE_NAME_FL_BEATRIZ_TOLEDO",
+        "Biography": "Spanish colonial woman of the Floridas, schoolmistress of the Franciscan missions, patron of the colonial chapel schools.",
+        "BiographyKey": "CONCUBINE_BIO_FL_BEATRIZ_TOLEDO",
+        "Rank": "Meiren",
+        "RankKey": "CONCUBINE_RANK_MEIREN",
+        "CountryID": "200002",
+        "SocialClassType": "Scholar",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Juan de Cepeda",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_FL_MANUEL_CAGIGAL",
+        "FamilyOfficialBios": "Brother of Maria Teresa, carpenter of the San Marcos presidio, builder of the chapel of San Pedro.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_FL_MANUEL_CAGIGAL",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200002/Maria_Teresa_de_Cepeda.jpg"
+      }
+    },
+    {
+      "row_number": 20,
+      "data": {
+        "Name": "Charlotte de Taffanel",
+        "NameKey": "CONCUBINE_NAME_FR_CHARLOTTE",
+        "Biography": "French colonial woman of the Saint Lawrence, daughter of a garrison officer; keeper of the Quebec salon at the Chateau Saint-Louis.",
+        "BiographyKey": "CONCUBINE_BIO_FR_CHARLOTTE",
+        "Rank": "Meiren",
+        "RankKey": "CONCUBINE_RANK_MEIREN",
+        "CountryID": "200003",
+        "SocialClassType": "Commoner",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Pierre de Taffanel",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_FR_BOUGAINVILLE",
+        "FamilyOfficialBios": "Father of Charlotte, Marquis de La Jonquiere, governor of New France before the war.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_FR_BOUGAINVILLE",
+        "FamilyOfficialTypes": "Military",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200003/Charlotte_de_Taffanel.jpg"
+      }
+    },
+    {
+      "row_number": 21,
+      "data": {
+        "Name": "Ana María de Tagle",
+        "NameKey": "CONCUBINE_NAME_NS_ANA_MARIA",
+        "Biography": "Daughter of a Santander merchant; keeper of the kitchen of the Real Audiencia of Guadalajara.",
+        "BiographyKey": "CONCUBINE_BIO_NS_ANA_MARIA",
+        "Rank": "Liangren",
+        "RankKey": "CONCUBINE_RANK_LIANGREN",
+        "CountryID": "200004",
+        "SocialClassType": "Merchant",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "",
+        "FamilyOfficialNameKeys": "",
+        "FamilyOfficialBios": "",
+        "FamilyOfficialBioKeys": "",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200004/Ana_Maria_de_Tagle.jpg"
+      }
+    },
+    {
+      "row_number": 22,
+      "data": {
+        "Name": "Josefa de la Peña",
+        "NameKey": "CONCUBINE_NAME_NS_JOSEFA",
+        "Biography": "Commoner of Mexico City; baker of the pan dulce of the Plaza Mayor.",
+        "BiographyKey": "CONCUBINE_BIO_NS_JOSEFA",
+        "Rank": "Meiren",
+        "RankKey": "CONCUBINE_RANK_MEIREN",
+        "CountryID": "200004",
+        "SocialClassType": "Commoner",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "",
+        "FamilyOfficialNameKeys": "",
+        "FamilyOfficialBios": "",
+        "FamilyOfficialBioKeys": "",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200004/Josefa_de_la_Pena.jpg"
+      }
+    },
+    {
+      "row_number": 33,
+      "data": {
+        "Name": "Maria Josefa de Eslava",
+        "NameKey": "CONCUBINE_NAME_GR_MARIA_JOSEFA",
+        "Biography": "Wife of a Caracas sugar planter, keeper of the colonial chapel of Caracas, patroness of the New Granada salons.",
+        "BiographyKey": "CONCUBINE_BIO_GR_MARIA_JOSEFA",
+        "Rank": "Liangren",
+        "RankKey": "CONCUBINE_RANK_LIANGREN",
+        "CountryID": "200011",
+        "SocialClassType": "Merchant",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Rafael de Eslava",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_ESLAVA",
+        "FamilyOfficialBios": "Husband of Maria Josefa, Captain-General of Caracas, defender of the Venezuelan coast.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_ESLAVA",
+        "FamilyOfficialTypes": "Military",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200011/concubine_001.jpg"
+      }
+    },
+    {
+      "row_number": 34,
+      "data": {
+        "Name": "Beatriz de Manzanet",
+        "NameKey": "CONCUBINE_NAME_GR_BEATRIZ",
+        "Biography": "Mistress of the Cartagena colonial household, keeper of the kitchens of the San Felipe fortress, baker of the New Granada bread.",
+        "BiographyKey": "CONCUBINE_BIO_GR_BEATRIZ",
+        "Rank": "Liangren",
+        "RankKey": "CONCUBINE_RANK_LIANGREN",
+        "CountryID": "200011",
+        "SocialClassType": "Commoner",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Pyotr Oblogin",
+        "FamilyOfficialNameKeys": "CONCUBINE_FAM_NAME_MARFA_OBLOGINA",
+        "FamilyOfficialBios": "Brother of Marfa, cossack of the Shelikhov-Golikov company, fur trader of the Aleutians.",
+        "FamilyOfficialBioKeys": "CONCUBINE_FAM_BIO_MARFA_OBLOGINA",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200011/Marfa_Oblogina.jpg"
+      }
+    },
+    {
+      "row_number": 37,
+      "data": {
+        "Name": "Ganeodiyo",
+        "NameKey": "CONCUBINE_NAME_GANEODIYO",
+        "Biography": "Mother of Handsome Lake; prophetess of the Longhouse tradition, vision-bearer of the Gaiwiio.",
+        "BiographyKey": "CONCUBINE_BIO_GANEODIYO",
+        "Rank": "Empress",
+        "RankKey": "CONCUBINE_RANK_EMPRESS",
+        "CountryID": "200005",
+        "SocialClassType": "Royal",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Skenandoah",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_SKENANDOAH",
+        "FamilyOfficialBios": "Oneida war leader and member of the Iroquois council.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_SKENANDOAH",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200005/Ganeodiyo.jpg"
+      }
+    },
+    {
+      "row_number": 38,
+      "data": {
+        "Name": "Kateri Tekakwitha",
+        "NameKey": "CONCUBINE_NAME_KATERI_TEKAKWITHA",
+        "Biography": "Algonquin-Mohawk convert, lily of the Mohawks; her life of prayer shaped Catholic missions across the Confederacy.",
+        "BiographyKey": "CONCUBINE_BIO_KATERI_TEKAKWITHA",
+        "Rank": "Zhaoyi",
+        "RankKey": "CONCUBINE_RANK_ZHAOYI",
+        "CountryID": "200005",
+        "SocialClassType": "Scholar",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Anastas Tegakwitha",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_ANASTAS_TEGAKWITHA",
+        "FamilyOfficialBios": "Mohawk hunter and elder of the Turtle clan; brother of Kateri.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_ANASTAS_TEGAKWITHA",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200005/Kateri_Tekakwitha.jpg"
+      }
+    },
+    {
+      "row_number": 39,
+      "data": {
+        "Name": "Tiontontat",
+        "NameKey": "CONCUBINE_NAME_TIONTONTAT",
+        "Biography": "Haudenosaunee matron of the Wolf clan; keeper of wampum and council speaker at Onondaga.",
+        "BiographyKey": "CONCUBINE_BIO_TIONTONTAT",
+        "Rank": "Meiren",
+        "RankKey": "CONCUBINE_RANK_MEIREN",
+        "CountryID": "200005",
+        "SocialClassType": "Scholar",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Tiontontat Husband",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_TIONTONTAT_HUSBAND",
+        "FamilyOfficialBios": "Elder sachem of the Wolf clan at Onondaga.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_TIONTONTAT_HUSBAND",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200005/Tiontontat.jpg"
+      }
+    },
+    {
+      "row_number": 40,
+      "data": {
+        "Name": "Selu",
+        "NameKey": "CONCUBINE_NAME_SELU",
+        "Biography": "Cherokee first mother; granary goddess, matriarch of the Cherokee people.",
+        "BiographyKey": "CONCUBINE_BIO_SELU",
+        "Rank": "Empress",
+        "RankKey": "CONCUBINE_RANK_EMPRESS",
+        "CountryID": "200006",
+        "SocialClassType": "Royal",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Selu Consort",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_SELU_CONSORT",
+        "FamilyOfficialBios": "Cherokee elder of the Wolf clan, father of the people.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_SELU_CONSORT",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200006/Selu.jpg"
+      }
+    },
+    {
+      "row_number": 41,
+      "data": {
+        "Name": "Nanyehi",
+        "NameKey": "CONCUBINE_NAME_NANYEHI",
+        "Biography": "Cherokee Beloved Woman of the Wolf clan; led war parties during the Anglo-Cherokee War; later Nancy Ward, diplomatic bridge.",
+        "BiographyKey": "CONCUBINE_BIO_NANYEHI",
+        "Rank": "Zhaoyi",
+        "RankKey": "CONCUBINE_RANK_ZHAOYI",
+        "CountryID": "200006",
+        "SocialClassType": "Military",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Tsu-wa-ni",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_TSU_WA_NI",
+        "FamilyOfficialBios": "Cherokee warrior of the Overhill town, husband of Nanyehi.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_TSU_WA_NI",
+        "FamilyOfficialTypes": "Military",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200006/Nanyehi.jpg"
+      }
+    },
+    {
+      "row_number": 42,
+      "data": {
+        "Name": "Kunokeski",
+        "NameKey": "CONCUBINE_NAME_KUNOKESKI",
+        "Biography": "Cherokee matron of the Deer clan; keeper of the council fire at Chota.",
+        "BiographyKey": "CONCUBINE_BIO_KUNOKESKI",
+        "Rank": "Meiren",
+        "RankKey": "CONCUBINE_RANK_MEIREN",
+        "CountryID": "200006",
+        "SocialClassType": "Scholar",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Kunokeski Brother",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_KUNOKESKI_BROTHER",
+        "FamilyOfficialBios": "Cherokee councilman at Echota.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_KUNOKESKI_BROTHER",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200006/Kunokeski.jpg"
+      }
+    },
+    {
+      "row_number": 43,
+      "data": {
+        "Name": "Celestian",
+        "NameKey": "CONCUBINE_NAME_CELESTIAN",
+        "Biography": "Chinook matron of the Clatsop band; spokesperson at the Chinook council and trade gatherings.",
+        "BiographyKey": "CONCUBINE_BIO_CELESTIAN",
+        "Rank": "Empress",
+        "RankKey": "CONCUBINE_RANK_EMPRESS",
+        "CountryID": "200007",
+        "SocialClassType": "Royal",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Celestian Consort",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_CELESTIAN_CONSORT",
+        "FamilyOfficialBios": "Chinook chief of the Clatsop band.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_CELESTIAN_CONSORT",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200007/Celestian.jpg"
+      }
+    },
+    {
+      "row_number": 44,
+      "data": {
+        "Name": "Kwasind",
+        "NameKey": "CONCUBINE_NAME_KWASIND",
+        "Biography": "Shoshone woman of the Lemhi band; famed craftswoman of the Salmon River settlements.",
+        "BiographyKey": "CONCUBINE_BIO_KWASIND",
+        "Rank": "Zhaoyi",
+        "RankKey": "CONCUBINE_RANK_ZHAOYI",
+        "CountryID": "200007",
+        "SocialClassType": "Scholar",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Kwasind Brother",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_KWASIND_BROTHER",
+        "FamilyOfficialBios": "Shoshone warrior of the Lemhi band.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_KWASIND_BROTHER",
+        "FamilyOfficialTypes": "Military",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200007/Kwasind.jpg"
+      }
+    },
+    {
+      "row_number": 45,
+      "data": {
+        "Name": "Anahareo",
+        "NameKey": "CONCUBINE_NAME_ANAHAREO",
+        "Biography": "Chinook-Tillamook woman of the lower Columbia; midwife and trade matron.",
+        "BiographyKey": "CONCUBINE_BIO_ANAHAREO",
+        "Rank": "Meiren",
+        "RankKey": "CONCUBINE_RANK_MEIREN",
+        "CountryID": "200007",
+        "SocialClassType": "Commoner",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Anahareo Father",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_ANAHAREO_FATHER",
+        "FamilyOfficialBios": "Chinook-Tillamook elder of the lower Columbia.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_ANAHAREO_FATHER",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200007/Anahareo.jpg"
+      }
+    },
+    {
+      "row_number": 46,
+      "data": {
+        "Name": "Maria de la Cerda",
+        "NameKey": "CONCUBINE_NAME_MARIA_DE_LA_CERDA",
+        "Biography": "Wife of the Viceroy; presided over the Lima court during the Bourbon reforms.",
+        "BiographyKey": "CONCUBINE_BIO_MARIA_DE_LA_CERDA",
+        "Rank": "Empress",
+        "RankKey": "CONCUBINE_RANK_EMPRESS",
+        "CountryID": "200008",
+        "SocialClassType": "Royal",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Pedro de la Cerda",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_PEDRO_DE_LA_CERDA",
+        "FamilyOfficialBios": "Spanish nobleman and brigadier of the Viceroyalty of Peru.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_PEDRO_DE_LA_CERDA",
+        "FamilyOfficialTypes": "Military",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200008/concubine_001.jpg"
+      }
+    },
+    {
+      "row_number": 47,
+      "data": {
+        "Name": "Isabel de Ulloa",
+        "NameKey": "CONCUBINE_NAME_ISABEL_DE_ULLOA",
+        "Biography": "Daughter of a Spanish colonial secretary; presided over the Quito and Guayaquil households.",
+        "BiographyKey": "CONCUBINE_BIO_ISABEL_DE_ULLOA",
+        "Rank": "Zhaoyi",
+        "RankKey": "CONCUBINE_RANK_ZHAOYI",
+        "CountryID": "200008",
+        "SocialClassType": "Bureaucrat",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Antonio de Ulloa",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_ANTONIO_DE_ULLOA",
+        "FamilyOfficialBios": "Spanish colonial administrator, governor of Louisiana, naturalist and astronomer.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_ANTONIO_DE_ULLOA",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200008/concubine_002.jpg"
+      }
+    },
+    {
+      "row_number": 48,
+      "data": {
+        "Name": "Josefa Galvez",
+        "NameKey": "CONCUBINE_NAME_JOSEFA_GALVEZ",
+        "Biography": "Niece of the Visitor General Jose de Galvez; presided over the audiencias of Lima.",
+        "BiographyKey": "CONCUBINE_BIO_JOSEFA_GALVEZ",
+        "Rank": "Meiren",
+        "RankKey": "CONCUBINE_RANK_MEIREN",
+        "CountryID": "200008",
+        "SocialClassType": "Scholar",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Jose de Galvez",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_JOSE_DE_GALVEZ",
+        "FamilyOfficialBios": "Able reformer and Visitor General of New Spain, modernizer of colonial administration.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_JOSE_DE_GALVEZ",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200008/concubine_001.jpg"
+      }
+    },
+    {
+      "row_number": 49,
+      "data": {
+        "Name": "Mariana Victoria de Braganza",
+        "NameKey": "CONCUBINE_NAME_BR_MARIANA_ALENCASTRO",
+        "Biography": "Viceroy's wife of colonial Brazil, Infanta of the Braganza house, patron of the colonial chapel of Salvador da Bahia.",
+        "BiographyKey": "CONCUBINE_BIO_BR_MARIANA_ALENCASTRO",
+        "Rank": "Empress",
+        "RankKey": "CONCUBINE_RANK_EMPRESS",
+        "CountryID": "200009",
+        "SocialClassType": "Royal",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Jose Pedro de Braganza",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_BR_ANDRE_MELLO",
+        "FamilyOfficialBios": "Brother of the vicereine, Prince of the Braganza house, patron of the colonial mission schools of Brazil.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_BR_ANDRE_MELLO",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200009/mariana_victoria.jpg"
+      }
+    },
+    {
+      "row_number": 50,
+      "data": {
+        "Name": "Ana de Goes",
+        "NameKey": "CONCUBINE_NAME_BR_JOANA_BARRETO",
+        "Biography": "Wife of a Bahian sugar merchant, keeper of the Recife chapel, patron of the colonial salons of Salvador.",
+        "BiographyKey": "CONCUBINE_BIO_BR_JOANA_BARRETO",
+        "Rank": "Zhaoyi",
+        "RankKey": "CONCUBINE_RANK_ZHAOYI",
+        "CountryID": "200009",
+        "SocialClassType": "Merchant",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Duarte de Goes",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_BR_ANDRE_MELLO",
+        "FamilyOfficialBios": "Brother of Ana, merchant of the colonial sugar trade, defender of the Bahian Recôncavo.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_BR_ANDRE_MELLO",
+        "FamilyOfficialTypes": "Merchant",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200009/Ana_de_Goes.jpg"
+      }
+    },
+    {
+      "row_number": 51,
+      "data": {
+        "Name": "Beatriz de Orta",
+        "NameKey": "CONCUBINE_NAME_BR_BEATRIZ_CABRAL",
+        "Biography": "Mistress of the colonial chapel of Salvador, herbalist of the colonial trade, sharp-tongued in the Portuguese salons.",
+        "BiographyKey": "CONCUBINE_BIO_BR_BEATRIZ_CABRAL",
+        "Rank": "Meiren",
+        "RankKey": "CONCUBINE_RANK_MEIREN",
+        "CountryID": "200009",
+        "SocialClassType": "Commoner",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Pedro de Orta",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_BR_RODRIGO_SOUZA",
+        "FamilyOfficialBios": "Brother of Beatriz, captain of the colonial militia of the Bahian captaincy.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_BR_RODRIGO_SOUZA",
+        "FamilyOfficialTypes": "Military",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200009/Beatriz_de_Orta.jpg"
+      }
+    },
+    {
+      "row_number": 52,
+      "data": {
+        "Name": "Guenole",
+        "NameKey": "CONCUBINE_NAME_GUENOLE",
+        "Biography": "Mapuche lonko of the southern confederation; matriarch of the parliament of Curalaba.",
+        "BiographyKey": "CONCUBINE_BIO_GUENOLE",
+        "Rank": "Empress",
+        "RankKey": "CONCUBINE_RANK_EMPRESS",
+        "CountryID": "200010",
+        "SocialClassType": "Royal",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Guenole Consort",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_GUENOLE_CONSORT",
+        "FamilyOfficialBios": "Mapuche lonko of the southern confederation; husband of Guenole.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_GUENOLE_CONSORT",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200010/Guenole.jpg"
+      }
+    },
+    {
+      "row_number": 53,
+      "data": {
+        "Name": "Millaray",
+        "NameKey": "CONCUBINE_NAME_MILLARAY",
+        "Biography": "Mapuche woman of the central Araucania; midwife and ceremonial speaker of the machi.",
+        "BiographyKey": "CONCUBINE_BIO_MILLARAY",
+        "Rank": "Zhaoyi",
+        "RankKey": "CONCUBINE_RANK_ZHAOYI",
+        "CountryID": "200010",
+        "SocialClassType": "Scholar",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Millaray Brother",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_MILLARAY_BROTHER",
+        "FamilyOfficialBios": "Mapuche cacique of the central Araucania.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_MILLARAY_BROTHER",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200010/Millaray.jpg"
+      }
+    },
+    {
+      "row_number": 54,
+      "data": {
+        "Name": "Huenteao",
+        "NameKey": "CONCUBINE_NAME_HUENTEAO",
+        "Biography": "Mapuche machi of the Bio Bio; keeper of the canelo and ceremonial fire.",
+        "BiographyKey": "CONCUBINE_BIO_HUENTEAO",
+        "Rank": "Meiren",
+        "RankKey": "CONCUBINE_RANK_MEIREN",
+        "CountryID": "200010",
+        "SocialClassType": "Commoner",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Huenteao Husband",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_HUENTEAO_HUSBAND",
+        "FamilyOfficialBios": "Mapuche machi husband, ceremonial assistant.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_HUENTEAO_HUSBAND",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200010/Huenteao.jpg"
+      }
+    },
+    {
+      "row_number": 55,
+      "data": {
+        "Name": "Mboi Yrupe",
+        "NameKey": "CONCUBINE_NAME_MBOI_YRUPE",
+        "Biography": "Payagua matron of the Paraguay river; keeper of the eastern mocovi fire.",
+        "BiographyKey": "CONCUBINE_BIO_MBOI_YRUPE",
+        "Rank": "Empress",
+        "RankKey": "CONCUBINE_RANK_EMPRESS",
+        "CountryID": "200012",
+        "SocialClassType": "Royal",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Mboi Yrupe Consort",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_MBOI_YRUPE_CONSORT",
+        "FamilyOfficialBios": "Payagua cacique of the Paraguay river.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_MBOI_YRUPE_CONSORT",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200012/Mboi_Yrupe.jpg"
+      }
+    },
+    {
+      "row_number": 56,
+      "data": {
+        "Name": "Yari Ysy",
+        "NameKey": "CONCUBINE_NAME_YARI_YSY",
+        "Biography": "Toba woman of the central Chaco; ceremonial speaker and trader across the Pilcomayo.",
+        "BiographyKey": "CONCUBINE_BIO_YARI_YSY",
+        "Rank": "Zhaoyi",
+        "RankKey": "CONCUBINE_RANK_ZHAOYI",
+        "CountryID": "200012",
+        "SocialClassType": "Scholar",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Yari Ysy Brother",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_YARI_YSY_BROTHER",
+        "FamilyOfficialBios": "Toba warrior of the central Chaco.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_YARI_YSY_BROTHER",
+        "FamilyOfficialTypes": "Military",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200012/Yari_Ysy.jpg"
+      }
+    },
+    {
+      "row_number": 57,
+      "data": {
+        "Name": "Ava Katu",
+        "NameKey": "CONCUBINE_NAME_AVA_KATU",
+        "Biography": "Guarani woman of the southern Chaco; keeper of the eastern yvy maraey.",
+        "BiographyKey": "CONCUBINE_BIO_AVA_KATU",
+        "Rank": "Meiren",
+        "RankKey": "CONCUBINE_RANK_MEIREN",
+        "CountryID": "200012",
+        "SocialClassType": "Commoner",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Ava Katu Father",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_AVA_KATU_FATHER",
+        "FamilyOfficialBios": "Guarani elder of the southern Chaco.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_AVA_KATU_FATHER",
+        "FamilyOfficialTypes": "Civil",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200012/Ava_Katu.jpg"
+      }
+    },
+    {
+      "row_number": 58,
+      "data": {
+        "Name": "Maria de la Cerda",
+        "NameKey": "CONCUBINE_NAME_GR_MARIA_CERDA",
+        "Biography": "Wife of the Viceroy of New Granada; presided over the Bogota court during the Bourbon reforms of the Viceroyalty.",
+        "BiographyKey": "CONCUBINE_BIO_GR_MARIA_CERDA",
+        "Rank": "Zhaoyi",
+        "RankKey": "CONCUBINE_RANK_ZHAOYI",
+        "CountryID": "200011",
+        "SocialClassType": "Royal",
+        "IsDefault": "True",
+        "FamilyOfficialNames": "Pedro de la Cerda",
+        "FamilyOfficialNameKeys": "OFFICIAL_NAME_GR_PEDRO_CERDA",
+        "FamilyOfficialBios": "Spanish nobleman and brigadier of the Viceroyalty of New Granada.",
+        "FamilyOfficialBioKeys": "OFFICIAL_BIO_GR_PEDRO_CERDA",
+        "FamilyOfficialTypes": "Military",
+        "DefaultPortrait": "Art/Portraits/ConcubineAvatar/200011/concubine_002.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+    "num_columns": 8,
+    "headers": [
+        "traitId",
+        "traitName",
+        "description",
+        "militaryBonus",
+        "politicalBonus",
+        "charismaBonus",
+        "prestigeBonus",
+        "controlBonus"
+    ],
+    "field_types": {
+        "traitId": "string",
+        "traitName": "string",
+        "description": "string",
+        "militaryBonus": "float",
+        "politicalBonus": "float",
+        "charismaBonus": "float",
+        "prestigeBonus": "float",
+        "controlBonus": "float"
+    },
+    "rows": [
+        {
+            "row_number": 4,
+            "data": {
+                "traitId": "trait_brave",
+                "traitName": "勇武",
+                "description": "天生勇猛，善于征战",
+                "militaryBonus": "10",
+                "politicalBonus": "0",
+                "charismaBonus": "0",
+                "prestigeBonus": "0",
+                "controlBonus": "0"
+            }
+        },
+        {
+            "row_number": 5,
+            "data": {
+                "traitId": "trait_benevolent",
+                "traitName": "仁慈",
+                "description": "宽厚仁爱，深得民心",
+                "militaryBonus": "-5",
+                "politicalBonus": "0",
+                "charismaBonus": "10",
+                "prestigeBonus": "5",
+                "controlBonus": "0"
+            }
+        },
+        {
+            "row_number": 6,
+            "data": {
+                "traitId": "trait_suspicious",
+                "traitName": "多疑",
+                "description": "生性多疑，善于权谋",
+                "militaryBonus": "0",
+                "politicalBonus": "10",
+                "charismaBonus": "-5",
+                "prestigeBonus": "0",
+                "controlBonus": "5"
+            }
+        },
+        {
+            "row_number": 7,
+            "data": {
+                "traitId": "trait_cruel",
+                "traitName": "暴虐",
+                "description": "残暴不仁，以威慑治国",
+                "militaryBonus": "5",
+                "politicalBonus": "0",
+                "charismaBonus": "-10",
+                "prestigeBonus": "-5",
+                "controlBonus": "10"
+            }
+        },
+        {
+            "row_number": 8,
+            "data": {
+                "traitId": "trait_wise",
+                "traitName": "贤明",
+                "description": "英明睿智，治国有方",
+                "militaryBonus": "0",
+                "politicalBonus": "5",
+                "charismaBonus": "5",
+                "prestigeBonus": "10",
+                "controlBonus": "0"
+            }
+        }
+    ]
+}

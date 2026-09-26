@@ -1,0 +1,130 @@
+# --- Backup files ---
+# The MOD is occasionally written by hand-edited JSON batches that leave
+# `.bak`/`.bak2`/.../`.bak9` snapshots next to each touched file. The most
+# recent chain (`.bak9`) is intentionally git-ignored too — git history is
+# the durable record; verbose local snapshots are not.
+*.bak
+*.bak2
+*.bak3
+*.bak4
+*.bak5
+*.bak6
+*.bak7
+*.bak8
+*.bak9
+*.bak10
+
+# --- Editor / scratch ---
+*.tmp
+*.swp
+*.swo
+*.swn
+*~
+.*.swp
+.*.swo
+.\#*
+\#*\#
+*.orig
+*.rej
+
+# --- Python (KoboldCpp prompt-tooling) ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+*.egg-info/
+*.whl
+venv/
+.venv/
+env/
+
+# --- OS metadata ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# --- Logs and runtime ---
+*.log
+*.log.*
+*.pid
+*.seed
+*.lock
+*.pidfile
+nohup.out
+*.out
+*.err
+core
+core.*
+crash-*.dmp
+minidump.dmp
+
+# --- Node / build tools (just in case) ---
+node_modules/
+bower_components/
+jspm_packages/
+.npm
+.yarn
+.pnp.*
+.pnpm-store/
+dist/
+build/
+.cache/
+.parcel-cache/
+.eslintcache
+.stylelintcache
+
+# --- IDE / tool state ---
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# --- Project-local runtime directories ---
+# /tmp inside the MOD root (NOT system /tmp)
+/tmp/
+/run/
+/.cache/
+/output/
+/out/
+/generated/
+/build/
+
+# --- AI / Stable Diffusion tooling ---
+*.ckpt
+*.safetensors
+*.pt
+*.pth
+*.onnx
+*.bin
+*.gguf
+A1111-output/
+sd-cache/
+
+# --- Large map / binary artifacts (regeneratable) ---
+# Keep DefaultVoronoiMap.json tracked, but ignore transient exports / caches
+*.tga.bak
+*.png.bak
+*.jpg.bak
+
+# --- OS-detritus that sometimes lands on Proton shared homes ---
+.fuse_hidden*
+.Trash-*
+lost+found/

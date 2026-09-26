@@ -1,0 +1,109 @@
+{
+  "num_columns": 5,
+  "headers": [
+    "ID",
+    "cellX",
+    "cellY",
+    "defaultBuildingID",
+    "uselessName"
+  ],
+  "field_types": {
+    "ID": "int",
+    "cellX": "int",
+    "cellY": "int",
+    "defaultBuildingID": "int",
+    "uselessName": "string"
+  },
+  "rows": [
+    {
+      "row_number": 4,
+      "data": {
+        "ID": "1001001",
+        "cellX": "2",
+        "cellY": "0",
+        "defaultBuildingID": "1009",
+        "uselessName": "Barracks"
+      }
+    },
+    {
+      "row_number": 5,
+      "data": {
+        "ID": "1001002",
+        "cellX": "3",
+        "cellY": "0",
+        "defaultBuildingID": "1008",
+        "uselessName": "College"
+      }
+    },
+    {
+      "row_number": 6,
+      "data": {
+        "ID": "1001003",
+        "cellX": "0",
+        "cellY": "1",
+        "defaultBuildingID": "1002",
+        "uselessName": "Townhouse"
+      }
+    },
+    {
+      "row_number": 7,
+      "data": {
+        "ID": "1002001",
+        "cellX": "1",
+        "cellY": "1",
+        "defaultBuildingID": "1004",
+        "uselessName": "Mine"
+      }
+    },
+    {
+      "row_number": 8,
+      "data": {
+        "ID": "1002002",
+        "cellX": "2",
+        "cellY": "1",
+        "defaultBuildingID": "1005",
+        "uselessName": "Market"
+      }
+    },
+    {
+      "row_number": 9,
+      "data": {
+        "ID": "1002003",
+        "cellX": "3",
+        "cellY": "1",
+        "defaultBuildingID": "1007",
+        "uselessName": "Academy"
+      }
+    },
+    {
+      "row_number": 10,
+      "data": {
+        "ID": "1003001",
+        "cellX": "0",
+        "cellY": "2",
+        "defaultBuildingID": "1001",
+        "uselessName": "Plantation"
+      }
+    },
+    {
+      "row_number": 11,
+      "data": {
+        "ID": "1004001",
+        "cellX": "1",
+        "cellY": "2",
+        "defaultBuildingID": "1003",
+        "uselessName": "Lumber Mill"
+      }
+    },
+    {
+      "row_number": 12,
+      "data": {
+        "ID": "1005001",
+        "cellX": "3",
+        "cellY": "2",
+        "defaultBuildingID": "1006",
+        "uselessName": "Trading Post"
+      }
+    }
+  ]
+}

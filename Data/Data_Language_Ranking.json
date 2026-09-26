@@ -1,0 +1,231 @@
+{
+  "num_columns": 3,
+  "headers": [
+    "ControlID",
+    "zh",
+    "en"
+  ],
+  "field_types": {
+    "ControlID": "string",
+    "zh": "string",
+    "en": "string"
+  },
+  "rows": [
+    {
+      "row_number": 4,
+      "data": {
+        "ControlID": "RANKING_TITLE",
+        "zh": "排行榜",
+        "en": "Ranking"
+      }
+    },
+    {
+      "row_number": 5,
+      "data": {
+        "ControlID": "RANKING_COUNTRY",
+        "zh": "国家排行榜",
+        "en": "Country Ranking"
+      }
+    },
+    {
+      "row_number": 6,
+      "data": {
+        "ControlID": "RANKING_GLOBAL_PLAYER",
+        "zh": "玩家总分排行榜",
+        "en": "Global Player Ranking"
+      }
+    },
+    {
+      "row_number": 7,
+      "data": {
+        "ControlID": "RANKING_COUNTRY_PLAYER",
+        "zh": "区分国家玩家排行榜",
+        "en": "Country Player Ranking"
+      }
+    },
+    {
+      "row_number": 8,
+      "data": {
+        "ControlID": "RANKING_RANK",
+        "zh": "排名",
+        "en": "Rank"
+      }
+    },
+    {
+      "row_number": 9,
+      "data": {
+        "ControlID": "RANKING_NAME",
+        "zh": "名称",
+        "en": "Name"
+      }
+    },
+    {
+      "row_number": 10,
+      "data": {
+        "ControlID": "RANKING_SCORE",
+        "zh": "积分",
+        "en": "Score"
+      }
+    },
+    {
+      "row_number": 11,
+      "data": {
+        "ControlID": "RANKING_LEADER",
+        "zh": "领袖",
+        "en": "Leader"
+      }
+    },
+    {
+      "row_number": 12,
+      "data": {
+        "ControlID": "RANKING_COUNTRY_NAME",
+        "zh": "所属国家",
+        "en": "Country"
+      }
+    },
+    {
+      "row_number": 13,
+      "data": {
+        "ControlID": "RANKING_LOADING",
+        "zh": "加载中...",
+        "en": "Loading..."
+      }
+    },
+    {
+      "row_number": 14,
+      "data": {
+        "ControlID": "RANKING_LOAD_FAILED",
+        "zh": "加载失败",
+        "en": "Load Failed"
+      }
+    },
+    {
+      "row_number": 15,
+      "data": {
+        "ControlID": "RANKING_CLOSE",
+        "zh": "关闭",
+        "en": "Close"
+      }
+    },
+    {
+      "row_number": 16,
+      "data": {
+        "ControlID": "COUNTRY_SELECT_TITLE",
+        "zh": "选择你的国家",
+        "en": "Select Your Colony"
+      }
+    },
+    {
+      "row_number": 17,
+      "data": {
+        "ControlID": "COUNTRY_SELECT_CONFIRM",
+        "zh": "确认选择",
+        "en": "Confirm Colony"
+      }
+    },
+    {
+      "row_number": 18,
+      "data": {
+        "ControlID": "COUNTRY_SELECT_CANCEL",
+        "zh": "取消",
+        "en": "Cancel"
+      }
+    },
+    {
+      "row_number": 19,
+      "data": {
+        "ControlID": "COUNTRY_SWITCH_WARNING",
+        "zh": "切换国家将清除您在{0}的{1}积分，是否确认切换到{2}？",
+        "en": "Switching country will clear your {1} points in {0}. Confirm switch to {2}?"
+      }
+    },
+    {
+      "row_number": 20,
+      "data": {
+        "ControlID": "COUNTRY_SWITCH_CONFIRM",
+        "zh": "确认切换",
+        "en": "Confirm Switch"
+      }
+    },
+    {
+      "row_number": 21,
+      "data": {
+        "ControlID": "WARNING",
+        "zh": "警告",
+        "en": "Warning"
+      }
+    },
+    {
+      "row_number": 22,
+      "data": {
+        "ControlID": "ERROR",
+        "zh": "错误",
+        "en": "Error"
+      }
+    },
+    {
+      "row_number": 23,
+      "data": {
+        "ControlID": "NETWORK_TIMEOUT_MESSAGE",
+        "zh": "网络连接超时，请检查网络后重试",
+        "en": "Network timeout, please check your connection"
+      }
+    },
+    {
+      "row_number": 24,
+      "data": {
+        "ControlID": "SERVER_ERROR_MESSAGE",
+        "zh": "服务器错误，请稍后重试",
+        "en": "Server error, please try again later"
+      }
+    },
+    {
+      "row_number": 25,
+      "data": {
+        "ControlID": "ANTI_CHEAT_MESSAGE",
+        "zh": "检测到异常数据，积分提交失败",
+        "en": "Abnormal data detected, score submission failed"
+      }
+    },
+    {
+      "row_number": 26,
+      "data": {
+        "ControlID": "RATE_LIMIT_MESSAGE",
+        "zh": "提交过于频繁，请稍后再试",
+        "en": "Too many submissions, please try again later"
+      }
+    },
+    {
+      "row_number": 27,
+      "data": {
+        "ControlID": "SCORE_SETTLEMENT_TITLE",
+        "zh": "游戏结算",
+        "en": "Game Settlement"
+      }
+    },
+    {
+      "row_number": 28,
+      "data": {
+        "ControlID": "SCORE_EARNED",
+        "zh": "获得积分",
+        "en": "Score Earned"
+      }
+    },
+    {
+      "row_number": 29,
+      "data": {
+        "ControlID": "TOTAL_SCORE",
+        "zh": "总积分",
+        "en": "Total Score"
+      }
+    },
+    {
+      "row_number": 30,
+      "data": {
+        "ControlID": "CONTINUE",
+        "zh": "继续",
+        "en": "Continue"
+      }
+    }
+  ]
+}

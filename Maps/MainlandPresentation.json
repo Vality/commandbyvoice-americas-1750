@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "backgroundFile": "MainlandBackground.png",
+  "localPosition": {
+    "x": 133.348,
+    "y": -0.48,
+    "z": 110.02
+  },
+  "localEulerAngles": {
+    "x": 0.0,
+    "y": 180.0,
+    "z": 0.0
+  },
+  "localScale": {
+    "x": 49.0318069,
+    "y": 1.33081746,
+    "z": 28.2415943
+  },
+  "bigWorldDefaultPosition": {
+    "x": 164.7,
+    "y": 56.0,
+    "z": 93.3
+  },
+  "bigWorldDefaultDistance": 830.0,
+  "bigWorldXMin": 0.0,
+  "bigWorldXMax": 300.0,
+  "bigWorldZMin": 0.0,
+  "bigWorldZMax": 193.0
+}

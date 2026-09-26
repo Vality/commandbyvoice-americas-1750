@@ -1,0 +1,239 @@
+{
+  "num_columns": 10,
+  "headers": [
+    "MoneyType",
+    "NameLanguageID",
+    "StartLimit",
+    "TradeValue",
+    "iconPath",
+    "MinValue",
+    "MaxValue",
+    "useless",
+    "SceneType",
+    "ShowPerYearRate"
+  ],
+  "field_types": {
+    "MoneyType": "string",
+    "NameLanguageID": "string",
+    "StartLimit": "long",
+    "TradeValue": "int",
+    "iconPath": "string",
+    "MinValue": "float",
+    "MaxValue": "long",
+    "useless": "string",
+    "SceneType": "string",
+    "ShowPerYearRate": "string"
+  },
+  "rows": [
+    {
+      "row_number": 4,
+      "data": {
+        "MoneyType": "land",
+        "NameLanguageID": "Resource_Land",
+        "StartLimit": "1000000000",
+        "TradeValue": "10000",
+        "iconPath": "ArtResources/Image/icon_resource_2",
+        "MinValue": "0",
+        "MaxValue": "1000000000",
+        "useless": "Land",
+        "SceneType": "Both",
+        "ShowPerYearRate": "False"
+      }
+    },
+    {
+      "row_number": 5,
+      "data": {
+        "MoneyType": "food",
+        "NameLanguageID": "Resource_Food",
+        "StartLimit": "1000000000",
+        "TradeValue": "2",
+        "iconPath": "ArtResources/Image/icon_food",
+        "MinValue": "0",
+        "MaxValue": "1000000000",
+        "useless": "Food",
+        "SceneType": "Homeland",
+        "ShowPerYearRate": "False"
+      }
+    },
+    {
+      "row_number": 6,
+      "data": {
+        "MoneyType": "human",
+        "NameLanguageID": "Resource_Human",
+        "StartLimit": "1000000000",
+        "TradeValue": "160",
+        "iconPath": "ArtResources/Image/icon_human",
+        "MinValue": "0",
+        "MaxValue": "1000000000",
+        "useless": "Population",
+        "SceneType": "Homeland",
+        "ShowPerYearRate": "False"
+      }
+    },
+    {
+      "row_number": 7,
+      "data": {
+        "MoneyType": "wood",
+        "NameLanguageID": "Resource_Wood",
+        "StartLimit": "1000000000",
+        "TradeValue": "20",
+        "iconPath": "ArtResources/Image/icon_wood",
+        "MinValue": "0",
+        "MaxValue": "1000000000",
+        "useless": "Timber",
+        "SceneType": "Homeland",
+        "ShowPerYearRate": "False"
+      }
+    },
+    {
+      "row_number": 8,
+      "data": {
+        "MoneyType": "stone",
+        "NameLanguageID": "Resource_Stone",
+        "StartLimit": "1000000000",
+        "TradeValue": "20",
+        "iconPath": "ArtResources/Image/icon_stone",
+        "MinValue": "0",
+        "MaxValue": "1000000000",
+        "useless": "Stone",
+        "SceneType": "Homeland",
+        "ShowPerYearRate": "False"
+      }
+    },
+    {
+      "row_number": 9,
+      "data": {
+        "MoneyType": "coin",
+        "NameLanguageID": "Resource_Coin",
+        "StartLimit": "100000000000000",
+        "TradeValue": "1",
+        "iconPath": "ArtResources/Image/icon_resource_1",
+        "MinValue": "-50000000",
+        "MaxValue": "100000000000000",
+        "useless": "Treasury",
+        "SceneType": "Both",
+        "ShowPerYearRate": "True"
+      }
+    },
+    {
+      "row_number": 10,
+      "data": {
+        "MoneyType": "book",
+        "NameLanguageID": "Resource_Book",
+        "StartLimit": "1000000000",
+        "TradeValue": "200",
+        "iconPath": "ArtResources/Image/icon_book",
+        "MinValue": "0",
+        "MaxValue": "1000000000",
+        "useless": "Knowledge",
+        "SceneType": "Homeland",
+        "ShowPerYearRate": "False"
+      }
+    },
+    {
+      "row_number": 11,
+      "data": {
+        "MoneyType": "soldier",
+        "NameLanguageID": "Resource_Soldier",
+        "StartLimit": "1000000000",
+        "TradeValue": "320",
+        "iconPath": "ArtResources/Image/icon_resource_3",
+        "MinValue": "0",
+        "MaxValue": "1000000000",
+        "useless": "Soldiers",
+        "SceneType": "Both",
+        "ShowPerYearRate": "False"
+      }
+    },
+    {
+      "row_number": 12,
+      "data": {
+        "MoneyType": "military",
+        "NameLanguageID": "Resource_MilitaryPower",
+        "StartLimit": "100",
+        "TradeValue": "20000",
+        "iconPath": "ArtResources/Image/icon_resource_4",
+        "MinValue": "0",
+        "MaxValue": "100",
+        "useless": "Military Power",
+        "SceneType": "BigWorld",
+        "ShowPerYearRate": "False"
+      }
+    },
+    {
+      "row_number": 13,
+      "data": {
+        "MoneyType": "control",
+        "NameLanguageID": "Resource_Control",
+        "StartLimit": "100",
+        "TradeValue": "20000",
+        "iconPath": "ArtResources/Image/icon_resource_5",
+        "MinValue": "0",
+        "MaxValue": "100",
+        "useless": "Control",
+        "SceneType": "BigWorld",
+        "ShowPerYearRate": "False"
+      }
+    },
+    {
+      "row_number": 14,
+      "data": {
+        "MoneyType": "prestige",
+        "NameLanguageID": "Resource_Prestige",
+        "StartLimit": "100",
+        "TradeValue": "20000",
+        "iconPath": "ArtResources/Image/icon_resource_6",
+        "MinValue": "0",
+        "MaxValue": "100",
+        "useless": "Prestige",
+        "SceneType": "BigWorld",
+        "ShowPerYearRate": "False"
+      }
+    },
+    {
+      "row_number": 15,
+      "data": {
+        "MoneyType": "corruption",
+        "NameLanguageID": "Resource_Corruption",
+        "StartLimit": "100",
+        "TradeValue": "20000",
+        "iconPath": "ArtResources/Image/icon_resource_7",
+        "MinValue": "0",
+        "MaxValue": "100",
+        "useless": "Corruption",
+        "SceneType": "BigWorld",
+        "ShowPerYearRate": "False"
+      }
+    },
+    {
+      "row_number": 16,
+      "data": {
+        "MoneyType": "order",
+        "NameLanguageID": "Resource_Order",
+        "StartLimit": "100000",
+        "TradeValue": "50000",
+        "iconPath": "ArtResources/Image/icon_order",
+        "MinValue": "0",
+        "MaxValue": "100",
+        "useless": "Decrees",
+        "SceneType": "BigWorld",
+        "ShowPerYearRate": "False"
+      }
+    },
+    {
+      "row_number": 17,
+      "data": {
+        "MoneyType": "favor",
+        "NameLanguageID": "Resource_Favor",
+        "StartLimit": "10",
+        "TradeValue": "50000",
+        "iconPath": "ArtResources/Image/icon_favor",
+        "MinValue": "0",
+        "MaxValue": "100",
+        "useless": "Favor (Harem)",
+        "SceneType": "Both",
+        "ShowPerYearRate": "False"
+      }
+    }
+  ]
+}

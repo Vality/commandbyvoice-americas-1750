@@ -1,0 +1,1414 @@
+{
+  "mod_id": "mod_20260810055229_949bff",
+  "build_version": "v8",
+  "map_sha256": "69c00dcd8de6597fb5f0c708d9892183ab2eec063ba747a908aba9cd976f873c",
+  "generated_by": "game-developer agent",
+  "generated_at": "2026-08-10",
+  "phase": "Phase 6 — canonical-roster.json",
+  "countries": [
+    {
+      "country_id": "200001",
+      "country_name": "",
+      "culture": "British",
+      "cultural_voice": "British 1750s colonial administration",
+      "language_primary": "en",
+      "language_secondary": "fr",
+      "officers": [
+        {
+          "name": "William Pitt",
+          "type": "Civil",
+          "rank": "sangong_1",
+          "custom_position": "Governor",
+          "social_class": "",
+          "portrait": "william_pitt",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200001/william_pitt.jpg",
+          "name_key": "OFFICIAL_NAME_PITT_ELDER",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "George Anson",
+          "type": "Military",
+          "rank": "jiuqing_1",
+          "custom_position": "Field Marshal",
+          "social_class": "",
+          "portrait": "george_anson",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200001/george_anson.jpg",
+          "name_key": "OFFICIAL_NAME_ANSON",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Henry Pelham",
+          "type": "Civil",
+          "rank": "jiuqing_1",
+          "custom_position": "Chancellor",
+          "social_class": "",
+          "portrait": "henry_pelham",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200001/henry_pelham.jpg",
+          "name_key": "OFFICIAL_NAME_PELHAM",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Robert Clive",
+          "type": "Civil",
+          "rank": "jiuqing_2",
+          "custom_position": "Treasurer",
+          "social_class": "",
+          "portrait": "robert_clive",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200001/robert_clive.jpg",
+          "name_key": "OFFICIAL_NAME_CLIVE",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "James Wolfe",
+          "type": "Military",
+          "rank": "jiuqing_2",
+          "custom_position": "Admiral",
+          "social_class": "",
+          "portrait": "james_wolfe",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200001/james_wolfe.jpg",
+          "name_key": "OFFICIAL_NAME_WOLFE",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Jeffery Amherst",
+          "type": "Military",
+          "rank": "jiuqing_1",
+          "custom_position": "Captain-General",
+          "social_class": "",
+          "portrait": "jeffery_amherst",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200001/jeffery_amherst.jpg",
+          "name_key": "OFFICIAL_NAME_AMHERST",
+          "bio_key": "",
+          "is_default": true
+        }
+      ],
+      "concubines": [
+        {
+          "name": "Anne Bradstreet",
+          "rank": "Empress",
+          "social_class": "Royal",
+          "portrait": "Anne_Bradstreet",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200001/Anne_Bradstreet.jpg",
+          "name_key": "CONCUBINE_NAME_ANNE_BRADS",
+          "bio_key": "CONCUBINE_BIO_ANNE_BRADS",
+          "is_default": true,
+          "family_official": ""
+        },
+        {
+          "name": "Eliza Lucas Pinckney",
+          "rank": "Zhaoyi",
+          "social_class": "Scholar",
+          "portrait": "Eliza_Lucas_Pinckney",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200001/Eliza_Lucas_Pinckney.jpg",
+          "name_key": "CONCUBINE_NAME_ELIZA_LUCAS_PINCKNEY",
+          "bio_key": "CONCUBINE_BIO_ELIZA_LUCAS_PINCKNEY",
+          "is_default": true,
+          "family_official": "Charles Pinckney"
+        },
+        {
+          "name": "Charlotte Sophia",
+          "rank": "Meiren",
+          "social_class": "Bureaucrat",
+          "portrait": "Charlotte_Sophia",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200001/Charlotte_Sophia.jpg",
+          "name_key": "CONCUBINE_NAME_CHARLOTTE_SOPHIA",
+          "bio_key": "CONCUBINE_BIO_CHARLOTTE_SOPHIA",
+          "is_default": true,
+          "family_official": ""
+        }
+      ]
+    },
+    {
+      "country_id": "200002",
+      "country_name": "",
+      "culture": "Spanish (Captaincy General of Cuba/Floridas)",
+      "cultural_voice": "Spanish colonial viceregal administration",
+      "language_primary": "es",
+      "language_secondary": "en",
+      "officers": [
+        {
+          "name": "Diego de Peza y Valle",
+          "type": "Military",
+          "rank": "sangong_1",
+          "custom_position": "Governor",
+          "social_class": "",
+          "portrait": "diego_de_pena_y_valle",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200002/diego_de_pena_y_valle.jpg",
+          "name_key": "OFFICIAL_NAME_FL_DIEGO_PENA",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Alonso Fernandez de Heredia",
+          "type": "Military",
+          "rank": "jiuqing_1",
+          "custom_position": "Captain-General",
+          "social_class": "",
+          "portrait": "alonso_fernandez_de_heredia",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200002/alonso_fernandez_de_heredia.jpg",
+          "name_key": "OFFICIAL_NAME_FL_ALONSO_HEREDIA",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Pedro de Horruytiner",
+          "type": "Civil",
+          "rank": "sangong_2",
+          "custom_position": "Intendant",
+          "social_class": "",
+          "portrait": "pedro_de_horruytiner",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200002/pedro_de_horruytiner.jpg",
+          "name_key": "OFFICIAL_NAME_FL_PEDRO_HORRUYTINER",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Julian de Arriaga y Rivera",
+          "type": "Civil",
+          "rank": "jiuqing_1",
+          "custom_position": "Minister of the Indies",
+          "social_class": "",
+          "portrait": "julian_de_arriaga",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200002/julian_de_arriaga.jpg",
+          "name_key": "OFFICIAL_NAME_FL_JULIAN_ARRIAGA",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Jose Carlos de Aguila",
+          "type": "Military",
+          "rank": "jiuqing_2",
+          "custom_position": "Field Marshal",
+          "social_class": "",
+          "portrait": "jose_carlos_de_aguila",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200002/jose_carlos_de_aguila.jpg",
+          "name_key": "OFFICIAL_NAME_FL_JOSE_AGUILA",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Manuel de Cagigal de la Vega",
+          "type": "Military",
+          "rank": "jiuqing_2",
+          "custom_position": "Admiral",
+          "social_class": "",
+          "portrait": "manuel_de_cagigal",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200002/manuel_de_cagigal.jpg",
+          "name_key": "OFFICIAL_NAME_FL_MANUEL_CAGIGAL",
+          "bio_key": "",
+          "is_default": true
+        }
+      ],
+      "concubines": [
+        {
+          "name": "Maria Isabel de Bourbon",
+          "rank": "Empress",
+          "social_class": "Royal",
+          "portrait": "concubine_001",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200002/concubine_001.jpg",
+          "name_key": "CONCUBINE_NAME_FL_MARIA_OLIVAREZ",
+          "bio_key": "CONCUBINE_BIO_FL_MARIA_OLIVAREZ",
+          "is_default": true,
+          "family_official": "Felipe de Bourbon"
+        },
+        {
+          "name": "Catalina de Ulloa",
+          "rank": "Liangren",
+          "social_class": "Commoner",
+          "portrait": "concubine_002",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200002/concubine_002.jpg",
+          "name_key": "CONCUBINE_NAME_FL_ISABEL_REYES",
+          "bio_key": "CONCUBINE_BIO_FL_ISABEL_REYES",
+          "is_default": true,
+          "family_official": "Pedro de Ulloa"
+        },
+        {
+          "name": "Maria Teresa de Cepeda",
+          "rank": "Meiren",
+          "social_class": "Scholar",
+          "portrait": "concubine_001",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200002/concubine_001.jpg",
+          "name_key": "CONCUBINE_NAME_FL_BEATRIZ_TOLEDO",
+          "bio_key": "CONCUBINE_BIO_FL_BEATRIZ_TOLEDO",
+          "is_default": true,
+          "family_official": "Juan de Cepeda"
+        }
+      ]
+    },
+    {
+      "country_id": "200003",
+      "country_name": "",
+      "culture": "French (Nouvelle-France)",
+      "cultural_voice": "French colonial administration of New France",
+      "language_primary": "fr",
+      "language_secondary": "en",
+      "officers": [
+        {
+          "name": "Louis-Joseph de Montcalm",
+          "type": "Military",
+          "rank": "sangong_1",
+          "custom_position": "Governor-General",
+          "social_class": "",
+          "portrait": "louis_joseph_de_montcalm",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200003/louis_joseph_de_montcalm.jpg",
+          "name_key": "OFFICIAL_NAME_FR_MONTCALM",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Pierre Francois de Rigaud",
+          "type": "Civil",
+          "rank": "sangong_2",
+          "custom_position": "Intendant",
+          "social_class": "",
+          "portrait": "francois_pierre_de_rigaud",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200003/francois_pierre_de_rigaud.jpg",
+          "name_key": "OFFICIAL_NAME_FR_VAUDREUIL",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Antoine-Louis Rouille",
+          "type": "Civil",
+          "rank": "jiuqing_1",
+          "custom_position": "Minister of Marine",
+          "social_class": "",
+          "portrait": "antoine_louis_rouille",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200003/antoine_louis_rouille.jpg",
+          "name_key": "OFFICIAL_NAME_FR_ROUILLE",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Jean-Baptiste de la Rochefoucauld",
+          "type": "Civil",
+          "rank": "jiuqing_2",
+          "custom_position": "Colonial Secretary",
+          "social_class": "",
+          "portrait": "jean_baptiste_de_la_rochefoucauld",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200003/jean_baptiste_de_la_rochefoucauld.jpg",
+          "name_key": "OFFICIAL_NAME_FR_LAR",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Pierre de Bougainville",
+          "type": "Military",
+          "rank": "jiuqing_2",
+          "custom_position": "Field Marshal",
+          "social_class": "",
+          "portrait": "pierre_de_bougainville",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200003/pierre_de_bougainville.jpg",
+          "name_key": "OFFICIAL_NAME_FR_BOUGAINVILLE",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Francois-Gaston de Levis",
+          "type": "Military",
+          "rank": "sangong_3",
+          "custom_position": "Brigadier",
+          "social_class": "",
+          "portrait": "francois_gaston_de_levis",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200003/francois_gaston_de_levis.jpg",
+          "name_key": "OFFICIAL_NAME_FR_LEVIS",
+          "bio_key": "",
+          "is_default": true
+        }
+      ],
+      "concubines": [
+        {
+          "name": "Anne of Orleans",
+          "rank": "Empress",
+          "social_class": "Royal",
+          "portrait": "anne_of_orleans",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200003/anne_of_orleans.jpg",
+          "name_key": "CONCUBINE_NAME_FR_ANNE",
+          "bio_key": "CONCUBINE_BIO_FR_ANNE",
+          "is_default": true,
+          "family_official": "Philippe d'Orleans"
+        },
+        {
+          "name": "Marie-Madeleine de Plessis",
+          "rank": "Zhaoyi",
+          "social_class": "Scholar",
+          "portrait": "marie-madeleine_de_plessis",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200003/marie-madeleine_de_plessis.jpg",
+          "name_key": "CONCUBINE_NAME_FR_MARIE_MADELEINE",
+          "bio_key": "CONCUBINE_BIO_FR_MARIE_MADELEINE",
+          "is_default": true,
+          "family_official": "Jacques Plessis"
+        },
+        {
+          "name": "Charlotte de Taffanel",
+          "rank": "Meiren",
+          "social_class": "Commoner",
+          "portrait": "concubine_001",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200003/concubine_001.jpg",
+          "name_key": "CONCUBINE_NAME_FR_CHARLOTTE",
+          "bio_key": "CONCUBINE_BIO_FR_CHARLOTTE",
+          "is_default": true,
+          "family_official": "Pierre de Taffanel"
+        }
+      ]
+    },
+    {
+      "country_id": "200004",
+      "country_name": "",
+      "culture": "Spanish (Viceroyalty of New Spain)",
+      "cultural_voice": "Spanish colonial viceregal administration",
+      "language_primary": "es",
+      "language_secondary": "en",
+      "officers": [
+        {
+          "name": "Juan Francisco de Revillagigedo",
+          "type": "Civil",
+          "rank": "sangong_1",
+          "custom_position": "Viceroy",
+          "social_class": "",
+          "portrait": "juan_francisco_de_revillagigedo",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200004/juan_francisco_de_revillagigedo.jpg",
+          "name_key": "OFFICIAL_NAME_NS_REVILLAGIGEDO",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "José de Amezquita",
+          "type": "Military",
+          "rank": "jiuqing_1",
+          "custom_position": "Field Marshal",
+          "social_class": "",
+          "portrait": "jose_de_amezquita",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200004/jose_de_amezquita.jpg",
+          "name_key": "OFFICIAL_NAME_NS_AMEZQUITA",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Matías de Aréizaga",
+          "type": "Military",
+          "rank": "jiuqing_1",
+          "custom_position": "Captain-General",
+          "social_class": "",
+          "portrait": "matias_de_areizaga",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200004/matias_de_areizaga.jpg",
+          "name_key": "OFFICIAL_NAME_NS_AREIZAGA",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Marqués de la Ensenada",
+          "type": "Civil",
+          "rank": "jiuqing_1",
+          "custom_position": "Minister of the Indies",
+          "social_class": "",
+          "portrait": "marques_de_la_ensenada",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200004/marques_de_la_ensenada.jpg",
+          "name_key": "OFFICIAL_NAME_NS_MARQUES_ENSENADA",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Francisco de Aguirre",
+          "type": "Civil",
+          "rank": "jiuqing_2",
+          "custom_position": "Engineer",
+          "social_class": "",
+          "portrait": "francisco_de_aguirre",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200004/francisco_de_aguirre.jpg",
+          "name_key": "OFFICIAL_NAME_NS_AGUIRRE",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Manuel de Cagigal de la Vega",
+          "type": "Military",
+          "rank": "jiuqing_2",
+          "custom_position": "Admiral",
+          "social_class": "",
+          "portrait": "manuel_de_cagigal_ns",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200004/manuel_de_cagigal_ns.jpg",
+          "name_key": "OFFICIAL_NAME_NS_CAGIGAL",
+          "bio_key": "",
+          "is_default": true
+        }
+      ],
+      "concubines": [
+        {
+          "name": "María Ignacia de Azlor",
+          "rank": "Zhaoyi",
+          "social_class": "Royal",
+          "portrait": "concubine_001",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200004/concubine_001.jpg",
+          "name_key": "CONCUBINE_NAME_NS_MARIA_IGNACIA",
+          "bio_key": "CONCUBINE_BIO_NS_MARIA_IGNACIA",
+          "is_default": true,
+          "family_official": "Ignacio de Azlor"
+        },
+        {
+          "name": "Ana María de Tagle",
+          "rank": "Liangren",
+          "social_class": "Merchant",
+          "portrait": "concubine_002",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200004/concubine_002.jpg",
+          "name_key": "CONCUBINE_NAME_NS_ANA_MARIA",
+          "bio_key": "CONCUBINE_BIO_NS_ANA_MARIA",
+          "is_default": true,
+          "family_official": ""
+        },
+        {
+          "name": "Josefa de la Peña",
+          "rank": "Meiren",
+          "social_class": "Commoner",
+          "portrait": "concubine_003",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200004/concubine_003.jpg",
+          "name_key": "CONCUBINE_NAME_NS_JOSEFA",
+          "bio_key": "CONCUBINE_BIO_NS_JOSEFA",
+          "is_default": true,
+          "family_official": ""
+        }
+      ]
+    },
+    {
+      "country_id": "200005",
+      "country_name": "",
+      "culture": "Lakota",
+      "cultural_voice": "Lakota / Northeastern Woodlands Indigenous nations",
+      "language_primary": "en",
+      "language_secondary": "",
+      "officers": [
+        {
+          "name": "Kiasola",
+          "type": "Military",
+          "rank": "sangong_1",
+          "custom_position": "Officer",
+          "social_class": "",
+          "portrait": "chief_kiasola",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200005/chief_kiasola.jpg",
+          "name_key": "OFFICIAL_NAME_KIASOLA",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Hendrick Theyanoguin",
+          "type": "Military",
+          "rank": "sangong_2",
+          "custom_position": "Captain-General",
+          "social_class": "",
+          "portrait": "hendrick_theyanoguin",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200005/hendrick_theyanoguin.jpg",
+          "name_key": "OFFICIAL_NAME_HENDRICK_THEYANOGUIN",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Joseph Brant",
+          "type": "Military",
+          "rank": "jiuqing_1",
+          "custom_position": "Field Marshal",
+          "social_class": "",
+          "portrait": "joseph_brant",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200005/joseph_brant.jpg",
+          "name_key": "OFFICIAL_NAME_JOSEPH_BRANT",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Skenandoah",
+          "type": "Civil",
+          "rank": "jiuqing_1",
+          "custom_position": "Chancellor",
+          "social_class": "",
+          "portrait": "skenandoah",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200005/skenandoah.jpg",
+          "name_key": "OFFICIAL_NAME_SKENANDOAH",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Karonghyontye",
+          "type": "Civil",
+          "rank": "jiuqing_2",
+          "custom_position": "High Priest",
+          "social_class": "",
+          "portrait": "sachem_karonghyontye",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200005/sachem_karonghyontye.jpg",
+          "name_key": "OFFICIAL_NAME_KARONGHYONTYE",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "George Croghan",
+          "type": "Civil",
+          "rank": "jiuqing_2",
+          "custom_position": "High Priest",
+          "social_class": "",
+          "portrait": "george_croghan",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200005/george_croghan.jpg",
+          "name_key": "OFFICIAL_NAME_GEORGE_CROGHAN",
+          "bio_key": "",
+          "is_default": true
+        }
+      ],
+      "concubines": [
+        {
+          "name": "Ganeodiyo",
+          "rank": "Empress",
+          "social_class": "Royal",
+          "portrait": "Ganeodiyo",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200005/Ganeodiyo.jpg",
+          "name_key": "CONCUBINE_NAME_GANEODIYO",
+          "bio_key": "CONCUBINE_BIO_GANEODIYO",
+          "is_default": true,
+          "family_official": "Skenandoah"
+        },
+        {
+          "name": "Kateri Tekakwitha",
+          "rank": "Zhaoyi",
+          "social_class": "Scholar",
+          "portrait": "Kateri_Tekakwitha",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200005/Kateri_Tekakwitha.jpg",
+          "name_key": "CONCUBINE_NAME_KATERI_TEKAKWITHA",
+          "bio_key": "CONCUBINE_BIO_KATERI_TEKAKWITHA",
+          "is_default": true,
+          "family_official": "Anastas Tegakwitha"
+        },
+        {
+          "name": "Tiontontat",
+          "rank": "Meiren",
+          "social_class": "Scholar",
+          "portrait": "tiontontat",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200005/tiontontat.jpg",
+          "name_key": "CONCUBINE_NAME_TIONTONTAT",
+          "bio_key": "CONCUBINE_BIO_TIONTONTAT",
+          "is_default": true,
+          "family_official": "Tiontontat Husband"
+        }
+      ]
+    },
+    {
+      "country_id": "200006",
+      "country_name": "",
+      "culture": "Cheyenne/Crow/Ute",
+      "cultural_voice": "Plains Indigenous nations",
+      "language_primary": "en",
+      "language_secondary": "",
+      "officers": [
+        {
+          "name": "Atakullakulla",
+          "type": "Civil",
+          "rank": "sangong_1",
+          "custom_position": "Governor",
+          "social_class": "",
+          "portrait": "atakullakulla",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200006/atakullakulla.jpg",
+          "name_key": "OFFICIAL_NAME_ATAKULLAKULLA",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Oconostota",
+          "type": "Military",
+          "rank": "sangong_2",
+          "custom_position": "Captain-General",
+          "social_class": "",
+          "portrait": "oconostota",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200006/oconostota.jpg",
+          "name_key": "OFFICIAL_NAME_OCONOSTOTA",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Dragging Canoe",
+          "type": "Military",
+          "rank": "jiuqing_1",
+          "custom_position": "Field Marshal",
+          "social_class": "",
+          "portrait": "dragging_canoe",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200006/dragging_canoe.jpg",
+          "name_key": "OFFICIAL_NAME_DRAGGING_CANOE",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Corn Tassel",
+          "type": "Civil",
+          "rank": "jiuqing_1",
+          "custom_position": "Chancellor",
+          "social_class": "",
+          "portrait": "corn_tassel",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200006/corn_tassel.jpg",
+          "name_key": "OFFICIAL_NAME_CORN_TASSEL",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Old Tassel",
+          "type": "Civil",
+          "rank": "jiuqing_2",
+          "custom_position": "High Priest",
+          "social_class": "",
+          "portrait": "old_tassel",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200006/old_tassel.jpg",
+          "name_key": "OFFICIAL_NAME_OLD_TASSEL",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Chief Doublehead",
+          "type": "Military",
+          "rank": "jiuqing_2",
+          "custom_position": "Envoy",
+          "social_class": "",
+          "portrait": "chief_doublehead",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200006/chief_doublehead.jpg",
+          "name_key": "OFFICIAL_NAME_CHIEF_DOUBLEHEAD",
+          "bio_key": "",
+          "is_default": true
+        }
+      ],
+      "concubines": [
+        {
+          "name": "Selu",
+          "rank": "Empress",
+          "social_class": "Royal",
+          "portrait": "selu",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200006/selu.jpg",
+          "name_key": "CONCUBINE_NAME_SELU",
+          "bio_key": "CONCUBINE_BIO_SELU",
+          "is_default": true,
+          "family_official": "Selu Consort"
+        },
+        {
+          "name": "Nanyehi",
+          "rank": "Zhaoyi",
+          "social_class": "Military",
+          "portrait": "Nanyehi",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200006/Nanyehi.jpg",
+          "name_key": "CONCUBINE_NAME_NANYEHI",
+          "bio_key": "CONCUBINE_BIO_NANYEHI",
+          "is_default": true,
+          "family_official": "Tsu-wa-ni"
+        },
+        {
+          "name": "Kunokeski",
+          "rank": "Meiren",
+          "social_class": "Scholar",
+          "portrait": "Kunokeski",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200006/Kunokeski.jpg",
+          "name_key": "CONCUBINE_NAME_KUNOKESKI",
+          "bio_key": "CONCUBINE_BIO_KUNOKESKI",
+          "is_default": true,
+          "family_official": "Kunokeski Brother"
+        }
+      ]
+    },
+    {
+      "country_id": "200007",
+      "country_name": "",
+      "culture": "Chinook/Shoshone",
+      "cultural_voice": "Pacific Northwest Indigenous nations",
+      "language_primary": "en",
+      "language_secondary": "",
+      "officers": [
+        {
+          "name": "Comcomly",
+          "type": "Civil",
+          "rank": "sangong_1",
+          "custom_position": "Governor",
+          "social_class": "",
+          "portrait": "official_001",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200007/official_001.jpg",
+          "name_key": "OFFICIAL_NAME_COMCOMLY",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Coboway",
+          "type": "Civil",
+          "rank": "sangong_2",
+          "custom_position": "Officer",
+          "social_class": "",
+          "portrait": "official_002",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200007/official_002.jpg",
+          "name_key": "OFFICIAL_NAME_COBOWAY",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Concomly the Younger",
+          "type": "Military",
+          "rank": "jiuqing_1",
+          "custom_position": "Field Marshal",
+          "social_class": "",
+          "portrait": "official_003",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200007/official_003.jpg",
+          "name_key": "OFFICIAL_NAME_CONCOMLY_THE_YOUNGER",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Tahlahorten",
+          "type": "Military",
+          "rank": "jiuqing_1",
+          "custom_position": "Field Marshal",
+          "social_class": "",
+          "portrait": "official_004",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200007/official_004.jpg",
+          "name_key": "OFFICIAL_NAME_TAHLAHORTEN",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Chief Washakie",
+          "type": "Civil",
+          "rank": "jiuqing_2",
+          "custom_position": "High Priest",
+          "social_class": "",
+          "portrait": "official_001",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200007/official_001.jpg",
+          "name_key": "OFFICIAL_NAME_CHIEF_WASHAKIE",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Old Toweeto",
+          "type": "Civil",
+          "rank": "jiuqing_2",
+          "custom_position": "High Priest",
+          "social_class": "",
+          "portrait": "official_002",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200007/official_002.jpg",
+          "name_key": "OFFICIAL_NAME_OLD_TOWEETO",
+          "bio_key": "",
+          "is_default": true
+        }
+      ],
+      "concubines": [
+        {
+          "name": "Celestian",
+          "rank": "Empress",
+          "social_class": "Royal",
+          "portrait": "concubine_001",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200007/concubine_001.jpg",
+          "name_key": "CONCUBINE_NAME_CELESTIAN",
+          "bio_key": "CONCUBINE_BIO_CELESTIAN",
+          "is_default": true,
+          "family_official": "Celestian Consort"
+        },
+        {
+          "name": "Kwasind",
+          "rank": "Zhaoyi",
+          "social_class": "Scholar",
+          "portrait": "concubine_002",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200007/concubine_002.jpg",
+          "name_key": "CONCUBINE_NAME_KWASIND",
+          "bio_key": "CONCUBINE_BIO_KWASIND",
+          "is_default": true,
+          "family_official": "Kwasind Brother"
+        },
+        {
+          "name": "Anahareo",
+          "rank": "Meiren",
+          "social_class": "Commoner",
+          "portrait": "concubine_001",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200007/concubine_001.jpg",
+          "name_key": "CONCUBINE_NAME_ANAHAREO",
+          "bio_key": "CONCUBINE_BIO_ANAHAREO",
+          "is_default": true,
+          "family_official": "Anahareo Father"
+        }
+      ]
+    },
+    {
+      "country_id": "200008",
+      "country_name": "",
+      "culture": "Spanish (Viceroyalty of Peru)",
+      "cultural_voice": "Spanish colonial viceregal + Andean administration",
+      "language_primary": "es",
+      "language_secondary": "qu",
+      "officers": [
+        {
+          "name": "Viceroy Teodoro de Croix",
+          "type": "Civil",
+          "rank": "sangong_1",
+          "custom_position": "Governor",
+          "social_class": "",
+          "portrait": "official_001",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200008/official_001.jpg",
+          "name_key": "OFFICIAL_NAME_VICEROY_TEODORO_DE_CROIX",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Aurelio Malavia",
+          "type": "Military",
+          "rank": "sangong_2",
+          "custom_position": "Captain-General",
+          "social_class": "",
+          "portrait": "official_002",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200008/official_002.jpg",
+          "name_key": "OFFICIAL_NAME_AURELIO_MALAVIA",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Manuel de Amat y Junyent",
+          "type": "Civil",
+          "rank": "jiuqing_1",
+          "custom_position": "Chancellor",
+          "social_class": "",
+          "portrait": "official_003",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200008/official_003.jpg",
+          "name_key": "OFFICIAL_NAME_MANUEL_DE_AMAT_Y_JUNYENT",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Jose de Armendariz",
+          "type": "Civil",
+          "rank": "jiuqing_1",
+          "custom_position": "Chancellor",
+          "social_class": "",
+          "portrait": "official_004",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200008/official_004.jpg",
+          "name_key": "OFFICIAL_NAME_JOSE_DE_ARMENDARIZ",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Sebastian de Eslava",
+          "type": "Military",
+          "rank": "jiuqing_2",
+          "custom_position": "Envoy",
+          "social_class": "",
+          "portrait": "official_001",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200008/official_001.jpg",
+          "name_key": "OFFICIAL_NAME_SEBASTIAN_DE_ESLAVA",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Pedro de Cevallos",
+          "type": "Military",
+          "rank": "jiuqing_2",
+          "custom_position": "Envoy",
+          "social_class": "",
+          "portrait": "official_002",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200008/official_002.jpg",
+          "name_key": "OFFICIAL_NAME_PEDRO_DE_CEVALLOS",
+          "bio_key": "",
+          "is_default": true
+        }
+      ],
+      "concubines": [
+        {
+          "name": "Maria de la Cerda",
+          "rank": "Empress",
+          "social_class": "Royal",
+          "portrait": "concubine_001",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200008/concubine_001.jpg",
+          "name_key": "CONCUBINE_NAME_MARIA_DE_LA_CERDA",
+          "bio_key": "CONCUBINE_BIO_MARIA_DE_LA_CERDA",
+          "is_default": true,
+          "family_official": "Pedro de la Cerda"
+        },
+        {
+          "name": "Isabel de Ulloa",
+          "rank": "Zhaoyi",
+          "social_class": "Bureaucrat",
+          "portrait": "concubine_002",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200008/concubine_002.jpg",
+          "name_key": "CONCUBINE_NAME_ISABEL_DE_ULLOA",
+          "bio_key": "CONCUBINE_BIO_ISABEL_DE_ULLOA",
+          "is_default": true,
+          "family_official": "Antonio de Ulloa"
+        },
+        {
+          "name": "Josefa Galvez",
+          "rank": "Meiren",
+          "social_class": "Scholar",
+          "portrait": "concubine_001",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200008/concubine_001.jpg",
+          "name_key": "CONCUBINE_NAME_JOSEFA_GALVEZ",
+          "bio_key": "CONCUBINE_BIO_JOSEFA_GALVEZ",
+          "is_default": true,
+          "family_official": "Jose de Galvez"
+        }
+      ]
+    },
+    {
+      "country_id": "200009",
+      "country_name": "",
+      "culture": "Portuguese (Luso-Brazilian)",
+      "cultural_voice": "Portuguese colonial administration of Brazil",
+      "language_primary": "pt",
+      "language_secondary": "en",
+      "officers": [
+        {
+          "name": "Marques de Pombal",
+          "type": "Civil",
+          "rank": "sangong_1",
+          "custom_position": "Governor",
+          "social_class": "",
+          "portrait": "marques_de_pombal",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200009/marques_de_pombal.jpg",
+          "name_key": "OFFICIAL_NAME_BR_MARQUES_POMBAL",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Conde de Lippe",
+          "type": "Military",
+          "rank": "jiuqing_1",
+          "custom_position": "Field Marshal",
+          "social_class": "",
+          "portrait": "conde_de_lippe",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200009/conde_de_lippe.jpg",
+          "name_key": "OFFICIAL_NAME_BR_CONDE_LIPPE",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Joao da Silva",
+          "type": "Civil",
+          "rank": "jiuqing_1",
+          "custom_position": "Chancellor",
+          "social_class": "",
+          "portrait": "joao_da_silva",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200009/joao_da_silva.jpg",
+          "name_key": "OFFICIAL_NAME_BR_JOAO_SILVA",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Conde de Bobadela",
+          "type": "Military",
+          "rank": "jiuqing_1",
+          "custom_position": "Captain-General",
+          "social_class": "",
+          "portrait": "conde_de_bobadela",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200009/conde_de_bobadela.jpg",
+          "name_key": "OFFICIAL_NAME_BR_CONDE_BOBADELA",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Andre de Mello",
+          "type": "Civil",
+          "rank": "jiuqing_2",
+          "custom_position": "Treasurer",
+          "social_class": "",
+          "portrait": "andre_de_mello",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200009/andre_de_mello.jpg",
+          "name_key": "OFFICIAL_NAME_BR_ANDRE_MELLO",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Rodrigo de Souza",
+          "type": "Military",
+          "rank": "jiuqing_2",
+          "custom_position": "Admiral",
+          "social_class": "",
+          "portrait": "rodrigo_de_souza",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200009/rodrigo_de_souza.jpg",
+          "name_key": "OFFICIAL_NAME_BR_RODRIGO_SOUZA",
+          "bio_key": "",
+          "is_default": true
+        }
+      ],
+      "concubines": [
+        {
+          "name": "Mariana Victoria de Braganza",
+          "rank": "Empress",
+          "social_class": "Royal",
+          "portrait": "mariana_victoria",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200009/mariana_victoria.jpg",
+          "name_key": "CONCUBINE_NAME_BR_MARIANA_ALENCASTRO",
+          "bio_key": "CONCUBINE_BIO_BR_MARIANA_ALENCASTRO",
+          "is_default": true,
+          "family_official": "Jose Pedro de Braganza"
+        },
+        {
+          "name": "Ana de Goes",
+          "rank": "Zhaoyi",
+          "social_class": "Merchant",
+          "portrait": "Ana_de_Goes",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200009/Ana_de_Goes.jpg",
+          "name_key": "CONCUBINE_NAME_BR_JOANA_BARRETO",
+          "bio_key": "CONCUBINE_BIO_BR_JOANA_BARRETO",
+          "is_default": true,
+          "family_official": "Duarte de Goes"
+        },
+        {
+          "name": "Beatriz de Orta",
+          "rank": "Meiren",
+          "social_class": "Commoner",
+          "portrait": "Beatriz_de_Orta",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200009/Beatriz_de_Orta.jpg",
+          "name_key": "CONCUBINE_NAME_BR_BEATRIZ_CABRAL",
+          "bio_key": "CONCUBINE_BIO_BR_BEATRIZ_CABRAL",
+          "is_default": true,
+          "family_official": "Pedro de Orta"
+        }
+      ]
+    },
+    {
+      "country_id": "200010",
+      "country_name": "",
+      "culture": "Mapuche (with Andean influence)",
+      "cultural_voice": "Mapuche toqui and Andean confederations",
+      "language_primary": "es",
+      "language_secondary": "arn",
+      "officers": [
+        {
+          "name": "Lautaro",
+          "type": "Military",
+          "rank": "sangong_1",
+          "custom_position": "Officer",
+          "social_class": "",
+          "portrait": "official_001",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200010/official_001.jpg",
+          "name_key": "OFFICIAL_NAME_LAUTARO",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Caupolican",
+          "type": "Military",
+          "rank": "sangong_2",
+          "custom_position": "Captain-General",
+          "social_class": "",
+          "portrait": "official_002",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200010/official_002.jpg",
+          "name_key": "OFFICIAL_NAME_CAUPOLICAN",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Colo Colo",
+          "type": "Civil",
+          "rank": "jiuqing_1",
+          "custom_position": "Chancellor",
+          "social_class": "",
+          "portrait": "official_003",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200010/official_003.jpg",
+          "name_key": "OFFICIAL_NAME_COLO_COLO",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Pelantaro",
+          "type": "Military",
+          "rank": "jiuqing_1",
+          "custom_position": "Field Marshal",
+          "social_class": "",
+          "portrait": "official_004",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200010/official_004.jpg",
+          "name_key": "OFFICIAL_NAME_PELANTARO",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Anganamon",
+          "type": "Civil",
+          "rank": "jiuqing_2",
+          "custom_position": "High Priest",
+          "social_class": "",
+          "portrait": "official_001",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200010/official_001.jpg",
+          "name_key": "OFFICIAL_NAME_ANGANAMON",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Curillan",
+          "type": "Civil",
+          "rank": "jiuqing_2",
+          "custom_position": "High Priest",
+          "social_class": "",
+          "portrait": "official_002",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200010/official_002.jpg",
+          "name_key": "OFFICIAL_NAME_CURILLAN",
+          "bio_key": "",
+          "is_default": true
+        }
+      ],
+      "concubines": [
+        {
+          "name": "Guenole",
+          "rank": "Empress",
+          "social_class": "Royal",
+          "portrait": "concubine_001",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200010/concubine_001.png",
+          "name_key": "CONCUBINE_NAME_GUENOLE",
+          "bio_key": "CONCUBINE_BIO_GUENOLE",
+          "is_default": true,
+          "family_official": "Guenole Consort"
+        },
+        {
+          "name": "Millaray",
+          "rank": "Zhaoyi",
+          "social_class": "Scholar",
+          "portrait": "concubine_002",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200010/concubine_002.png",
+          "name_key": "CONCUBINE_NAME_MILLARAY",
+          "bio_key": "CONCUBINE_BIO_MILLARAY",
+          "is_default": true,
+          "family_official": "Millaray Brother"
+        },
+        {
+          "name": "Huenteao",
+          "rank": "Meiren",
+          "social_class": "Commoner",
+          "portrait": "concubine_001",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200010/concubine_001.png",
+          "name_key": "CONCUBINE_NAME_HUENTEAO",
+          "bio_key": "CONCUBINE_BIO_HUENTEAO",
+          "is_default": true,
+          "family_official": "Huenteao Husband"
+        }
+      ]
+    },
+    {
+      "country_id": "200011",
+      "country_name": "",
+      "culture": "Spanish (Viceroyalty of New Granada)",
+      "cultural_voice": "Spanish colonial viceregal administration",
+      "language_primary": "es",
+      "language_secondary": "en",
+      "officers": [
+        {
+          "name": "Pedro de Bourbon",
+          "type": "Civil",
+          "rank": "sangong_1",
+          "custom_position": "Viceroy",
+          "social_class": "",
+          "portrait": "pedro_de_bourbon",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200011/pedro_de_bourbon.jpg",
+          "name_key": "OFFICIAL_NAME_PEDRO_BOURBON",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Blas de Lezo",
+          "type": "Military",
+          "rank": "jiuqing_1",
+          "custom_position": "Field Marshal",
+          "social_class": "",
+          "portrait": "blas_de_lezo",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200011/blas_de_lezo.jpg",
+          "name_key": "OFFICIAL_NAME_LEZO",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Pedro de Cevallos",
+          "type": "Civil",
+          "rank": "jiuqing_1",
+          "custom_position": "Chancellor",
+          "social_class": "",
+          "portrait": "pedro_de_cevallos",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200011/pedro_de_cevallos.jpg",
+          "name_key": "OFFICIAL_NAME_CEVALLOS",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Rafael de Eslava",
+          "type": "Military",
+          "rank": "jiuqing_2",
+          "custom_position": "Captain-General",
+          "social_class": "",
+          "portrait": "rafael_de_eslava",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200011/rafael_de_eslava.jpg",
+          "name_key": "OFFICIAL_NAME_ESLAVA",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Jose de Solis y Folch de Cardona",
+          "type": "Military",
+          "rank": "jiuqing_2",
+          "custom_position": "Admiral",
+          "social_class": "",
+          "portrait": "jose_de_solis",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200011/jose_de_solis.jpg",
+          "name_key": "OFFICIAL_NAME_GR_SOLIS",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Juan de Manzanet y Pinillos",
+          "type": "Civil",
+          "rank": "jiuqing_1",
+          "custom_position": "Treasurer",
+          "social_class": "",
+          "portrait": "juan_de_manzanet",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200011/juan_de_manzanet.jpg",
+          "name_key": "OFFICIAL_NAME_GR_MANZANET",
+          "bio_key": "",
+          "is_default": true
+        }
+      ],
+      "concubines": [
+        {
+          "name": "Maria Josefa de Eslava",
+          "rank": "Liangren",
+          "social_class": "Merchant",
+          "portrait": "concubine_001",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200011/concubine_001.jpg",
+          "name_key": "CONCUBINE_NAME_GR_MARIA_JOSEFA",
+          "bio_key": "CONCUBINE_BIO_GR_MARIA_JOSEFA",
+          "is_default": true,
+          "family_official": "Rafael de Eslava"
+        },
+        {
+          "name": "Beatriz de Manzanet",
+          "rank": "Liangren",
+          "social_class": "Commoner",
+          "portrait": "Marfa_Oblogina",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200011/Marfa_Oblogina.jpg",
+          "name_key": "CONCUBINE_NAME_GR_BEATRIZ",
+          "bio_key": "CONCUBINE_BIO_GR_BEATRIZ",
+          "is_default": true,
+          "family_official": "Pyotr Oblogin"
+        },
+        {
+          "name": "Maria de la Cerda",
+          "rank": "Zhaoyi",
+          "social_class": "Royal",
+          "portrait": "concubine_002",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200011/concubine_002.jpg",
+          "name_key": "CONCUBINE_NAME_GR_MARIA_CERDA",
+          "bio_key": "CONCUBINE_BIO_GR_MARIA_CERDA",
+          "is_default": true,
+          "family_official": "Pedro de la Cerda"
+        }
+      ]
+    },
+    {
+      "country_id": "200012",
+      "country_name": "",
+      "culture": "Wichí/Guaraní/Charrúa",
+      "cultural_voice": "Chacoan Indigenous nations",
+      "language_primary": "es",
+      "language_secondary": "gn",
+      "officers": [
+        {
+          "name": "Toqui Huyeman",
+          "type": "Military",
+          "rank": "sangong_1",
+          "custom_position": "Officer",
+          "social_class": "",
+          "portrait": "official_001",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200012/official_001.jpg",
+          "name_key": "OFFICIAL_NAME_TOQUI_HUYEMAN",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Quimili",
+          "type": "Civil",
+          "rank": "sangong_2",
+          "custom_position": "Officer",
+          "social_class": "",
+          "portrait": "official_002",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200012/official_002.jpg",
+          "name_key": "OFFICIAL_NAME_QUIMILI",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Caingua",
+          "type": "Military",
+          "rank": "jiuqing_1",
+          "custom_position": "Field Marshal",
+          "social_class": "",
+          "portrait": "official_003",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200012/official_003.jpg",
+          "name_key": "OFFICIAL_NAME_CAINGUA",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Tabare",
+          "type": "Military",
+          "rank": "jiuqing_1",
+          "custom_position": "Field Marshal",
+          "social_class": "",
+          "portrait": "official_004",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200012/official_004.jpg",
+          "name_key": "OFFICIAL_NAME_TABARE",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Lambare",
+          "type": "Civil",
+          "rank": "jiuqing_2",
+          "custom_position": "High Priest",
+          "social_class": "",
+          "portrait": "official_001",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200012/official_001.jpg",
+          "name_key": "OFFICIAL_NAME_LAMBARE",
+          "bio_key": "",
+          "is_default": true
+        },
+        {
+          "name": "Yrupe",
+          "type": "Civil",
+          "rank": "jiuqing_2",
+          "custom_position": "High Priest",
+          "social_class": "",
+          "portrait": "official_002",
+          "portrait_path": "Art/Portraits/OfficialAvatar/200012/official_002.jpg",
+          "name_key": "OFFICIAL_NAME_YRUPE",
+          "bio_key": "",
+          "is_default": true
+        }
+      ],
+      "concubines": [
+        {
+          "name": "Mboi Yrupe",
+          "rank": "Empress",
+          "social_class": "Royal",
+          "portrait": "concubine_001",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200012/concubine_001.jpg",
+          "name_key": "CONCUBINE_NAME_MBOI_YRUPE",
+          "bio_key": "CONCUBINE_BIO_MBOI_YRUPE",
+          "is_default": true,
+          "family_official": "Mboi Yrupe Consort"
+        },
+        {
+          "name": "Yari Ysy",
+          "rank": "Zhaoyi",
+          "social_class": "Scholar",
+          "portrait": "concubine_002",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200012/concubine_002.jpg",
+          "name_key": "CONCUBINE_NAME_YARI_YSY",
+          "bio_key": "CONCUBINE_BIO_YARI_YSY",
+          "is_default": true,
+          "family_official": "Yari Ysy Brother"
+        },
+        {
+          "name": "Ava Katu",
+          "rank": "Meiren",
+          "social_class": "Commoner",
+          "portrait": "concubine_001",
+          "portrait_path": "Art/Portraits/ConcubineAvatar/200012/concubine_001.jpg",
+          "name_key": "CONCUBINE_NAME_AVA_KATU",
+          "bio_key": "CONCUBINE_BIO_AVA_KATU",
+          "is_default": true,
+          "family_official": "Ava Katu Father"
+        }
+      ]
+    }
+  ]
+}

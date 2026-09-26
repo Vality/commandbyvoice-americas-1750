@@ -1,0 +1,402 @@
+{
+  "num_columns": 8,
+  "headers": [
+    "Name",
+    "CountryID",
+    "ClanRelationLabel",
+    "Gender",
+    "Age",
+    "Military",
+    "Political",
+    "Charisma"
+  ],
+  "field_types": {
+    "Name": "string",
+    "CountryID": "int",
+    "ClanRelationLabel": "string",
+    "Gender": "string",
+    "Age": "int",
+    "Military": "float",
+    "Political": "float",
+    "Charisma": "float"
+  },
+  "rows": [
+    {
+      "row_number": 4,
+      "data": {
+        "Name": "Maria del Pilar",
+        "CountryID": "200001",
+        "ClanRelationLabel": "Elder Cousin",
+        "Gender": "女",
+        "Age": "20",
+        "Military": "25",
+        "Political": "45",
+        "Charisma": "55"
+      }
+    },
+    {
+      "row_number": 5,
+      "data": {
+        "Name": "Isabel de Ulloa",
+        "CountryID": "200001",
+        "ClanRelationLabel": "Younger Cousin",
+        "Gender": "女",
+        "Age": "17",
+        "Military": "30",
+        "Political": "40",
+        "Charisma": "50"
+      }
+    },
+    {
+      "row_number": 6,
+      "data": {
+        "Name": "Anne Le Maistre",
+        "CountryID": "200002",
+        "ClanRelationLabel": "Second Cousin",
+        "Gender": "女",
+        "Age": "18",
+        "Military": "20",
+        "Political": "50",
+        "Charisma": "60"
+      }
+    },
+    {
+      "row_number": 7,
+      "data": {
+        "Name": "Charlotte de Taffanel",
+        "CountryID": "200002",
+        "ClanRelationLabel": "Elder Cousin",
+        "Gender": "女",
+        "Age": "21",
+        "Military": "20",
+        "Political": "55",
+        "Charisma": "50"
+      }
+    },
+    {
+      "row_number": 8,
+      "data": {
+        "Name": "Susanna Anson",
+        "CountryID": "200003",
+        "ClanRelationLabel": "Younger Cousin",
+        "Gender": "女",
+        "Age": "16",
+        "Military": "28",
+        "Political": "42",
+        "Charisma": "58"
+      }
+    },
+    {
+      "row_number": 9,
+      "data": {
+        "Name": "Maria da Silva",
+        "CountryID": "200004",
+        "ClanRelationLabel": "Elder Cousin",
+        "Gender": "女",
+        "Age": "22",
+        "Military": "22",
+        "Political": "48",
+        "Charisma": "52"
+      }
+    },
+    {
+      "row_number": 10,
+      "data": {
+        "Name": "Karonghyontye Sister",
+        "CountryID": "200005",
+        "ClanRelationLabel": "Elder Cousin",
+        "Gender": "女",
+        "Age": "19",
+        "Military": "30",
+        "Political": "40",
+        "Charisma": "60"
+      }
+    },
+    {
+      "row_number": 11,
+      "data": {
+        "Name": "Ani-waya Sister",
+        "CountryID": "200006",
+        "ClanRelationLabel": "Younger Cousin",
+        "Gender": "女",
+        "Age": "17",
+        "Military": "25",
+        "Political": "45",
+        "Charisma": "55"
+      }
+    },
+    {
+      "row_number": 12,
+      "data": {
+        "Name": "Anneke van Bicker",
+        "CountryID": "200007",
+        "ClanRelationLabel": "Elder Cousin",
+        "Gender": "女",
+        "Age": "23",
+        "Military": "20",
+        "Political": "50",
+        "Charisma": "55"
+      }
+    },
+    {
+      "row_number": 13,
+      "data": {
+        "Name": "Aataentsic Sister",
+        "CountryID": "200009",
+        "ClanRelationLabel": "Elder Cousin",
+        "Gender": "女",
+        "Age": "20",
+        "Military": "30",
+        "Political": "42",
+        "Charisma": "60"
+      }
+    },
+    {
+      "row_number": 14,
+      "data": {
+        "Name": "Brita Printz",
+        "CountryID": "200010",
+        "ClanRelationLabel": "Younger Cousin",
+        "Gender": "女",
+        "Age": "18",
+        "Military": "22",
+        "Political": "48",
+        "Charisma": "58"
+      }
+    },
+    {
+      "row_number": 16,
+      "data": {
+        "Name": "Henriette Danckel",
+        "CountryID": "200012",
+        "ClanRelationLabel": "Younger Cousin",
+        "Gender": "女",
+        "Age": "17",
+        "Military": "20",
+        "Political": "50",
+        "Charisma": "60"
+      }
+    },
+    {
+      "row_number": 17,
+      "data": {
+        "Name": "Awenhai",
+        "CountryID": "200005",
+        "ClanRelationLabel": "Mother",
+        "Gender": "女",
+        "Age": "20",
+        "Military": "30",
+        "Political": "40",
+        "Charisma": "55"
+      }
+    },
+    {
+      "row_number": 18,
+      "data": {
+        "Name": "Teyohahande",
+        "CountryID": "200005",
+        "ClanRelationLabel": "Elder Sister",
+        "Gender": "女",
+        "Age": "20",
+        "Military": "30",
+        "Political": "40",
+        "Charisma": "55"
+      }
+    },
+    {
+      "row_number": 19,
+      "data": {
+        "Name": "Nunne",
+        "CountryID": "200006",
+        "ClanRelationLabel": "Mother",
+        "Gender": "女",
+        "Age": "20",
+        "Military": "30",
+        "Political": "40",
+        "Charisma": "55"
+      }
+    },
+    {
+      "row_number": 20,
+      "data": {
+        "Name": "Kalanu",
+        "CountryID": "200006",
+        "ClanRelationLabel": "Younger Sister",
+        "Gender": "女",
+        "Age": "20",
+        "Military": "30",
+        "Political": "40",
+        "Charisma": "55"
+      }
+    },
+    {
+      "row_number": 21,
+      "data": {
+        "Name": "Qayah",
+        "CountryID": "200007",
+        "ClanRelationLabel": "Mother",
+        "Gender": "女",
+        "Age": "20",
+        "Military": "30",
+        "Political": "40",
+        "Charisma": "55"
+      }
+    },
+    {
+      "row_number": 22,
+      "data": {
+        "Name": "Naoma",
+        "CountryID": "200007",
+        "ClanRelationLabel": "Elder Sister",
+        "Gender": "女",
+        "Age": "20",
+        "Military": "30",
+        "Political": "40",
+        "Charisma": "55"
+      }
+    },
+    {
+      "row_number": 23,
+      "data": {
+        "Name": "Ana de Eslava",
+        "CountryID": "200008",
+        "ClanRelationLabel": "Elder Cousin",
+        "Gender": "女",
+        "Age": "20",
+        "Military": "30",
+        "Political": "40",
+        "Charisma": "55"
+      }
+    },
+    {
+      "row_number": 24,
+      "data": {
+        "Name": "Juana de Amat",
+        "CountryID": "200008",
+        "ClanRelationLabel": "Younger Cousin",
+        "Gender": "女",
+        "Age": "20",
+        "Military": "30",
+        "Political": "40",
+        "Charisma": "55"
+      }
+    },
+    {
+      "row_number": 25,
+      "data": {
+        "Name": "Tsaukaehs",
+        "CountryID": "200009",
+        "ClanRelationLabel": "Mother",
+        "Gender": "女",
+        "Age": "20",
+        "Military": "30",
+        "Political": "40",
+        "Charisma": "55"
+      }
+    },
+    {
+      "row_number": 26,
+      "data": {
+        "Name": "Wathahkaehs",
+        "CountryID": "200009",
+        "ClanRelationLabel": "Younger Sister",
+        "Gender": "女",
+        "Age": "20",
+        "Military": "30",
+        "Political": "40",
+        "Charisma": "55"
+      }
+    },
+    {
+      "row_number": 27,
+      "data": {
+        "Name": "Maitue",
+        "CountryID": "200010",
+        "ClanRelationLabel": "Mother",
+        "Gender": "女",
+        "Age": "20",
+        "Military": "30",
+        "Political": "40",
+        "Charisma": "55"
+      }
+    },
+    {
+      "row_number": 28,
+      "data": {
+        "Name": "Antu",
+        "CountryID": "200010",
+        "ClanRelationLabel": "Elder Sister",
+        "Gender": "女",
+        "Age": "20",
+        "Military": "30",
+        "Political": "40",
+        "Charisma": "55"
+      }
+    },
+    {
+      "row_number": 29,
+      "data": {
+        "Name": "Ykua",
+        "CountryID": "200012",
+        "ClanRelationLabel": "Mother",
+        "Gender": "女",
+        "Age": "20",
+        "Military": "30",
+        "Political": "40",
+        "Charisma": "55"
+      }
+    },
+    {
+      "row_number": 30,
+      "data": {
+        "Name": "Yvytu",
+        "CountryID": "200012",
+        "ClanRelationLabel": "Elder Sister",
+        "Gender": "女",
+        "Age": "20",
+        "Military": "30",
+        "Political": "40",
+        "Charisma": "55"
+      }
+    },
+    {
+      "row_number": 31,
+      "data": {
+        "Name": "Catalina de Manzanet",
+        "CountryID": "200011",
+        "ClanRelationLabel": "Elder Cousin",
+        "Gender": "女",
+        "Age": "22",
+        "Military": "20",
+        "Political": "55",
+        "Charisma": "60"
+      }
+    },
+    {
+      "row_number": 32,
+      "data": {
+        "Name": "Ines de Eslava",
+        "CountryID": "200011",
+        "ClanRelationLabel": "Younger Cousin",
+        "Gender": "女",
+        "Age": "18",
+        "Military": "22",
+        "Political": "48",
+        "Charisma": "55"
+      }
+    },
+    {
+      "row_number": 33,
+      "data": {
+        "Name": "Petronila de Solis",
+        "CountryID": "200011",
+        "ClanRelationLabel": "Second Cousin",
+        "Gender": "女",
+        "Age": "20",
+        "Military": "25",
+        "Political": "50",
+        "Charisma": "58"
+      }
+    }
+  ]
+}

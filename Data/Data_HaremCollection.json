@@ -1,0 +1,49 @@
+{
+    "num_columns": 5,
+    "headers": [
+        "collectionID",
+        "collectionName",
+        "requiredConcubines",
+        "buffType",
+        "buffValue"
+    ],
+    "field_types": {
+        "collectionID": "string",
+        "collectionName": "string",
+        "requiredConcubines": "array",
+        "buffType": "string",
+        "buffValue": "float"
+    },
+    "rows": [
+        {
+            "row_number": 4,
+            "data": {
+                "collectionID": "four_beauties",
+                "collectionName": "四大美人",
+                "requiredConcubines": "1, 2, 3, 4",
+                "buffType": "AllProduction",
+                "buffValue": "0.1"
+            }
+        },
+        {
+            "row_number": 5,
+            "data": {
+                "collectionID": "foreign_three",
+                "collectionName": "异族三姝",
+                "requiredConcubines": "10, 11, 12",
+                "buffType": "TradeIncome",
+                "buffValue": "0.15"
+            }
+        },
+        {
+            "row_number": 6,
+            "data": {
+                "collectionID": "talented_five",
+                "collectionName": "才女五杰",
+                "requiredConcubines": "5, 6, 7, 8, 9",
+                "buffType": "TaxIncome",
+                "buffValue": "0.1"
+            }
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+  "num_columns": 7,
+  "headers": [
+    "cardId",
+    "category",
+    "useless1",
+    "titleTextId",
+    "descriptionTextId",
+    "isInSlot",
+    "sortOrder"
+  ],
+  "field_types": {
+    "cardId": "string",
+    "category": "string",
+    "useless1": "string",
+    "titleTextId": "string",
+    "descriptionTextId": "string",
+    "isInSlot": "bool",
+    "sortOrder": "int"
+  },
+  "rows": [
+    {
+      "row_number": 4,
+      "data": {
+        "cardId": "default_policy_card_military_border",
+        "category": "Military",
+        "useless1": "Sharpen the Sword",
+        "titleTextId": "DEFAULT_POLICY_CARD_MILITARY_TITLE_1",
+        "descriptionTextId": "DEFAULT_POLICY_CARD_MILITARY_DESCRIBE_1",
+        "isInSlot": "False",
+        "sortOrder": "40"
+      }
+    },
+    {
+      "row_number": 5,
+      "data": {
+        "cardId": "default_policy_card_political_agriculture",
+        "category": "Political",
+        "useless1": "Science & Industry",
+        "titleTextId": "DEFAULT_POLICY_CARD_TEC_TITLE_1",
+        "descriptionTextId": "DEFAULT_POLICY_CARD_TEC_DESCRIBE_1",
+        "isInSlot": "False",
+        "sortOrder": "10"
+      }
+    },
+    {
+      "row_number": 6,
+      "data": {
+        "cardId": "default_policy_card_political_rich",
+        "category": "Political",
+        "useless1": "Prosper the Colonies",
+        "titleTextId": "DEFAULT_POLICY_CARD_RICH_TITLE_1",
+        "descriptionTextId": "DEFAULT_POLICY_CARD_RICH_DESCRIBE_1",
+        "isInSlot": "False",
+        "sortOrder": "20"
+      }
+    },
+    {
+      "row_number": 7,
+      "data": {
+        "cardId": "default_policy_card_political_officer",
+        "category": "Political",
+        "useless1": "Recruit the Worthy",
+        "titleTextId": "DEFAULT_POLICY_CARD_OFFICER_TITLE_1",
+        "descriptionTextId": "DEFAULT_POLICY_CARD_OFFICER_DESCRIBE_1",
+        "isInSlot": "False",
+        "sortOrder": "30"
+      }
+    },
+    {
+      "row_number": 8,
+      "data": {
+        "cardId": "default_policy_card_other_children",
+        "category": "Other",
+        "useless1": "Grow the Lineage",
+        "titleTextId": "DEFAULT_POLICY_CARD_BORN_TITLE_1",
+        "descriptionTextId": "DEFAULT_POLICY_CARD_BORN_DESCRIBE_1",
+        "isInSlot": "False",
+        "sortOrder": "60"
+      }
+    }
+  ]
+}

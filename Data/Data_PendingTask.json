@@ -1,0 +1,120 @@
+{
+    "num_columns": 6,
+    "headers": [
+        "TaskType",
+        "IconPath",
+        "TitleLanguageID",
+        "DescLanguageID",
+        "TargetPanel",
+        "Priority"
+    ],
+    "field_types": {
+        "TaskType": "string",
+        "IconPath": "string",
+        "TitleLanguageID": "string",
+        "DescLanguageID": "string",
+        "TargetPanel": "string",
+        "Priority": "int"
+    },
+    "rows": [
+        {
+            "row_number": 4,
+            "data": {
+                "TaskType": "storyline_in_progress",
+                "IconPath": "PendingTask/icon_storyline",
+                "TitleLanguageID": "PENDING_STORYLINE_TITLE",
+                "DescLanguageID": "PENDING_STORYLINE_DESC",
+                "TargetPanel": "StorylineOverviewPanel",
+                "Priority": 1
+            }
+        },
+        {
+            "row_number": 5,
+            "data": {
+                "TaskType": "active_story_event_attention",
+                "IconPath": "PendingTask/icon_storyline",
+                "TitleLanguageID": "PENDING_ACTIVE_STORY_TITLE",
+                "DescLanguageID": "PENDING_ACTIVE_STORY_DESC",
+                "TargetPanel": "StoryTimelinePanel",
+                "Priority": 2
+            }
+        },
+        {
+            "row_number": 6,
+            "data": {
+                "TaskType": "book_surplus",
+                "IconPath": "PendingTask/icon_book",
+                "TitleLanguageID": "PENDING_BOOK_TITLE",
+                "DescLanguageID": "PENDING_BOOK_DESC",
+                "TargetPanel": "TechTreePanel",
+                "Priority": 3
+            }
+        },
+        {
+            "row_number": 7,
+            "data": {
+                "TaskType": "extended_stat_low",
+                "IconPath": "PendingTask/icon_stat_low",
+                "TitleLanguageID": "PENDING_STAT_LOW_TITLE",
+                "DescLanguageID": "PENDING_STAT_LOW_DESC",
+                "TargetPanel": "DecreePanel",
+                "Priority": 4
+            }
+        },
+        {
+            "row_number": 8,
+            "data": {
+                "TaskType": "corruption_high",
+                "IconPath": "PendingTask/icon_corruption",
+                "TitleLanguageID": "PENDING_CORRUPTION_TITLE",
+                "DescLanguageID": "PENDING_CORRUPTION_DESC",
+                "TargetPanel": "DecreePanel",
+                "Priority": 5
+            }
+        },
+        {
+            "row_number": 9,
+            "data": {
+                "TaskType": "province_no_governor",
+                "IconPath": "PendingTask/icon_governor",
+                "TitleLanguageID": "PENDING_GOVERNOR_TITLE",
+                "DescLanguageID": "PENDING_GOVERNOR_DESC",
+                "TargetPanel": "DecreePanel",
+                "Priority": 6
+            }
+        },
+        {
+            "row_number": 10,
+            "data": {
+                "TaskType": "province_economy_warning",
+                "IconPath": "PendingTask/icon_famine",
+                "TitleLanguageID": "PENDING_PROVINCE_ECONOMY_TITLE",
+                "DescLanguageID": "PENDING_PROVINCE_ECONOMY_DESC",
+                "TargetPanel": "ProvinceEconomyPanel",
+                "Priority": 7
+            }
+        },
+        {
+            "row_number": 11,
+            "data": {
+                "TaskType": "class_tension_high",
+                "IconPath": "PendingTask/icon_tension",
+                "TitleLanguageID": "PENDING_TENSION_TITLE",
+                "DescLanguageID": "PENDING_TENSION_DESC",
+                "TargetPanel": "SocialClassSidePanel",
+                "Priority": 8
+            }
+        },
+        {
+            "row_number": 12,
+            "data": {
+                "TaskType": "industry_balance_blocked",
+                "IconPath": "PendingTask/icon_industry",
+                "TitleLanguageID": "PENDING_INDUSTRY_TITLE",
+                "DescLanguageID": "PENDING_INDUSTRY_DESC",
+                "TargetPanel": "IndustryPanel",
+                "Priority": 9
+            }
+        }
+    ]
+}

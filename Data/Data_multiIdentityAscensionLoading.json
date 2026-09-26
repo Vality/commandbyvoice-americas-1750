@@ -1,0 +1,83 @@
+{
+    "num_columns": 7,
+    "headers": [
+        "RouteId",
+        "LoadingImageKey",
+        "TitleTextId",
+        "DescriptionTextId",
+        "Duration",
+        "BgmKey",
+        "SfxKey"
+    ],
+    "field_types": {
+        "RouteId": "string",
+        "LoadingImageKey": "string",
+        "TitleTextId": "string",
+        "DescriptionTextId": "string",
+        "Duration": "float",
+        "BgmKey": "string",
+        "SfxKey": "string"
+    },
+    "rows": [
+        {
+            "row_number": 4,
+            "data": {
+                "RouteId": "Civil",
+                "LoadingImageKey": "ArtResources/Sprite/MultiIdentity/loading_ascension_civil",
+                "TitleTextId": "MI_ASCENSION_CIVIL_TITLE",
+                "DescriptionTextId": "MI_ASCENSION_CIVIL_DESC",
+                "Duration": "3.5",
+                "BgmKey": "",
+                "SfxKey": ""
+            }
+        },
+        {
+            "row_number": 5,
+            "data": {
+                "RouteId": "Military",
+                "LoadingImageKey": "ArtResources/Sprite/MultiIdentity/loading_ascension_military",
+                "TitleTextId": "MI_ASCENSION_MILITARY_TITLE",
+                "DescriptionTextId": "MI_ASCENSION_MILITARY_DESC",
+                "Duration": "3.5",
+                "BgmKey": "",
+                "SfxKey": ""
+            }
+        },
+        {
+            "row_number": 6,
+            "data": {
+                "RouteId": "Commerce",
+                "LoadingImageKey": "ArtResources/Sprite/MultiIdentity/loading_ascension_commerce",
+                "TitleTextId": "MI_ASCENSION_COMMERCE_TITLE",
+                "DescriptionTextId": "MI_ASCENSION_COMMERCE_DESC",
+                "Duration": "3.5",
+                "BgmKey": "",
+                "SfxKey": ""
+            }
+        },
+        {
+            "row_number": 7,
+            "data": {
+                "RouteId": "Power",
+                "LoadingImageKey": "ArtResources/Sprite/MultiIdentity/loading_ascension_power",
+                "TitleTextId": "MI_ASCENSION_POWER_TITLE",
+                "DescriptionTextId": "MI_ASCENSION_POWER_DESC",
+                "Duration": "3.5",
+                "BgmKey": "",
+                "SfxKey": ""
+            }
+        },
+        {
+            "row_number": 8,
+            "data": {
+                "RouteId": "Generic",
+                "LoadingImageKey": "ArtResources/Sprite/MultiIdentity/loading_ascension_generic",
+                "TitleTextId": "MI_ASCENSION_GENERIC_TITLE",
+                "DescriptionTextId": "MI_ASCENSION_GENERIC_DESC",
+                "Duration": "3.5",
+                "BgmKey": "",
+                "SfxKey": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "num_columns": 4,
+    "headers": [
+        "TypeKey",
+        "text",
+        "LanguageTitlePath",
+        "Unnamed: 3"
+    ],
+    "field_types": {
+        "TypeKey": "string",
+        "text": "string",
+        "LanguageTitlePath": "string",
+        "Unnamed: 3": null
+    },
+    "rows": [
+        {
+            "row_number": 4,
+            "data": {
+                "TypeKey": "zh",
+                "text": "中文",
+                "LanguageTitlePath": "loadingScene_title5",
+                "Unnamed: 3": "中文"
+            }
+        },
+        {
+            "row_number": 5,
+            "data": {
+                "TypeKey": "en",
+                "text": "English",
+                "LanguageTitlePath": "loadingScene_title5_en",
+                "Unnamed: 3": "英文"
+            }
+        },
+        {
+            "row_number": 6,
+            "data": {
+                "TypeKey": "ar",
+                "text": "العربية",
+                "LanguageTitlePath": "loadingScene_title5_en",
+                "Unnamed: 3": "阿拉伯语"
+            }
+        },
+        {
+            "row_number": 7,
+            "data": {
+                "TypeKey": "fr",
+                "text": "français",
+                "LanguageTitlePath": "loadingScene_title5_en",
+                "Unnamed: 3": "法语"
+            }
+        },
+        {
+            "row_number": 8,
+            "data": {
+                "TypeKey": "es",
+                "text": "español",
+                "LanguageTitlePath": "loadingScene_title5_en",
+                "Unnamed: 3": "西班牙语"
+            }
+        },
+        {
+            "row_number": 9,
+            "data": {
+                "TypeKey": "de",
+                "text": "Deutsch",
+                "LanguageTitlePath": "loadingScene_title5_en",
+                "Unnamed: 3": "德语"
+            }
+        },
+        {
+            "row_number": 10,
+            "data": {
+                "TypeKey": "pt",
+                "text": "português",
+                "LanguageTitlePath": "loadingScene_title5_en",
+                "Unnamed: 3": "葡萄牙语"
+            }
+        },
+        {
+            "row_number": 11,
+            "data": {
+                "TypeKey": "ru",
+                "text": "русский",
+                "LanguageTitlePath": "loadingScene_title5_en",
+                "Unnamed: 3": "俄语"
+            }
+        },
+        {
+            "row_number": 12,
+            "data": {
+                "TypeKey": "ja",
+                "text": "日本語",
+                "LanguageTitlePath": "loadingScene_title5_en",
+                "Unnamed: 3": "日语"
+            }
+        },
+        {
+            "row_number": 13,
+            "data": {
+                "TypeKey": "ko",
+                "text": "한국어",
+                "LanguageTitlePath": "loadingScene_title5_en",
+                "Unnamed: 3": "韩语"
+            }
+        },
+        {
+            "row_number": 14,
+            "data": {
+                "TypeKey": "it",
+                "text": "italiano",
+                "LanguageTitlePath": "loadingScene_title5_en",
+                "Unnamed: 3": "意大利语"
+            }
+        }
+    ]
+}

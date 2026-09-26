@@ -1,0 +1,89 @@
+{
+    "num_columns": 4,
+    "headers": [
+        "Key",
+        "Style",
+        "StyleNeesPoint",
+        "Type"
+    ],
+    "field_types": {
+        "Key": "int",
+        "Style": "string",
+        "StyleNeesPoint": "int",
+        "Type": "string"
+    },
+    "rows": [
+        {
+            "row_number": 4,
+            "data": {
+                "Key": "10010",
+                "Style": "武功",
+                "StyleNeesPoint": "3",
+                "Type": "军事倾向"
+            }
+        },
+        {
+            "row_number": 5,
+            "data": {
+                "Key": "10020",
+                "Style": "文治",
+                "StyleNeesPoint": "4",
+                "Type": "军事倾向"
+            }
+        },
+        {
+            "row_number": 6,
+            "data": {
+                "Key": "20010",
+                "Style": "重商",
+                "StyleNeesPoint": "3",
+                "Type": "经济倾向"
+            }
+        },
+        {
+            "row_number": 7,
+            "data": {
+                "Key": "20020",
+                "Style": "重农",
+                "StyleNeesPoint": "4",
+                "Type": "经济倾向"
+            }
+        },
+        {
+            "row_number": 8,
+            "data": {
+                "Key": "30010",
+                "Style": "仁政",
+                "StyleNeesPoint": "5",
+                "Type": "民生倾向"
+            }
+        },
+        {
+            "row_number": 9,
+            "data": {
+                "Key": "30020",
+                "Style": "法治",
+                "StyleNeesPoint": "4",
+                "Type": "民生倾向"
+            }
+        },
+        {
+            "row_number": 10,
+            "data": {
+                "Key": "40010",
+                "Style": "扩张",
+                "StyleNeesPoint": "5",
+                "Type": "外交倾向"
+            }
+        },
+        {
+            "row_number": 11,
+            "data": {
+                "Key": "40020",
+                "Style": "防御",
+                "StyleNeesPoint": "3",
+                "Type": "外交倾向"
+            }
+        }
+    ]
+}

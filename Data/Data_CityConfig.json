@@ -1,0 +1,83 @@
+{
+    "num_columns": 2,
+    "headers": [
+        "CityLevel",
+        "CitySoldiers"
+    ],
+    "field_types": {
+        "CityLevel": "int",
+        "CitySoldiers": "int"
+    },
+    "rows": [
+        {
+            "row_number": 4,
+            "data": {
+                "CityLevel": "1",
+                "CitySoldiers": "2500"
+            }
+        },
+        {
+            "row_number": 5,
+            "data": {
+                "CityLevel": "2",
+                "CitySoldiers": "5000"
+            }
+        },
+        {
+            "row_number": 6,
+            "data": {
+                "CityLevel": "3",
+                "CitySoldiers": "7500"
+            }
+        },
+        {
+            "row_number": 7,
+            "data": {
+                "CityLevel": "4",
+                "CitySoldiers": "10000"
+            }
+        },
+        {
+            "row_number": 8,
+            "data": {
+                "CityLevel": "5",
+                "CitySoldiers": "12500"
+            }
+        },
+        {
+            "row_number": 9,
+            "data": {
+                "CityLevel": "6",
+                "CitySoldiers": "15000"
+            }
+        },
+        {
+            "row_number": 10,
+            "data": {
+                "CityLevel": "7",
+                "CitySoldiers": "17500"
+            }
+        },
+        {
+            "row_number": 11,
+            "data": {
+                "CityLevel": "8",
+                "CitySoldiers": "40000"
+            }
+        },
+        {
+            "row_number": 12,
+            "data": {
+                "CityLevel": "9",
+                "CitySoldiers": "45000"
+            }
+        },
+        {
+            "row_number": 13,
+            "data": {
+                "CityLevel": "10",
+                "CitySoldiers": "50000"
+            }
+        }
+    ]
+}

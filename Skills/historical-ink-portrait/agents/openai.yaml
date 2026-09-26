@@ -1,0 +1,4 @@
+interface:
+  display_name: "历史水墨立绘"
+  short_description: "为历史题材游戏 Mod 制作差异化彩色水墨人物立绘"
+  default_prompt: "Use $historical-ink-portrait to create historically grounded ink-wash portraits for this Mod."

@@ -1,0 +1,252 @@
+{
+  "mapFile": "Maps/DefaultVoronoiMap.json",
+  "mapSha256": "1038325c257a425351c49777647491f9f9bc4999b1ae4826012c46772bceafa6",
+  "countries": [
+    {
+      "countryId": 200001,
+      "countryName": "Thirteen Colonies",
+      "provinces": [
+        {
+          "provinceId": 1,
+          "provinceName": "New York"
+        },
+        {
+          "provinceId": 2,
+          "provinceName": "Massachusetts"
+        },
+        {
+          "provinceId": 3,
+          "provinceName": "Delaware"
+        },
+        {
+          "provinceId": 4,
+          "provinceName": "Virginia"
+        }
+      ]
+    },
+    {
+      "countryId": 200002,
+      "countryName": "Florida",
+      "provinces": [
+        {
+          "provinceId": 26,
+          "provinceName": "Tallahassee"
+        },
+        {
+          "provinceId": 27,
+          "provinceName": "Orlando"
+        },
+        {
+          "provinceId": 28,
+          "provinceName": "Cuba"
+        }
+      ]
+    },
+    {
+      "countryId": 200003,
+      "countryName": "New France",
+      "provinces": [
+        {
+          "provinceId": 5,
+          "provinceName": "Quebec"
+        },
+        {
+          "provinceId": 6,
+          "provinceName": "St Pierre"
+        },
+        {
+          "provinceId": 7,
+          "provinceName": "Illinois"
+        },
+        {
+          "provinceId": 8,
+          "provinceName": "Detroit"
+        }
+      ]
+    },
+    {
+      "countryId": 200004,
+      "countryName": "New Spain",
+      "provinces": [
+        {
+          "provinceId": 19,
+          "provinceName": "California"
+        },
+        {
+          "provinceId": 20,
+          "provinceName": "Santa Fe"
+        },
+        {
+          "provinceId": 21,
+          "provinceName": "San Antonio"
+        },
+        {
+          "provinceId": 22,
+          "provinceName": "Dallas"
+        },
+        {
+          "provinceId": 23,
+          "provinceName": "Guatemala"
+        },
+        {
+          "provinceId": 24,
+          "provinceName": "Mexico"
+        },
+        {
+          "provinceId": 25,
+          "provinceName": "Honduras"
+        }
+      ]
+    },
+    {
+      "countryId": 200005,
+      "countryName": "Iroquois",
+      "provinces": [
+        {
+          "provinceId": 9,
+          "provinceName": "Dakota"
+        },
+        {
+          "provinceId": 10,
+          "provinceName": "Sioux"
+        }
+      ]
+    },
+    {
+      "countryId": 200006,
+      "countryName": "Sioux",
+      "provinces": [
+        {
+          "provinceId": 11,
+          "provinceName": "Crow"
+        },
+        {
+          "provinceId": 13,
+          "provinceName": "Ute"
+        },
+        {
+          "provinceId": 14,
+          "provinceName": "Cheyenne"
+        }
+      ]
+    },
+    {
+      "countryId": 200007,
+      "countryName": "Chinook",
+      "provinces": [
+        {
+          "provinceId": 16,
+          "provinceName": "Chinook"
+        },
+        {
+          "provinceId": 17,
+          "provinceName": "Shoshone"
+        }
+      ]
+    },
+    {
+      "countryId": 200009,
+      "countryName": "Brazil",
+      "provinces": [
+        {
+          "provinceId": 41,
+          "provinceName": "Para"
+        },
+        {
+          "provinceId": 43,
+          "provinceName": "Ceara"
+        },
+        {
+          "provinceId": 44,
+          "provinceName": "Bahia"
+        },
+        {
+          "provinceId": 45,
+          "provinceName": "Rio Grande"
+        },
+        {
+          "provinceId": 46,
+          "provinceName": "Sao Paulo"
+        },
+        {
+          "provinceId": 47,
+          "provinceName": "Parana"
+        },
+        {
+          "provinceId": 48,
+          "provinceName": "Santa Cruz"
+        }
+      ]
+    },
+    {
+      "countryId": 200010,
+      "countryName": "Inca",
+      "provinces": [
+        {
+          "provinceId": 33,
+          "provinceName": "Cali"
+        },
+        {
+          "provinceId": 34,
+          "provinceName": "Quito"
+        },
+        {
+          "provinceId": 35,
+          "provinceName": "Guayaquil"
+        },
+        {
+          "provinceId": 36,
+          "provinceName": "Chiclayo"
+        },
+        {
+          "provinceId": 37,
+          "provinceName": "Santiago"
+        }
+      ]
+    },
+    {
+      "countryId": 200011,
+      "countryName": "New Granada",
+      "provinces": [
+        {
+          "provinceId": 29,
+          "provinceName": "Barbados"
+        },
+        {
+          "provinceId": 30,
+          "provinceName": "Caracas"
+        },
+        {
+          "provinceId": 31,
+          "provinceName": "North Amazon"
+        },
+        {
+          "provinceId": 32,
+          "provinceName": "Panama"
+        },
+        {
+          "provinceId": 42,
+          "provinceName": "Ceara"
+        }
+      ]
+    },
+    {
+      "countryId": 200012,
+      "countryName": "Mataco",
+      "provinces": [
+        {
+          "provinceId": 38,
+          "provinceName": "South Amazon"
+        },
+        {
+          "provinceId": 39,
+          "provinceName": "Montevideo"
+        },
+        {
+          "provinceId": 40,
+          "provinceName": "La Pampa"
+        }
+      ]
+    }
+  ]
+}

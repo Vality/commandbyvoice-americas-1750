@@ -1,0 +1,97 @@
+CC0 1.0 Universal (Public Domain Dedication)
+==========================================
+
+This mod, "CommandByVoice - 1750 Colonial Americas MOD", including but not
+limited to its Data/*.json tables, Art/* portrait assets, Maps/DefaultVoronoiMap.json
+geometry, country / province / officer / concubine / event text and any
+accompanying prompts or build-tooling prompts under Prompts/, is dedicated
+to the public domain by the project's author under the terms of CC0 1.0
+Universal.
+
+For the full legal text, see below. A human-readable summary is available
+at https://creativecommons.org/publicdomain/zero/1.0/.
+
+
+CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
+LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENTATION OR ITS ASSOCIATED
+WORK DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS
+PROVIDES THIS DOCUMENTATION AND ITS ASSOCIATED WORK ON AN "AS-IS" BASIS.
+CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE USE OF THIS
+DOCUMENTATION OR ITS ASSOCIATED WORK OR ANY DATA DERIVED FROM THEM, AND
+DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM THEIR USE.
+
+
+Statement of Purpose
+
+The laws of most jurisdictions throughout the world automatically confer
+exclusive Copyright and Related Rights (defined below) upon the creator
+and subsequent owner(s) of an original work, and/or "Moral Rights" (as
+described below), in such a work, whether or not its status is expressly
+designated.
+
+The owner of the Copyright and Related Rights, and the holder of the
+"Moral Rights" concerning a particular work, hereby, in their own interest
+and on behalf of their successors and assigns, permanently and irrevocably
+waives and agrees to forgo enforcement of such rights in all jurisdictions
+worldwide under all applicable law and any future law, including but not
+limited to:
+
+  * all Copyright and Related Rights in the work;
+  * the "Moral Rights" concerning the work; and
+  * any patent and trademark rights the owner may hold in or to the work.
+
+The owner of the Copyright and Related Rights, and the holder of the
+"Moral Rights" concerning a particular work, may make, use, retain, sell,
+offer for sale, import, distribute, modify, publicly display, publicly
+perform, license, sublicense, transfer, or otherwise freely exploit the
+work, and to allow others to do the same, in all jurisdictions worldwide
+and through any media now known or hereafter devised, without regard to
+the source of the work, and without obligation to attribute the work,
+provide a notice, or indicate any changes made.
+
+Definitions
+
+  "Adopter" means the individual or legal entity who takes the work
+  covered by this document and seeks to apply CC0 to it.
+
+  "Adapted Material" means material subject to Copyright and Related
+  Rights that is derived from or based upon the Licensed Material, in
+  whole or in part, alone or in combination with other material.
+
+  "Copyright and Related Rights" means copyright and rights similar to
+  copyright, including but not limited to performance, broadcasting,
+  sound recording, and Sui Generis Database Rights, without regard to how
+  the rights are labeled or categorized. For purposes of this Public
+  Domain Dedication, any rights referred to as "Copyright and Related
+  Rights" include Moral Rights.
+
+  "License" means this document, in the form as published by Creative
+  Commons.
+
+  "Licensed Material" means the artistic or literary work, database, or
+  other material to which the Licensor applied this Public Domain
+  Dedication, including any data tables, JSON files, configuration
+  resources, image assets, prompts or scripts distributed alongside.
+
+  "Licensor" means the individual, legal entity, or public authority who
+  offers the Licensed Material under the terms of this Public Domain
+  Dedication.
+
+  "Moral Rights" means rights of attribution and integrity concerning
+  the source of the work, as well as the right to object to derogatory
+  treatment of the work.
+
+  "Work" means the artistic or literary work, database, or other
+  material offered under the terms of this Public Domain Dedication.
+
+Notice
+
+The Licensor, in offering the Licensed Material under this Public Domain
+Dedication, acknowledges that Creative Commons is not a party to this
+document and has no duty or obligation with respect to this CC0 or use
+of the Licensed Material.
+
+For the avoidance of doubt, this Public Domain Dedication applies only
+to material in this repository. The upstream game engine, CommandByVoice,
+and the Steam / Proton layers in which the game runs, remain subject to
+their own licenses and are not part of this dedication.

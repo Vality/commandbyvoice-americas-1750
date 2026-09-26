@@ -1,0 +1,127 @@
+{
+    "num_columns": 11,
+    "headers": [
+        "ClassType",
+        "Useless",
+        "NameLanguageID",
+        "SatisfactionMin",
+        "SatisfactionMax",
+        "SatisfactionLowerBound",
+        "SatisfactionUpperBound",
+        "InfluenceMin",
+        "InfluenceMax",
+        "InfluenceLowerBound",
+        "InfluenceUpperBound"
+    ],
+    "field_types": {
+        "ClassType": "string",
+        "Useless": "string",
+        "NameLanguageID": "string",
+        "SatisfactionMin": "float",
+        "SatisfactionMax": "float",
+        "SatisfactionLowerBound": "float",
+        "SatisfactionUpperBound": "float",
+        "InfluenceMin": "float",
+        "InfluenceMax": "float",
+        "InfluenceLowerBound": "float",
+        "InfluenceUpperBound": "float"
+    },
+    "rows": [
+        {
+            "row_number": 4,
+            "data": {
+                "ClassType": "Royal",
+                "Useless": "宗室",
+                "NameLanguageID": "CLASS_ROYAL",
+                "SatisfactionMin": "35",
+                "SatisfactionMax": "55",
+                "SatisfactionLowerBound": "0",
+                "SatisfactionUpperBound": "100",
+                "InfluenceMin": "60",
+                "InfluenceMax": "80",
+                "InfluenceLowerBound": "0",
+                "InfluenceUpperBound": "100"
+            }
+        },
+        {
+            "row_number": 5,
+            "data": {
+                "ClassType": "Bureaucrat",
+                "Useless": "官僚",
+                "NameLanguageID": "CLASS_BUREAUCRAT",
+                "SatisfactionMin": "35",
+                "SatisfactionMax": "55",
+                "SatisfactionLowerBound": "0",
+                "SatisfactionUpperBound": "100",
+                "InfluenceMin": "50",
+                "InfluenceMax": "70",
+                "InfluenceLowerBound": "0",
+                "InfluenceUpperBound": "100"
+            }
+        },
+        {
+            "row_number": 6,
+            "data": {
+                "ClassType": "Military",
+                "Useless": "军官",
+                "NameLanguageID": "CLASS_MILITARY",
+                "SatisfactionMin": "35",
+                "SatisfactionMax": "55",
+                "SatisfactionLowerBound": "0",
+                "SatisfactionUpperBound": "100",
+                "InfluenceMin": "40",
+                "InfluenceMax": "60",
+                "InfluenceLowerBound": "0",
+                "InfluenceUpperBound": "100"
+            }
+        },
+        {
+            "row_number": 7,
+            "data": {
+                "ClassType": "Merchant",
+                "Useless": "商贾",
+                "NameLanguageID": "CLASS_MERCHANT",
+                "SatisfactionMin": "35",
+                "SatisfactionMax": "55",
+                "SatisfactionLowerBound": "0",
+                "SatisfactionUpperBound": "100",
+                "InfluenceMin": "30",
+                "InfluenceMax": "50",
+                "InfluenceLowerBound": "0",
+                "InfluenceUpperBound": "100"
+            }
+        },
+        {
+            "row_number": 8,
+            "data": {
+                "ClassType": "Scholar",
+                "Useless": "文人",
+                "NameLanguageID": "CLASS_SCHOLAR",
+                "SatisfactionMin": "35",
+                "SatisfactionMax": "55",
+                "SatisfactionLowerBound": "0",
+                "SatisfactionUpperBound": "100",
+                "InfluenceMin": "35",
+                "InfluenceMax": "55",
+                "InfluenceLowerBound": "0",
+                "InfluenceUpperBound": "100"
+            }
+        },
+        {
+            "row_number": 9,
+            "data": {
+                "ClassType": "Commoner",
+                "Useless": "平民",
+                "NameLanguageID": "CLASS_COMMONER",
+                "SatisfactionMin": "35",
+                "SatisfactionMax": "55",
+                "SatisfactionLowerBound": "0",
+                "SatisfactionUpperBound": "100",
+                "InfluenceMin": "10",
+                "InfluenceMax": "30",
+                "InfluenceLowerBound": "0",
+                "InfluenceUpperBound": "100"
+            }
+        }
+    ]
+}

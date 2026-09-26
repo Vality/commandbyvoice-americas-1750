@@ -1,0 +1,337 @@
+{
+  "num_columns": 8,
+  "headers": [
+    "ChildName",
+    "MotherConcubineName",
+    "CountryID",
+    "Gender",
+    "Age",
+    "Military",
+    "Political",
+    "Charisma"
+  ],
+  "field_types": {
+    "ChildName": "string",
+    "MotherConcubineName": "string",
+    "CountryID": "int",
+    "Gender": "string",
+    "Age": "int",
+    "Military": "float",
+    "Political": "float",
+    "Charisma": "float"
+  },
+  "rows": [
+    {
+      "row_number": 4,
+      "data": {
+        "ChildName": "Carlos Sebastian",
+        "MotherConcubineName": "Anne Bradstreet",
+        "CountryID": "200001",
+        "Gender": "Male",
+        "Age": "14",
+        "Military": "35",
+        "Political": "50",
+        "Charisma": "60"
+      }
+    },
+    {
+      "row_number": 5,
+      "data": {
+        "ChildName": "Isabella Teresa",
+        "MotherConcubineName": "Anne Bradstreet",
+        "CountryID": "200001",
+        "Gender": "Female",
+        "Age": "12",
+        "Military": "25",
+        "Political": "45",
+        "Charisma": "70"
+      }
+    },
+    {
+      "row_number": 6,
+      "data": {
+        "ChildName": "Louis Philippe",
+        "MotherConcubineName": "Anne of Orleans",
+        "CountryID": "200002",
+        "Gender": "Male",
+        "Age": "16",
+        "Military": "40",
+        "Political": "55",
+        "Charisma": "65"
+      }
+    },
+    {
+      "row_number": 7,
+      "data": {
+        "ChildName": "Marie Antoinette",
+        "MotherConcubineName": "Anne of Orleans",
+        "CountryID": "200002",
+        "Gender": "Female",
+        "Age": "13",
+        "Military": "20",
+        "Political": "60",
+        "Charisma": "80"
+      }
+    },
+    {
+      "row_number": 8,
+      "data": {
+        "ChildName": "George Augustus",
+        "MotherConcubineName": "Charlotte Sophia",
+        "CountryID": "200003",
+        "Gender": "Male",
+        "Age": "15",
+        "Military": "50",
+        "Political": "60",
+        "Charisma": "70"
+      }
+    },
+    {
+      "row_number": 9,
+      "data": {
+        "ChildName": "Caroline Matilda",
+        "MotherConcubineName": "Charlotte Sophia",
+        "CountryID": "200003",
+        "Gender": "Female",
+        "Age": "11",
+        "Military": "25",
+        "Political": "55",
+        "Charisma": "75"
+      }
+    },
+    {
+      "row_number": 10,
+      "data": {
+        "ChildName": "Jose Pedro",
+        "MotherConcubineName": "Mariana Victoria",
+        "CountryID": "200004",
+        "Gender": "Male",
+        "Age": "13",
+        "Military": "40",
+        "Political": "55",
+        "Charisma": "60"
+      }
+    },
+    {
+      "row_number": 11,
+      "data": {
+        "ChildName": "Maria Francisca",
+        "MotherConcubineName": "Mariana Victoria",
+        "CountryID": "200004",
+        "Gender": "Female",
+        "Age": "10",
+        "Military": "20",
+        "Political": "50",
+        "Charisma": "65"
+      }
+    },
+    {
+      "row_number": 12,
+      "data": {
+        "ChildName": "Haudenosaunee-1",
+        "MotherConcubineName": "Tiontontat",
+        "CountryID": "200005",
+        "Gender": "Male",
+        "Age": "14",
+        "Military": "50",
+        "Political": "40",
+        "Charisma": "55"
+      }
+    },
+    {
+      "row_number": 13,
+      "data": {
+        "ChildName": "Haudenosaunee-2",
+        "MotherConcubineName": "Tiontontat",
+        "CountryID": "200005",
+        "Gender": "Female",
+        "Age": "12",
+        "Military": "30",
+        "Political": "45",
+        "Charisma": "65"
+      }
+    },
+    {
+      "row_number": 14,
+      "data": {
+        "ChildName": "Ani-waya",
+        "MotherConcubineName": "Selu",
+        "CountryID": "200006",
+        "Gender": "Male",
+        "Age": "15",
+        "Military": "55",
+        "Political": "45",
+        "Charisma": "60"
+      }
+    },
+    {
+      "row_number": 15,
+      "data": {
+        "ChildName": "Selu-2",
+        "MotherConcubineName": "Selu",
+        "CountryID": "200006",
+        "Gender": "Female",
+        "Age": "11",
+        "Military": "25",
+        "Political": "50",
+        "Charisma": "70"
+      }
+    },
+    {
+      "row_number": 16,
+      "data": {
+        "ChildName": "Jose Manuel de Croix",
+        "MotherConcubineName": "Maria de la Cerda",
+        "CountryID": "200008",
+        "Gender": "Male",
+        "Age": "14",
+        "Military": "40",
+        "Political": "55",
+        "Charisma": "60"
+      }
+    },
+    {
+      "row_number": 17,
+      "data": {
+        "ChildName": "Maria Ana de la Cerda",
+        "MotherConcubineName": "Maria de la Cerda",
+        "CountryID": "200008",
+        "Gender": "Female",
+        "Age": "12",
+        "Military": "20",
+        "Political": "50",
+        "Charisma": "65"
+      }
+    },
+    {
+      "row_number": 18,
+      "data": {
+        "ChildName": "Tamaquan",
+        "MotherConcubineName": "Celestian",
+        "CountryID": "200007",
+        "Gender": "Male",
+        "Age": "13",
+        "Military": "40",
+        "Political": "45",
+        "Charisma": "55"
+      }
+    },
+    {
+      "row_number": 19,
+      "data": {
+        "ChildName": "Wakan",
+        "MotherConcubineName": "Celestian",
+        "CountryID": "200007",
+        "Gender": "Female",
+        "Age": "11",
+        "Military": "25",
+        "Political": "40",
+        "Charisma": "65"
+      }
+    },
+    {
+      "row_number": 20,
+      "data": {
+        "ChildName": "Joao Pedro de Braganza",
+        "MotherConcubineName": "Mariana Victoria de Braganza",
+        "CountryID": "200009",
+        "Gender": "Male",
+        "Age": "13",
+        "Military": "45",
+        "Political": "60",
+        "Charisma": "65"
+      }
+    },
+    {
+      "row_number": 21,
+      "data": {
+        "ChildName": "Maria Francisca de Braganza",
+        "MotherConcubineName": "Mariana Victoria de Braganza",
+        "CountryID": "200009",
+        "Gender": "Female",
+        "Age": "11",
+        "Military": "20",
+        "Political": "55",
+        "Charisma": "70"
+      }
+    },
+    {
+      "row_number": 22,
+      "data": {
+        "ChildName": "Catrileo",
+        "MotherConcubineName": "Guenole",
+        "CountryID": "200010",
+        "Gender": "Male",
+        "Age": "13",
+        "Military": "55",
+        "Political": "40",
+        "Charisma": "55"
+      }
+    },
+    {
+      "row_number": 23,
+      "data": {
+        "ChildName": "Mawlidha",
+        "MotherConcubineName": "Guenole",
+        "CountryID": "200010",
+        "Gender": "Female",
+        "Age": "11",
+        "Military": "25",
+        "Political": "45",
+        "Charisma": "65"
+      }
+    },
+    {
+      "row_number": 24,
+      "data": {
+        "ChildName": "Jose Pedro de la Cerda",
+        "MotherConcubineName": "Maria de la Cerda",
+        "CountryID": "200011",
+        "Gender": "Male",
+        "Age": "13",
+        "Military": "45",
+        "Political": "60",
+        "Charisma": "65"
+      }
+    },
+    {
+      "row_number": 25,
+      "data": {
+        "ChildName": "Maria Isabel de la Cerda",
+        "MotherConcubineName": "Maria de la Cerda",
+        "CountryID": "200011",
+        "Gender": "Female",
+        "Age": "11",
+        "Military": "22",
+        "Political": "55",
+        "Charisma": "70"
+      }
+    },
+    {
+      "row_number": 26,
+      "data": {
+        "ChildName": "Ariruma",
+        "MotherConcubineName": "Mboi Yrupe",
+        "CountryID": "200012",
+        "Gender": "Male",
+        "Age": "13",
+        "Military": "45",
+        "Political": "40",
+        "Charisma": "50"
+      }
+    },
+    {
+      "row_number": 27,
+      "data": {
+        "ChildName": "Ykua Guasu",
+        "MotherConcubineName": "Mboi Yrupe",
+        "CountryID": "200012",
+        "Gender": "Female",
+        "Age": "11",
+        "Military": "20",
+        "Political": "45",
+        "Charisma": "60"
+      }
+    }
+  ]
+}

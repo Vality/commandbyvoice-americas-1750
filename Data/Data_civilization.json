@@ -1,0 +1,55 @@
+{
+    "num_columns": 3,
+    "headers": [
+        "CivilizationID",
+        "CivilizationName",
+        "NeedCostBook"
+    ],
+    "field_types": {
+        "CivilizationID": "int",
+        "CivilizationName": "string",
+        "NeedCostBook": "int"
+    },
+    "rows": [
+        {
+            "row_number": 4,
+            "data": {
+                "CivilizationID": "10100",
+                "CivilizationName": "TECH_CAT_SCIENCE",
+                "NeedCostBook": "0"
+            }
+        },
+        {
+            "row_number": 5,
+            "data": {
+                "CivilizationID": "10200",
+                "CivilizationName": "TECH_CAT_INDUSTRY",
+                "NeedCostBook": "0"
+            }
+        },
+        {
+            "row_number": 6,
+            "data": {
+                "CivilizationID": "10300",
+                "CivilizationName": "TECH_CAT_MILITARY",
+                "NeedCostBook": "0"
+            }
+        },
+        {
+            "row_number": 7,
+            "data": {
+                "CivilizationID": "10400",
+                "CivilizationName": "TECH_CAT_ADMIN",
+                "NeedCostBook": "0"
+            }
+        },
+        {
+            "row_number": 8,
+            "data": {
+                "CivilizationID": "10500",
+                "CivilizationName": "TECH_CAT_ECONOMY",
+                "NeedCostBook": "0"
+            }
+        }
+    ]
+}

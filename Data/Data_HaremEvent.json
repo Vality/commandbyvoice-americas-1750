@@ -1,0 +1,199 @@
+{
+  "num_columns": 15,
+  "headers": [
+    "eventID",
+    "eventName",
+    "eventDescription",
+    "eventType",
+    "relatedConcubineID",
+    "choices1_choiceText",
+    "choices1_favorChange",
+    "choices1_buffID",
+    "choices1_buffDuration",
+    "choices1_resourceChange",
+    "choices2_favorChange",
+    "choices2_buffID",
+    "choices2_buffDuration",
+    "choices2_resourceChange",
+    "choices2_"
+  ],
+  "field_types": {
+    "eventID": "int",
+    "eventName": "string",
+    "eventDescription": "string",
+    "eventType": "string",
+    "relatedConcubineID": "int",
+    "choices1_choiceText": "string",
+    "choices1_favorChange": "string",
+    "choices1_buffID": "string",
+    "choices1_buffDuration": "int",
+    "choices1_resourceChange": "string",
+    "choices2_favorChange": "string",
+    "choices2_buffID": "int",
+    "choices2_buffDuration": "string",
+    "choices2_resourceChange": "int",
+    "choices2_": "string"
+  },
+  "rows": [
+    {
+      "row_number": 4,
+      "data": {
+        "eventID": "1",
+        "eventName": "Brother's Service at the Frontier",
+        "eventDescription": "A concubine's brother has distinguished himself at the frontier fort. Will you promote him?",
+        "eventType": "Family",
+        "relatedConcubineID": "-1",
+        "choices1_choiceText": "Grant him a commission (Favor +20, family_buff doubled for 1 year)",
+        "choices1_favorChange": "20",
+        "choices1_buffID": "family_promotion",
+        "choices1_buffDuration": "1",
+        "choices1_resourceChange": "null",
+        "choices2_favorChange": "Refuse the request (Favor -10, gain integrity_buff: soldier attack +3%)",
+        "choices2_buffID": "-10",
+        "choices2_buffDuration": "integrity_buff",
+        "choices2_resourceChange": "3",
+        "choices2_": "null"
+      }
+    },
+    {
+      "row_number": 5,
+      "data": {
+        "eventID": "2",
+        "eventName": "Family in Distress",
+        "eventDescription": "A concubine's family has lost its harvest to drought and asks for famine relief. Will you send aid?",
+        "eventType": "Family",
+        "relatedConcubineID": "-1",
+        "choices1_choiceText": "Send a relief shipment (Favor +15, cost 5000 coin)",
+        "choices1_favorChange": "15",
+        "choices1_buffID": "null",
+        "choices1_buffDuration": "0",
+        "choices1_resourceChange": "{\"resourceType\":\"coin\",\"amount\":-5000}",
+        "choices2_favorChange": "Politely decline (Favor -5, no other effect)",
+        "choices2_buffID": "-5",
+        "choices2_buffDuration": "null",
+        "choices2_resourceChange": "0",
+        "choices2_": "0"
+      }
+    },
+    {
+      "row_number": 6,
+      "data": {
+        "eventID": "3",
+        "eventName": "A Dance for the Salon",
+        "eventDescription": "A concubine performs a stately dance at the governor's salon. Will you grant her a manor?",
+        "eventType": "Art",
+        "relatedConcubineID": "-1",
+        "choices1_choiceText": "Grant her a manor (Favor +15, harvest_buff: grain yield +10%)",
+        "choices1_favorChange": "15",
+        "choices1_buffID": "harvest_buff",
+        "choices1_buffDuration": "2",
+        "choices1_resourceChange": "null",
+        "choices2_favorChange": "Praise her performance (Favor +5, no other effect)",
+        "choices2_buffID": "5",
+        "choices2_buffDuration": "null",
+        "choices2_resourceChange": "0",
+        "choices2_": "0"
+      }
+    },
+    {
+      "row_number": 7,
+      "data": {
+        "eventID": "4",
+        "eventName": "Recital of Verses",
+        "eventDescription": "A concubine has won the colonial poetry contest. Will you reward her with jewels?",
+        "eventType": "Art",
+        "relatedConcubineID": "-1",
+        "choices1_choiceText": "Reward her with jewels (Favor +10, cost 3000 coin)",
+        "choices1_favorChange": "10",
+        "choices1_buffID": "null",
+        "choices1_buffDuration": "0",
+        "choices1_resourceChange": "{\"resourceType\":\"coin\",\"amount\":-3000}",
+        "choices2_favorChange": "Bestow a title (Favor +12, culture_buff: knowledge yield +5%)",
+        "choices2_buffID": "12",
+        "choices2_buffDuration": "culture_buff",
+        "choices2_resourceChange": "3",
+        "choices2_": "0"
+      }
+    },
+    {
+      "row_number": 8,
+      "data": {
+        "eventID": "5",
+        "eventName": "Rivalry in the Household",
+        "eventDescription": "Two concubines are at each other's throats over precedence. How will you resolve it?",
+        "eventType": "Conflict",
+        "relatedConcubineID": "-1",
+        "choices1_choiceText": "Reward them both (both gain Favor +5, cost 6000 coin)",
+        "choices1_favorChange": "5",
+        "choices1_buffID": "null",
+        "choices1_buffDuration": "0",
+        "choices1_resourceChange": "{\"resourceType\":\"coin\",\"amount\":-6000}",
+        "choices2_favorChange": "Berate them both (both lose Favor -10, authority_buff: soldier attack +2%)",
+        "choices2_buffID": "-10",
+        "choices2_buffDuration": "authority_buff",
+        "choices2_resourceChange": "2",
+        "choices2_": "0"
+      }
+    },
+    {
+      "row_number": 9,
+      "data": {
+        "eventID": "6",
+        "eventName": "Plot in the Pantry",
+        "eventDescription": "A concubine has been accused of conspiring with the kitchen staff. Will you investigate?",
+        "eventType": "Conflict",
+        "relatedConcubineID": "-1",
+        "choices1_choiceText": "Investigate fully (Favor -15, purge_buff: morale +3%)",
+        "choices1_favorChange": "-15",
+        "choices1_buffID": "purge_buff",
+        "choices1_buffDuration": "3",
+        "choices1_resourceChange": "null",
+        "choices2_favorChange": "Let the matter rest (Favor +10, no other effect)",
+        "choices2_buffID": "10",
+        "choices2_buffDuration": "null",
+        "choices2_resourceChange": "0",
+        "choices2_": "0"
+      }
+    },
+    {
+      "row_number": 10,
+      "data": {
+        "eventID": "7",
+        "eventName": "Birthday Ball",
+        "eventDescription": "A concubine's nameday is at hand. Will you host a grand celebration?",
+        "eventType": "Art",
+        "relatedConcubineID": "-1",
+        "choices1_choiceText": "Host a grand ball (Favor +20, cost 10000 coin)",
+        "choices1_favorChange": "20",
+        "choices1_buffID": "null",
+        "choices1_buffDuration": "0",
+        "choices1_resourceChange": "{\"resourceType\":\"coin\",\"amount\":-10000}",
+        "choices2_favorChange": "A modest supper (Favor +8, cost 2000 coin)",
+        "choices2_buffID": "8",
+        "choices2_buffDuration": "null",
+        "choices2_resourceChange": "0",
+        "choices2_": "{\"resourceType\":\"coin\",\"amount\":-2000}"
+      }
+    },
+    {
+      "row_number": 11,
+      "data": {
+        "eventID": "8",
+        "eventName": "Letters from the Home Village",
+        "eventDescription": "A concubine born abroad has received letters from her home village. How will you comfort her?",
+        "eventType": "Family",
+        "relatedConcubineID": "-1",
+        "choices1_choiceText": "Send a return embassy (Favor +18, trade_mission_buff: trade revenue +5% for 2 years)",
+        "choices1_favorChange": "18",
+        "choices1_buffID": "trade_mission_buff",
+        "choices1_buffDuration": "2",
+        "choices1_resourceChange": "null",
+        "choices2_favorChange": "Speak gentle words (Favor +8, no other effect)",
+        "choices2_buffID": "8",
+        "choices2_buffDuration": "null",
+        "choices2_resourceChange": "0",
+        "choices2_": "0"
+      }
+    }
+  ]
+}

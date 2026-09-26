@@ -1,0 +1,35 @@
+{
+    "num_columns": 4,
+    "headers": [
+        "redDotId",
+        "description",
+        "dismissCondition",
+        "defaultVisible"
+    ],
+    "field_types": {
+        "redDotId": "string",
+        "description": "string",
+        "dismissCondition": "string",
+        "defaultVisible": "bool"
+    },
+    "rows": [
+        {
+            "row_number": 4,
+            "data": {
+                "redDotId": "counsel_button",
+                "description": "大臣议政按钮红点，玩家执行过一次议政后消失",
+                "dismissCondition": "counsel_executed",
+                "defaultVisible": "True"
+            }
+        },
+        {
+            "row_number": 5,
+            "data": {
+                "redDotId": "suggestion_library_button",
+                "description": "建议库按钮红点，玩家采纳过一次建议注入任意输入框后消失",
+                "dismissCondition": "suggestion_adopted",
+                "defaultVisible": "True"
+            }
+        }
+    ]
+}

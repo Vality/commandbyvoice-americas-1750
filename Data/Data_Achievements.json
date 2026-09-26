@@ -1,0 +1,1259 @@
+{
+  "num_columns": 10,
+  "headers": [
+    "AchievementID",
+    "TitleText",
+    "DescriptionText",
+    "AtmosphereImage",
+    "StoryHintText",
+    "Type",
+    "RewardType",
+    "RewardValue",
+    "IsHidden",
+    "Priority"
+  ],
+  "field_types": {
+    "AchievementID": "string",
+    "TitleText": "string",
+    "DescriptionText": "string",
+    "AtmosphereImage": "string",
+    "StoryHintText": "string",
+    "Type": "string",
+    "RewardType": "string",
+    "RewardValue": "string",
+    "IsHidden": "bool",
+    "Priority": "int"
+  },
+  "rows": [
+    {
+      "row_number": 4,
+      "data": {
+        "AchievementID": "ach_hanshui_flood",
+        "TitleText": "Royal Proclamation Line Held",
+        "DescriptionText": "A colonial story of the Americas, marker 1.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_水淹七军",
+        "StoryHintText": "Story hint 1.",
+        "Type": "StorySuccess",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "100"
+      }
+    },
+    {
+      "row_number": 5,
+      "data": {
+        "AchievementID": "ach_hanshou_return",
+        "TitleText": "Boston Merchants' Guild Founded",
+        "DescriptionText": "A colonial story of the Americas, marker 2.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_汉寿亭侯归来",
+        "StoryHintText": "Story hint 2.",
+        "Type": "StorySuccess",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "100"
+      }
+    },
+    {
+      "row_number": 6,
+      "data": {
+        "AchievementID": "ach_maicheng_open",
+        "TitleText": "Stamp Act Refused in Boston",
+        "DescriptionText": "A colonial story of the Americas, marker 3.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_麦城开门",
+        "StoryHintText": "Story hint 3.",
+        "Type": "StoryFailRewrite",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "95"
+      }
+    },
+    {
+      "row_number": 7,
+      "data": {
+        "AchievementID": "ach_yanren_alive",
+        "TitleText": "Continental Congress Convened",
+        "DescriptionText": "A colonial story of the Americas, marker 4.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_燕人未眠",
+        "StoryHintText": "Story hint 4.",
+        "Type": "StoryFailRewrite",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "95"
+      }
+    },
+    {
+      "row_number": 8,
+      "data": {
+        "AchievementID": "ach_taoyuan_oath",
+        "TitleText": "Albany Plan of Union Adopted",
+        "DescriptionText": "A colonial story of the Americas, marker 5.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_桃园未散",
+        "StoryHintText": "Story hint 5.",
+        "Type": "StorySuccess",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "90"
+      }
+    },
+    {
+      "row_number": 9,
+      "data": {
+        "AchievementID": "ach_fire_not_burn",
+        "TitleText": "Treaty of Paris Signed",
+        "DescriptionText": "A colonial story of the Americas, marker 6.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_火不连营",
+        "StoryHintText": "Story hint 6.",
+        "Type": "StoryFailRewrite",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "90"
+      }
+    },
+    {
+      "row_number": 10,
+      "data": {
+        "AchievementID": "ach_baidicheng_no_tears",
+        "TitleText": "Quebec Capitulation Witnessed",
+        "DescriptionText": "A colonial story of the Americas, marker 7.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_白帝无泪",
+        "StoryHintText": "Story hint 7.",
+        "Type": "StoryFailRewrite",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "90"
+      }
+    },
+    {
+      "row_number": 11,
+      "data": {
+        "AchievementID": "ach_hearts_conquered",
+        "TitleText": "Ohio Valley Skirmishes Won",
+        "DescriptionText": "A colonial story of the Americas, marker 8.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_攻心为上",
+        "StoryHintText": "Story hint 8.",
+        "Type": "StorySuccess",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "80"
+      }
+    },
+    {
+      "row_number": 12,
+      "data": {
+        "AchievementID": "ach_jieting_holds",
+        "TitleText": "Fort Necessity Stands",
+        "DescriptionText": "A colonial story of the Americas, marker 9.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_街亭不失",
+        "StoryHintText": "Story hint 9.",
+        "Type": "StoryFailRewrite",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "90"
+      }
+    },
+    {
+      "row_number": 13,
+      "data": {
+        "AchievementID": "ach_empty_city_qin",
+        "TitleText": "Iroquois Covenant Chain Renewed",
+        "DescriptionText": "A colonial story of the Americas, marker 10.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_琴声退万军",
+        "StoryHintText": "Story hint 10.",
+        "Type": "StoryFailRewrite",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "85"
+      }
+    },
+    {
+      "row_number": 14,
+      "data": {
+        "AchievementID": "ach_star_not_fall",
+        "TitleText": "Western Frontier Surveyed",
+        "DescriptionText": "A colonial story of the Americas, marker 11.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_星不落五丈原",
+        "StoryHintText": "Story hint 11.",
+        "Type": "CharacterAlive",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "100"
+      }
+    },
+    {
+      "row_number": 15,
+      "data": {
+        "AchievementID": "ach_jiu_fa_you_gui",
+        "TitleText": "Boston Tea Party Responded",
+        "DescriptionText": "A colonial story of the Americas, marker 12.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_九伐有归",
+        "StoryHintText": "Story hint 12.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "75"
+      }
+    },
+    {
+      "row_number": 16,
+      "data": {
+        "AchievementID": "ach_shudao_closed",
+        "TitleText": "Appalachian Gates Closed",
+        "DescriptionText": "A colonial story of the Americas, marker 13.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_蜀道未开",
+        "StoryHintText": "Story hint 13.",
+        "Type": "StoryFailRewrite",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "100"
+      }
+    },
+    {
+      "row_number": 17,
+      "data": {
+        "AchievementID": "ach_hanwang_jiawei",
+        "TitleText": "Sun Dance Ceremony Witnessed",
+        "DescriptionText": "A colonial story of the Americas, marker 14.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 14.",
+        "Type": "StorySuccess",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "80"
+      }
+    },
+    {
+      "row_number": 18,
+      "data": {
+        "AchievementID": "ach_zhaolie_dengji",
+        "TitleText": "Cherokee War Council Held",
+        "DescriptionText": "A colonial story of the Americas, marker 15.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 15.",
+        "Type": "StorySuccess",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "95"
+      }
+    },
+    {
+      "row_number": 19,
+      "data": {
+        "AchievementID": "ach_yongan_tuogu",
+        "TitleText": "Lakota Band Holds the Black Hills",
+        "DescriptionText": "A colonial story of the Americas, marker 16.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 16.",
+        "Type": "StorySuccess",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "90"
+      }
+    },
+    {
+      "row_number": 20,
+      "data": {
+        "AchievementID": "ach_houzhu_jiwei",
+        "TitleText": "Overhill Town Treaty Seated",
+        "DescriptionText": "A colonial story of the Americas, marker 17.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 17.",
+        "Type": "StorySuccess",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "70"
+      }
+    },
+    {
+      "row_number": 21,
+      "data": {
+        "AchievementID": "ach_qiqin_menghuo",
+        "TitleText": "Creek War Refugees Sheltered",
+        "DescriptionText": "A colonial story of the Americas, marker 18.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 18.",
+        "Type": "StorySuccess",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "85"
+      }
+    },
+    {
+      "row_number": 22,
+      "data": {
+        "AchievementID": "ach_du_lushui",
+        "TitleText": "Plains Bison Hunt Sustained",
+        "DescriptionText": "A colonial story of the Americas, marker 19.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 19.",
+        "Type": "StorySuccess",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "75"
+      }
+    },
+    {
+      "row_number": 23,
+      "data": {
+        "AchievementID": "ach_chushi_biao",
+        "TitleText": "Cherokee Phoenix Library Founded",
+        "DescriptionText": "A colonial story of the Americas, marker 20.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 20.",
+        "Type": "StorySuccess",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "85"
+      }
+    },
+    {
+      "row_number": 24,
+      "data": {
+        "AchievementID": "ach_san_jun_shou",
+        "TitleText": "Pilcomayo Crossing Holds",
+        "DescriptionText": "A colonial story of the Americas, marker 21.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 21.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "80"
+      }
+    },
+    {
+      "row_number": 25,
+      "data": {
+        "AchievementID": "ach_chencang_pojun",
+        "TitleText": "Rio de Janeiro Fleet Refitted",
+        "DescriptionText": "A colonial story of the Americas, marker 22.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 22.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "85"
+      }
+    },
+    {
+      "row_number": 26,
+      "data": {
+        "AchievementID": "ach_wudu_yinping",
+        "TitleText": "Parliament of Loncos Convened",
+        "DescriptionText": "A colonial story of the Americas, marker 23.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 23.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "80"
+      }
+    },
+    {
+      "row_number": 27,
+      "data": {
+        "AchievementID": "ach_lucheng_gemai",
+        "TitleText": "Lautaro's Ride Recounted",
+        "DescriptionText": "A colonial story of the Americas, marker 24.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 24.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "90"
+      }
+    },
+    {
+      "row_number": 28,
+      "data": {
+        "AchievementID": "ach_mumen_lashe",
+        "TitleText": "Parliamentary Council Held",
+        "DescriptionText": "A colonial story of the Americas, marker 25.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 25.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "85"
+      }
+    },
+    {
+      "row_number": 29,
+      "data": {
+        "AchievementID": "ach_shangfang_yuhuo",
+        "TitleText": "Mapuche Silver Mine Worked",
+        "DescriptionText": "A colonial story of the Americas, marker 26.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 26.",
+        "Type": "StoryFailRewrite",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "95"
+      }
+    },
+    {
+      "row_number": 30,
+      "data": {
+        "AchievementID": "ach_muniu_liuma",
+        "TitleText": "Mestizo Frontier Settlements",
+        "DescriptionText": "A colonial story of the Americas, marker 27.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 27.",
+        "Type": "StorySuccess",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "70"
+      }
+    },
+    {
+      "row_number": 31,
+      "data": {
+        "AchievementID": "ach_zhuge_lianbu",
+        "TitleText": "Parliament of Quilin Recounted",
+        "DescriptionText": "A colonial story of the Americas, marker 28.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 28.",
+        "Type": "StorySuccess",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "70"
+      }
+    },
+    {
+      "row_number": 32,
+      "data": {
+        "AchievementID": "ach_bazhen_chengtu",
+        "TitleText": "Mapuche Cavalry Raid Holds",
+        "DescriptionText": "A colonial story of the Americas, marker 29.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 29.",
+        "Type": "StorySuccess",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "75"
+      }
+    },
+    {
+      "row_number": 33,
+      "data": {
+        "AchievementID": "ach_kefu_changan",
+        "TitleText": "Wheat Harvest Blessed",
+        "DescriptionText": "A colonial story of the Americas, marker 30.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 30.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "100"
+      }
+    },
+    {
+      "row_number": 34,
+      "data": {
+        "AchievementID": "ach_huan_jiudu",
+        "TitleText": "Toqui Council at Concepción",
+        "DescriptionText": "A colonial story of the Americas, marker 31.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 31.",
+        "Type": "Unification",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "110"
+      }
+    },
+    {
+      "row_number": 35,
+      "data": {
+        "AchievementID": "ach_pingding_yongliang",
+        "TitleText": "Bio-Bio Frontier Held",
+        "DescriptionText": "A colonial story of the Americas, marker 32.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 32.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "95"
+      }
+    },
+    {
+      "row_number": 36,
+      "data": {
+        "AchievementID": "ach_jianmen_buguan",
+        "TitleText": "Cartagena Stands the Siege",
+        "DescriptionText": "A colonial story of the Americas, marker 33.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 33.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "80"
+      }
+    },
+    {
+      "row_number": 37,
+      "data": {
+        "AchievementID": "ach_hanzhong_tuntian",
+        "TitleText": "Viceroy Entertains the Creoles",
+        "DescriptionText": "A colonial story of the Americas, marker 34.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 34.",
+        "Type": "StorySuccess",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "65"
+      }
+    },
+    {
+      "row_number": 38,
+      "data": {
+        "AchievementID": "ach_jinguan_chengbo",
+        "TitleText": "Royal Decree on Trade",
+        "DescriptionText": "A colonial story of the Americas, marker 35.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 35.",
+        "Type": "StorySuccess",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "65"
+      }
+    },
+    {
+      "row_number": 39,
+      "data": {
+        "AchievementID": "ach_yizhou_buyibi",
+        "TitleText": "Comunero Rebellion Echo",
+        "DescriptionText": "A colonial story of the Americas, marker 36.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 36.",
+        "Type": "StorySuccess",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "80"
+      }
+    },
+    {
+      "row_number": 40,
+      "data": {
+        "AchievementID": "ach_zhushu_youdao",
+        "TitleText": "Cartagena Refortified",
+        "DescriptionText": "A colonial story of the Americas, marker 37.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 37.",
+        "Type": "StorySuccess",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "85"
+      }
+    },
+    {
+      "row_number": 41,
+      "data": {
+        "AchievementID": "ach_dujiang_chongxiu",
+        "TitleText": "Bogotá Cathedral Consecrated",
+        "DescriptionText": "A colonial story of the Americas, marker 38.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 38.",
+        "Type": "StorySuccess",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "70"
+      }
+    },
+    {
+      "row_number": 42,
+      "data": {
+        "AchievementID": "ach_dengzhi_jielian",
+        "TitleText": "Emerald Mine Reopened",
+        "DescriptionText": "A colonial story of the Americas, marker 39.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 39.",
+        "Type": "StorySuccess",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "80"
+      }
+    },
+    {
+      "row_number": 43,
+      "data": {
+        "AchievementID": "ach_wushu_xianggong",
+        "TitleText": "Quito Audiencia Convened",
+        "DescriptionText": "A colonial story of the Americas, marker 40.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 40.",
+        "Type": "StorySuccess",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "70"
+      }
+    },
+    {
+      "row_number": 44,
+      "data": {
+        "AchievementID": "ach_juqun_jincui",
+        "TitleText": "Chaco Band Migration Holds",
+        "DescriptionText": "A colonial story of the Americas, marker 41.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 41.",
+        "Type": "CharacterAlive",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "90"
+      }
+    },
+    {
+      "row_number": 45,
+      "data": {
+        "AchievementID": "ach_jiangfei_chengzhi",
+        "TitleText": "Frontier Treaty Negotiated",
+        "DescriptionText": "A colonial story of the Americas, marker 42.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 42.",
+        "Type": "StorySuccess",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "75"
+      }
+    },
+    {
+      "row_number": 46,
+      "data": {
+        "AchievementID": "ach_jiangwei_zhajiang",
+        "TitleText": "Honey and Wax Harvest",
+        "DescriptionText": "A colonial story of the Americas, marker 43.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 43.",
+        "Type": "StoryFailRewrite",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "95"
+      }
+    },
+    {
+      "row_number": 47,
+      "data": {
+        "AchievementID": "ach_beidiwang_cun",
+        "TitleText": "Cacao Plantations Flourish",
+        "DescriptionText": "A colonial story of the Americas, marker 44.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 44.",
+        "Type": "CharacterAlive",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "85"
+      }
+    },
+    {
+      "row_number": 48,
+      "data": {
+        "AchievementID": "ach_qiaozhou_shisheng",
+        "TitleText": "Carob Harvest Blessed",
+        "DescriptionText": "A colonial story of the Americas, marker 45.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 45.",
+        "Type": "StoryFailRewrite",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "90"
+      }
+    },
+    {
+      "row_number": 49,
+      "data": {
+        "AchievementID": "ach_huanghao_chichao",
+        "TitleText": "Wichí Trade Fair at Pilcomayo",
+        "DescriptionText": "A colonial story of the Americas, marker 46.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 46.",
+        "Type": "StoryFailRewrite",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "80"
+      }
+    },
+    {
+      "row_number": 50,
+      "data": {
+        "AchievementID": "ach_houzhu_burang",
+        "TitleText": "Colonial Customs House Erected",
+        "DescriptionText": "A colonial story of the Americas, marker 47.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 47.",
+        "Type": "StoryFailRewrite",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "95"
+      }
+    },
+    {
+      "row_number": 51,
+      "data": {
+        "AchievementID": "ach_zhonghui_fanwei",
+        "TitleText": "Frontier Fortifications Raised",
+        "DescriptionText": "A colonial story of the Americas, marker 48.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 48.",
+        "Type": "StoryFailRewrite",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "95"
+      }
+    },
+    {
+      "row_number": 52,
+      "data": {
+        "AchievementID": "ach_yanjun_zimou",
+        "TitleText": "Stratagem of the Frontier Counsel",
+        "DescriptionText": "A colonial story of the Americas, marker 49.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 49.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "85"
+      }
+    },
+    {
+      "row_number": 53,
+      "data": {
+        "AchievementID": "ach_liaohua_xianfeng",
+        "TitleText": "Guayacán Wood Cut",
+        "DescriptionText": "A colonial story of the Americas, marker 50.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 50.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "65"
+      }
+    },
+    {
+      "row_number": 54,
+      "data": {
+        "AchievementID": "ach_guanxing_zhangbao",
+        "TitleText": "Viceroyalty Treasury Audited",
+        "DescriptionText": "A colonial story of the Americas, marker 51.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 51.",
+        "Type": "CharacterAlive",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "75"
+      }
+    },
+    {
+      "row_number": 55,
+      "data": {
+        "AchievementID": "ach_wuhu_zaixian",
+        "TitleText": "Five Lakes Council Reconvened",
+        "DescriptionText": "A colonial story of the Americas, marker 52.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 52.",
+        "Type": "CharacterAlive",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "80"
+      }
+    },
+    {
+      "row_number": 56,
+      "data": {
+        "AchievementID": "ach_xiangfan_zaizhen",
+        "TitleText": "Frontier Garrison Reestablished",
+        "DescriptionText": "A colonial story of the Americas, marker 53.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 53.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "95"
+      }
+    },
+    {
+      "row_number": 57,
+      "data": {
+        "AchievementID": "ach_jingzhou_chonggui",
+        "TitleText": "Medicinal Plants Gathered",
+        "DescriptionText": "A colonial story of the Americas, marker 54.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 54.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "95"
+      }
+    },
+    {
+      "row_number": 58,
+      "data": {
+        "AchievementID": "ach_jiangdong_chenfu",
+        "TitleText": "Guaycuruan Migration",
+        "DescriptionText": "A colonial story of the Americas, marker 55.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 55.",
+        "Type": "Unification",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "105"
+      }
+    },
+    {
+      "row_number": 59,
+      "data": {
+        "AchievementID": "ach_wei_fancheng_holds",
+        "TitleText": "Fort Carillon Holds Against the Siege",
+        "DescriptionText": "A colonial story of the Americas, marker 56.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_樊城不坠",
+        "StoryHintText": "Story hint 56.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "95"
+      }
+    },
+    {
+      "row_number": 60,
+      "data": {
+        "AchievementID": "ach_wei_shanrang_cheng",
+        "TitleText": "Sachem Surrenders the Frontier",
+        "DescriptionText": "A colonial story of the Americas, marker 57.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_魏受汉禅",
+        "StoryHintText": "Story hint 57.",
+        "Type": "StoryRewrite",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "95"
+      }
+    },
+    {
+      "row_number": 61,
+      "data": {
+        "AchievementID": "ach_wei_sanxian_chiguo",
+        "TitleText": "Three Nations Convene the Council",
+        "DescriptionText": "A colonial story of the Americas, marker 58.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_三线持国",
+        "StoryHintText": "Story hint 58.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "85"
+      }
+    },
+    {
+      "row_number": 62,
+      "data": {
+        "AchievementID": "ach_wei_mingdi_wending",
+        "TitleText": "Audiencia Justice Administered",
+        "DescriptionText": "A colonial story of the Americas, marker 59.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_明帝定朝",
+        "StoryHintText": "Story hint 59.",
+        "Type": "CharacterAlive",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "75"
+      }
+    },
+    {
+      "row_number": 63,
+      "data": {
+        "AchievementID": "ach_wei_jieting_fanji",
+        "TitleText": "Counter-Raid at the Frontier",
+        "DescriptionText": "A colonial story of the Americas, marker 60.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_街亭反击",
+        "StoryHintText": "Story hint 60.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "95"
+      }
+    },
+    {
+      "row_number": 64,
+      "data": {
+        "AchievementID": "ach_wei_xicheng_shipo",
+        "TitleText": "Western Frontier Post Stormed",
+        "DescriptionText": "A colonial story of the Americas, marker 61.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_西城识破",
+        "StoryHintText": "Story hint 61.",
+        "Type": "StoryFailRewrite",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "85"
+      }
+    },
+    {
+      "row_number": 65,
+      "data": {
+        "AchievementID": "ach_wei_weishui_budong",
+        "TitleText": "Western Waters Garrisoned",
+        "DescriptionText": "A colonial story of the Americas, marker 62.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_渭水不动",
+        "StoryHintText": "Story hint 62.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "90"
+      }
+    },
+    {
+      "row_number": 66,
+      "data": {
+        "AchievementID": "ach_wei_liaodong_ping",
+        "TitleText": "Eastern Frontier Pacified",
+        "DescriptionText": "A colonial story of the Americas, marker 63.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_辽东平定",
+        "StoryHintText": "Story hint 63.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "85"
+      }
+    },
+    {
+      "row_number": 67,
+      "data": {
+        "AchievementID": "ach_wei_gaopingling_zhiheng",
+        "TitleText": "Highland Stronghold Holds",
+        "DescriptionText": "A colonial story of the Americas, marker 64.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_高平陵制衡",
+        "StoryHintText": "Story hint 64.",
+        "Type": "StoryFailRewrite",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "100"
+      }
+    },
+    {
+      "row_number": 68,
+      "data": {
+        "AchievementID": "ach_wei_huainan_pingpan",
+        "TitleText": "Southern Marches Pacified",
+        "DescriptionText": "A colonial story of the Americas, marker 65.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_淮南息兵",
+        "StoryHintText": "Story hint 65.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "90"
+      }
+    },
+    {
+      "row_number": 69,
+      "data": {
+        "AchievementID": "ach_wei_mieshu_chenggong",
+        "TitleText": "Rival Confederacy Dismantled",
+        "DescriptionText": "A colonial story of the Americas, marker 66.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_钟邓入蜀",
+        "StoryHintText": "Story hint 66.",
+        "Type": "Unification",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "105"
+      }
+    },
+    {
+      "row_number": 70,
+      "data": {
+        "AchievementID": "ach_wei_chengdu_dingluan",
+        "TitleText": "Provincial Disturbance Quelled",
+        "DescriptionText": "A colonial story of the Americas, marker 67.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_成都定乱",
+        "StoryHintText": "Story hint 67.",
+        "Type": "StoryFailRewrite",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "95"
+      }
+    },
+    {
+      "row_number": 71,
+      "data": {
+        "AchievementID": "ach_wei_jin_daidai",
+        "TitleText": "Audiencia Justice Endures",
+        "DescriptionText": "A colonial story of the Americas, marker 68.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_魏晋递代",
+        "StoryHintText": "Story hint 68.",
+        "Type": "Unification",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "105"
+      }
+    },
+    {
+      "row_number": 72,
+      "data": {
+        "AchievementID": "ach_wu_jingzhou_ding",
+        "TitleText": "Frontier Circuit Court Seated",
+        "DescriptionText": "A colonial story of the Americas, marker 69.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_荆州归吴",
+        "StoryHintText": "Story hint 69.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "100"
+      }
+    },
+    {
+      "row_number": 73,
+      "data": {
+        "AchievementID": "ach_wu_maicheng_luowang",
+        "TitleText": "Cavalcade Returns to the Capital",
+        "DescriptionText": "A colonial story of the Americas, marker 70.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_麦城落网",
+        "StoryHintText": "Story hint 70.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "90"
+      }
+    },
+    {
+      "row_number": 74,
+      "data": {
+        "AchievementID": "ach_wu_yiling_sheng",
+        "TitleText": "Battlefield Won on the Frontier",
+        "DescriptionText": "A colonial story of the Americas, marker 71.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_夷陵拒蜀",
+        "StoryHintText": "Story hint 71.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "95"
+      }
+    },
+    {
+      "row_number": 75,
+      "data": {
+        "AchievementID": "ach_wu_xiaoting_huogong",
+        "TitleText": "Fire-Tactic at the Stockade",
+        "DescriptionText": "A colonial story of the Americas, marker 72.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_猇亭火攻",
+        "StoryHintText": "Story hint 72.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "100"
+      }
+    },
+    {
+      "row_number": 76,
+      "data": {
+        "AchievementID": "ach_wu_wushu_fumeng",
+        "TitleText": "Warlike Counsel Heeded",
+        "DescriptionText": "A colonial story of the Americas, marker 73.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_吴蜀复盟",
+        "StoryHintText": "Story hint 73.",
+        "Type": "Diplomacy",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "85"
+      }
+    },
+    {
+      "row_number": 77,
+      "data": {
+        "AchievementID": "ach_wu_shiting_dajie",
+        "TitleText": "Capital Parade Held",
+        "DescriptionText": "A colonial story of the Americas, marker 74.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_石亭大捷",
+        "StoryHintText": "Story hint 74.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "95"
+      }
+    },
+    {
+      "row_number": 78,
+      "data": {
+        "AchievementID": "ach_wu_jiandong_chengdi",
+        "TitleText": "Eastern Marches Established",
+        "DescriptionText": "A colonial story of the Americas, marker 75.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_江东建号",
+        "StoryHintText": "Story hint 75.",
+        "Type": "StoryRewrite",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "90"
+      }
+    },
+    {
+      "row_number": 79,
+      "data": {
+        "AchievementID": "ach_wu_hefei_qianzhi",
+        "TitleText": "Frontier Emplacement Built",
+        "DescriptionText": "A colonial story of the Americas, marker 76.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_合肥牵制",
+        "StoryHintText": "Story hint 76.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "80"
+      }
+    },
+    {
+      "row_number": 80,
+      "data": {
+        "AchievementID": "ach_wu_ergong_zhixi",
+        "TitleText": "Two Works Completed",
+        "DescriptionText": "A colonial story of the Americas, marker 77.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_二宫止息",
+        "StoryHintText": "Story hint 77.",
+        "Type": "StoryFailRewrite",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "100"
+      }
+    },
+    {
+      "row_number": 81,
+      "data": {
+        "AchievementID": "ach_wu_dongxing_jiebao",
+        "TitleText": "Eastern Marches Reported",
+        "DescriptionText": "A colonial story of the Americas, marker 78.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_东兴捷报",
+        "StoryHintText": "Story hint 78.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "85"
+      }
+    },
+    {
+      "row_number": 82,
+      "data": {
+        "AchievementID": "ach_wu_huainan_yuanjun",
+        "TitleText": "Southern Frontier Army Raised",
+        "DescriptionText": "A colonial story of the Americas, marker 79.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_援淮得利",
+        "StoryHintText": "Story hint 79.",
+        "Type": "WarVictory",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "80"
+      }
+    },
+    {
+      "row_number": 83,
+      "data": {
+        "AchievementID": "ach_wu_shuwang_jiangfang",
+        "TitleText": "Viceroyal Decree Issued",
+        "DescriptionText": "A colonial story of the Americas, marker 80.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_蜀亡江防",
+        "StoryHintText": "Story hint 80.",
+        "Type": "StoryFailRewrite",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "95"
+      }
+    },
+    {
+      "row_number": 84,
+      "data": {
+        "AchievementID": "ach_wu_changjiang_bushou",
+        "TitleText": "Long Reach Garrisoned",
+        "DescriptionText": "A colonial story of the Americas, marker 81.",
+        "AtmosphereImage": "ArtResources/Image/Achievements/ui_achievement_长江不守",
+        "StoryHintText": "Story hint 81.",
+        "Type": "Unification",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "110"
+      }
+    },
+    {
+      "row_number": 85,
+      "data": {
+        "AchievementID": "ach_han_restored",
+        "TitleText": "Great Chaco Crossing Survived",
+        "DescriptionText": "A colonial story of the Americas, marker 82.",
+        "AtmosphereImage": null,
+        "StoryHintText": "Story hint 82.",
+        "Type": "Unification",
+        "RewardType": null,
+        "RewardValue": null,
+        "IsHidden": "True",
+        "Priority": "110"
+      }
+    }
+  ]
+}

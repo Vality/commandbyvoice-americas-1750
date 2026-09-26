@@ -1,0 +1,71 @@
+{
+    "num_columns": 7,
+    "headers": [
+        "DifficultyLevel",
+        "DifficultyKey",
+        "InitCoefficient",
+        "AnnualCoefficient",
+        "PlayerDefaultMoney",
+        "EnemyCombatPowerMultiplier",
+        "CityGuardSoldierMultiplier"
+    ],
+    "field_types": {
+        "DifficultyLevel": "int",
+        "DifficultyKey": "string",
+        "InitCoefficient": "float",
+        "AnnualCoefficient": "float",
+        "PlayerDefaultMoney": "string",
+        "EnemyCombatPowerMultiplier": "float",
+        "CityGuardSoldierMultiplier": "float"
+    },
+    "rows": [
+        {
+            "row_number": 4,
+            "data": {
+                "DifficultyLevel": "0",
+                "DifficultyKey": "easy",
+                "InitCoefficient": "0.7",
+                "AnnualCoefficient": "1",
+                "PlayerDefaultMoney": "coin,603102|military,60|control,75|prestige,85|corruption,20|order,10000|favor,5",
+                "EnemyCombatPowerMultiplier": "1.2",
+                "CityGuardSoldierMultiplier": "1.2"
+            }
+        },
+        {
+            "row_number": 5,
+            "data": {
+                "DifficultyLevel": "1",
+                "DifficultyKey": "simple",
+                "InitCoefficient": "1.2",
+                "AnnualCoefficient": "1.5",
+                "PlayerDefaultMoney": "coin,553102|military,55|control,65|prestige,75|corruption,40|order,10000|favor,5",
+                "EnemyCombatPowerMultiplier": "1.8",
+                "CityGuardSoldierMultiplier": "1.8"
+            }
+        },
+        {
+            "row_number": 6,
+            "data": {
+                "DifficultyLevel": "2",
+                "DifficultyKey": "normal",
+                "InitCoefficient": "1.3",
+                "AnnualCoefficient": "2",
+                "PlayerDefaultMoney": "coin,503102|military,50|control,50|prestige,50|corruption,50|order,10000|favor,5",
+                "EnemyCombatPowerMultiplier": "2.5",
+                "CityGuardSoldierMultiplier": "2.5"
+            }
+        },
+        {
+            "row_number": 7,
+            "data": {
+                "DifficultyLevel": "3",
+                "DifficultyKey": "hard",
+                "InitCoefficient": "1.5",
+                "AnnualCoefficient": "3",
+                "PlayerDefaultMoney": "coin,453102|military,45|control,45|prestige,45|corruption,60|order,10000|favor,5",
+                "EnemyCombatPowerMultiplier": "4",
+                "CityGuardSoldierMultiplier": "4"
+            }
+        }
+    ]
+}

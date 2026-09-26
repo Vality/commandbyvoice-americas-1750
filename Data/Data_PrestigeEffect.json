@@ -1,0 +1,83 @@
+{
+    "num_columns": 7,
+    "headers": [
+        "MinPrestige",
+        "MaxPrestige",
+        "TierNameKey",
+        "RefuseRate",
+        "DisobeyRate",
+        "NormalRate",
+        "ExcellentRate"
+    ],
+    "field_types": {
+        "MinPrestige": "int",
+        "MaxPrestige": "int",
+        "TierNameKey": "string",
+        "RefuseRate": "float",
+        "DisobeyRate": "float",
+        "NormalRate": "float",
+        "ExcellentRate": "float"
+    },
+    "rows": [
+        {
+            "row_number": 4,
+            "data": {
+                "MinPrestige": "0",
+                "MaxPrestige": "19",
+                "TierNameKey": "Prestige_Tier_Puppet",
+                "RefuseRate": "35",
+                "DisobeyRate": "35",
+                "NormalRate": "30",
+                "ExcellentRate": "0"
+            }
+        },
+        {
+            "row_number": 5,
+            "data": {
+                "MinPrestige": "20",
+                "MaxPrestige": "39",
+                "TierNameKey": "Prestige_Tier_Weak",
+                "RefuseRate": "25",
+                "DisobeyRate": "35",
+                "NormalRate": "38",
+                "ExcellentRate": "2"
+            }
+        },
+        {
+            "row_number": 6,
+            "data": {
+                "MinPrestige": "40",
+                "MaxPrestige": "59",
+                "TierNameKey": "Prestige_Tier_Moderate",
+                "RefuseRate": "10",
+                "DisobeyRate": "20",
+                "NormalRate": "65",
+                "ExcellentRate": "5"
+            }
+        },
+        {
+            "row_number": 7,
+            "data": {
+                "MinPrestige": "60",
+                "MaxPrestige": "79",
+                "TierNameKey": "Prestige_Tier_Strong",
+                "RefuseRate": "0",
+                "DisobeyRate": "15",
+                "NormalRate": "70",
+                "ExcellentRate": "15"
+            }
+        },
+        {
+            "row_number": 8,
+            "data": {
+                "MinPrestige": "80",
+                "MaxPrestige": "100",
+                "TierNameKey": "Prestige_Tier_Supreme",
+                "RefuseRate": "0",
+                "DisobeyRate": "0",
+                "NormalRate": "70",
+                "ExcellentRate": "30"
+            }
+        }
+    ]
+}
